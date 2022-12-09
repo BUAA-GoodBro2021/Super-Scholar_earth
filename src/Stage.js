@@ -529,12 +529,17 @@ export default class Stage {
         if (this.dataItem == t)
             return;
         this.dataItem = t;
-        const {uol: e, uml: n, l: i, type: r, body: s, header: o, nwo: c, pr: h, ma: u, oa: d} = t;
+        
+        const {uol: e, uml: n, l: i, type: r, body: s, header: o, nwo: c, pr: h, ma: u, oa: d,
+            author_count: author_count,
+            institution_count:institution_count,
+            work_count:work_count
+        } = t;
         let f = u || d;
         f && (f = f.replace(" ", "T"),
         f = f.includes("Z") ? f : f.concat("-08:00"),
         f = Date.parse(f)),
-        c && h && (this.dataItem.url = `https://github.com/${c}/pull/${h}`),
+        c && h && (this.dataItem.url = `https://scholar.super2021.com/`),
         this.dataInfo.setInfo({
             user_opened_location: e,
             user_merged_location: n,
@@ -545,7 +550,10 @@ export default class Stage {
             type: r,
             body: s,
             header: o,
-            url: this.dataItem.url
+            url: this.dataItem.url,
+            author_count,
+            institution_count,
+            work_count
         })
     }
     testForDataIntersection() {
@@ -600,12 +608,12 @@ export default class Stage {
                     if ("arcticCodeVault" === n.name) {
                         console.log("n",n);
                         r = {
-                            header: "卡片Header",
-                            body: "卡片body",
+                            header: "Super Scholar",
+                            body: "专业的学术分享平台",
                             type: pl,
                             url: "https://scholar.super2021.com/"
                         },
-                        // this.highlightArcticCodeVault(),
+                        this.highlightArcticCodeVault(),
                         s = !0;
                         break
                     }

@@ -1,3963 +1,5127 @@
 [
   {
-    "uml": "France",
+    "uml": "Andorra",
     "gm": {
-      "lat": 47.8249046208979,
-      "lon": 2.61878695312962
+      "lat": 42.546245,
+      "lon": 1.601554
     },
-    "uol": "France",
+    "key": "AD",
+    "uol": "Andorra",
     "gop": {
-      "lat": 47.8249046208979,
-      "lon": 2.61878695312962
+      "lat": 42.546245,
+      "lon": 1.601554
     },
-    "l": "C#",
-    "nwo": "aura-systems/Aura-Operating-System",
-    "pr": 135,
-    "ma": "2020-12-14 18:35:55.000",
-    "oa": "2020-11-02 06:47:28.000"
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1001",
+    "pr": 1001,
+    "ma": "2022-12-10 02:09:38",
+    "oa": "2022-12-10 02:09:38"
   },
   {
-    "uml": "Texas",
+    "uml": "United Arab Emirates",
     "gm": {
-      "lat": 31.8039734986,
-      "lon": -98.8223185136653
+      "lat": 23.424076,
+      "lon": 53.847818
     },
-    "uol": "Texas",
+    "key": "AE",
+    "uol": "United Arab Emirates",
     "gop": {
-      "lat": 31.8039734986,
-      "lon": -98.8223185136653
+      "lat": 23.424076,
+      "lon": 53.847818
     },
-    "l": "TypeScript",
-    "nwo": "ionic-team/capacitor",
-    "pr": 3778,
-    "ma": "2020-12-14 16:35:54.000",
-    "oa": "2020-11-08 14:13:48.000"
+    "author_count": 59370,
+    "institution_count": 116,
+    "work_count": 93465,
+    "l": "Python",
+    "nwo": "1002",
+    "pr": 1002,
+    "ma": "2022-12-10 02:10:55",
+    "oa": "2022-12-10 02:10:55"
   },
   {
-    "uml": "San Francisco",
+    "uml": "Afghanistan",
     "gm": {
-      "lat": 37.7648,
-      "lon": -122.463
+      "lat": 33.93911,
+      "lon": 67.709953
     },
-    "uol": "San Francisco",
+    "key": "AF",
+    "uol": "Afghanistan",
     "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
+      "lat": 33.93911,
+      "lon": 67.709953
     },
-    "l": "TypeScript",
-    "nwo": "hyperledger/cactus",
-    "pr": 382,
-    "ma": "2020-12-14 19:59:01.000",
-    "oa": "2020-11-10 09:31:40.000"
+    "author_count": 3152,
+    "institution_count": 38,
+    "work_count": 3165,
+    "l": "Python",
+    "nwo": "1003",
+    "pr": 1003,
+    "ma": "2022-12-10 02:11:06",
+    "oa": "2022-12-10 02:11:06"
   },
   {
-    "uml": "San Francisco",
+    "uml": "Antigua and Barbuda",
     "gm": {
-      "lat": 37.7648,
-      "lon": -122.463
+      "lat": 17.060816,
+      "lon": -61.796428
     },
-    "uol": "San Francisco",
+    "key": "AG",
+    "uol": "Antigua and Barbuda",
     "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
+      "lat": 17.060816,
+      "lon": -61.796428
     },
-    "l": "TypeScript",
-    "nwo": "hyperledger/cactus",
-    "pr": 384,
-    "ma": "2020-12-14 20:06:40.000",
-    "oa": "2020-11-10 11:33:23.000"
+    "author_count": 7572,
+    "institution_count": 3,
+    "work_count": 4749,
+    "l": "Python",
+    "nwo": "1004",
+    "pr": 1004,
+    "ma": "2022-12-10 02:08:20",
+    "oa": "2022-12-10 02:08:20"
   },
   {
-    "uml": "South Korea",
+    "uml": "Anguilla",
     "gm": {
-      "lat": 36.5362364654109,
-      "lon": 128.168944342317
+      "lat": 18.220554,
+      "lon": -63.068615
     },
-    "uol": "South Korea",
+    "key": "AI",
+    "uol": "Anguilla",
     "gop": {
-      "lat": 36.5362364654109,
-      "lon": 128.168944342317
+      "lat": 18.220554,
+      "lon": -63.068615
     },
-    "l": "C",
-    "nwo": "nnstreamer/nnstreamer",
-    "pr": 2870,
-    "ma": "2020-12-14 16:28:46.000",
-    "oa": "2020-11-12 01:58:56.000"
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1005",
+    "pr": 1005,
+    "ma": "2022-12-10 02:09:15",
+    "oa": "2022-12-10 02:09:15"
   },
   {
-    "uml": "India",
+    "uml": "Albania",
     "gm": {
-      "lat": 22.1991660760527,
-      "lon": 78.476681027237
+      "lat": 41.153332,
+      "lon": 20.168331
     },
-    "uol": "India",
+    "key": "AL",
+    "uol": "Albania",
     "gop": {
-      "lat": 22.1991660760527,
-      "lon": 78.476681027237
+      "lat": 41.153332,
+      "lon": 20.168331
     },
-    "l": "HTML",
-    "nwo": "OriginProtocol/origin-website",
-    "pr": 560,
-    "ma": "2020-12-14 19:23:27.000",
-    "oa": "2020-11-14 19:52:50.000"
+    "author_count": 10880,
+    "institution_count": 43,
+    "work_count": 10819,
+    "l": "Python",
+    "nwo": "1006",
+    "pr": 1006,
+    "ma": "2022-12-10 02:10:50",
+    "oa": "2022-12-10 02:10:50"
   },
   {
-    "uml": "Manchester",
+    "uml": "Armenia",
     "gm": {
-      "lat": 53.46667,
-      "lon": -2.23333
+      "lat": 40.069099,
+      "lon": 45.038189
     },
-    "uol": "Illinois",
+    "key": "AM",
+    "uol": "Armenia",
     "gop": {
-      "lat": 40.1492928594,
-      "lon": -89.2749461071049
+      "lat": 40.069099,
+      "lon": 45.038189
     },
-    "l": "Ruby",
-    "nwo": "TheOdinProject/ruby-exercises",
-    "pr": 18,
-    "ma": "2020-12-14 18:16:21.000",
-    "oa": "2020-11-23 11:06:52.000"
+    "author_count": 26894,
+    "institution_count": 62,
+    "work_count": 28410,
+    "l": "Python",
+    "nwo": "1007",
+    "pr": 1007,
+    "ma": "2022-12-10 02:10:53",
+    "oa": "2022-12-10 02:10:53"
   },
   {
-    "uml": "Paris",
+    "uml": "Netherlands Antilles",
     "gm": {
-      "lat": 48.85658,
-      "lon": 2.35183
+      "lat": 12.226079,
+      "lon": -69.060087
     },
+    "key": "AN",
+    "uol": "Netherlands Antilles",
+    "gop": {
+      "lat": 12.226079,
+      "lon": -69.060087
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1008",
+    "pr": 1008,
+    "ma": "2022-12-10 02:08:55",
+    "oa": "2022-12-10 02:08:55"
+  },
+  {
+    "uml": "Angola",
+    "gm": {
+      "lat": -11.202692,
+      "lon": 17.873887
+    },
+    "key": "AO",
+    "uol": "Angola",
+    "gop": {
+      "lat": -11.202692,
+      "lon": 17.873887
+    },
+    "author_count": 4978,
+    "institution_count": 19,
+    "work_count": 4994,
+    "l": "Python",
+    "nwo": "1009",
+    "pr": 1009,
+    "ma": "2022-12-10 02:10:22",
+    "oa": "2022-12-10 02:10:22"
+  },
+  {
+    "uml": "Antarctica",
+    "gm": {
+      "lat": -75.250973,
+      "lon": -0.071389
+    },
+    "key": "AQ",
+    "uol": "Antarctica",
+    "gop": {
+      "lat": -75.250973,
+      "lon": -0.071389
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1010",
+    "pr": 1010,
+    "ma": "2022-12-10 02:08:40",
+    "oa": "2022-12-10 02:08:40"
+  },
+  {
+    "uml": "Argentina",
+    "gm": {
+      "lat": -38.416097,
+      "lon": -63.616672
+    },
+    "key": "AR",
+    "uol": "Argentina",
+    "gop": {
+      "lat": -38.416097,
+      "lon": -63.616672
+    },
+    "author_count": 275758,
+    "institution_count": 348,
+    "work_count": 374086,
+    "l": "Python",
+    "nwo": "1011",
+    "pr": 1011,
+    "ma": "2022-12-10 02:10:39",
+    "oa": "2022-12-10 02:10:39"
+  },
+  {
+    "uml": "American Samoa",
+    "gm": {
+      "lat": -14.270972,
+      "lon": -170.132217
+    },
+    "key": "AS",
+    "uol": "American Samoa",
+    "gop": {
+      "lat": -14.270972,
+      "lon": -170.132217
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1012",
+    "pr": 1012,
+    "ma": "2022-12-10 02:10:53",
+    "oa": "2022-12-10 02:10:53"
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": 47.516231,
+      "lon": 14.550072
+    },
+    "key": "AT",
     "uol": "Austria",
     "gop": {
-      "lat": 47.6077978292689,
-      "lon": 14.3001435907641
+      "lat": 47.516231,
+      "lon": 14.550072
     },
-    "l": "C++",
-    "nwo": "dolphin-emu/dolphin",
-    "pr": 9285,
-    "ma": "2020-12-14 17:24:17.000",
-    "oa": "2020-11-25 17:15:56.000"
-  },
-  {
-    "uml": "Sydney",
-    "gm": {
-      "lat": -33.868,
-      "lon": 151.21
-    },
-    "uol": "Sydney",
-    "gop": {
-      "lat": -33.868,
-      "lon": 151.21
-    },
-    "l": "JavaScript",
-    "nwo": "Automattic/wp-calypso",
-    "pr": 47779,
-    "ma": "2020-12-14 17:41:43.000",
-    "oa": "2020-11-25 21:51:45.000"
-  },
-  {
-    "uml": "Melbourne",
-    "gm": {
-      "lat": -37.8142,
-      "lon": 144.9632
-    },
-    "uol": "Melbourne",
-    "gop": {
-      "lat": -37.8142,
-      "lon": 144.9632
-    },
-    "l": "Java",
-    "nwo": "apache/lucene-solr",
-    "pr": 2099,
-    "ma": "2020-12-14 19:18:10.000",
-    "oa": "2020-11-26 21:30:50.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Shanghai",
-    "gop": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "l": "C#",
-    "nwo": "neo-project/neo-modules",
-    "pr": 414,
-    "ma": "2020-12-14 19:10:32.000",
-    "oa": "2020-11-27 00:14:45.000"
-  },
-  {
-    "uml": "Sandy Beach - Emerald Beach",
-    "gm": {
-      "lat": -30.1468,
-      "lon": 153.1924
-    },
-    "uol": "Sandy Beach - Emerald Beach",
-    "gop": {
-      "lat": -30.1468,
-      "lon": 153.1924
-    },
-    "l": "JavaScript",
-    "nwo": "Automattic/wp-calypso",
-    "pr": 47849,
-    "ma": "2020-12-14 17:10:06.000",
-    "oa": "2020-11-29 16:29:12.000"
-  },
-  {
-    "uml": "Ho Chi Minh City",
-    "gm": {
-      "lat": 10.81667,
-      "lon": 106.63333
-    },
-    "uol": "Ho Chi Minh City",
-    "gop": {
-      "lat": 10.81667,
-      "lon": 106.63333
-    },
-    "l": "TypeScript",
-    "nwo": "flood-io/element",
-    "pr": 367,
-    "ma": "2020-12-14 18:20:44.000",
-    "oa": "2020-11-30 19:42:00.000"
-  },
-  {
-    "uml": "Sydney",
-    "gm": {
-      "lat": -33.868,
-      "lon": 151.21
-    },
-    "uol": "Sydney",
-    "gop": {
-      "lat": -33.868,
-      "lon": 151.21
-    },
-    "l": "Handlebars",
-    "nwo": "digitalnsw/nsw-design-system",
-    "pr": 89,
-    "ma": "2020-12-14 16:37:56.000",
-    "oa": "2020-11-30 21:47:47.000"
-  },
-  {
-    "uml": "Colorado",
-    "gm": {
-      "lat": 39.190245999,
-      "lon": -105.604997408086
-    },
-    "uol": "Colorado",
-    "gop": {
-      "lat": 39.190245999,
-      "lon": -105.604997408086
-    },
-    "l": "Solidity",
-    "nwo": "smartcontractkit/solidity-cborutils",
-    "pr": 25,
-    "ma": "2020-12-14 16:04:36.000",
-    "oa": "2020-12-01 11:12:39.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Brazil",
-    "gop": {
-      "lat": -9.58890301712257,
-      "lon": -51.6197890205486
-    },
-    "l": "HCL",
-    "nwo": "Azure/terraform-azurerm-aks",
-    "pr": 75,
-    "ma": "2020-12-14 20:02:20.000",
-    "oa": "2020-12-01 12:08:14.000"
-  },
-  {
-    "uml": "United States",
-    "gm": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "uol": "United States",
-    "gop": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "l": "SystemVerilog",
-    "nwo": "lowRISC/opentitan",
-    "pr": 4386,
-    "ma": "2020-12-14 19:59:16.000",
-    "oa": "2020-12-02 17:36:32.000"
-  },
-  {
-    "uml": "Seoul",
-    "gm": {
-      "lat": 37.58333,
-      "lon": 127
-    },
-    "uol": "Seoul",
-    "gop": {
-      "lat": 37.58333,
-      "lon": 127
-    },
-    "l": "Swift",
-    "nwo": "nugu-developers/nugu-ios",
-    "pr": 663,
-    "ma": "2020-12-14 19:23:41.000",
-    "oa": "2020-12-03 19:16:52.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "JavaScript",
-    "nwo": "xh/hoist-react",
-    "pr": 2221,
-    "ma": "2020-12-14 17:41:08.000",
-    "oa": "2020-12-05 04:52:53.000"
-  },
-  {
-    "uml": "Brazil",
-    "gm": {
-      "lat": -9.58890301712257,
-      "lon": -51.6197890205486
-    },
-    "uol": "Poland",
-    "gop": {
-      "lat": 52.1246099075455,
-      "lon": 19.30063630556
-    },
-    "l": "Lua",
-    "nwo": "opentibiabr/otservbr-global",
-    "pr": 2047,
-    "ma": "2020-12-14 17:19:10.000",
-    "oa": "2020-12-06 03:56:42.000"
-  },
-  {
-    "uml": "Seoul",
-    "gm": {
-      "lat": 37.58333,
-      "lon": 127
-    },
-    "uol": "Seoul",
-    "gop": {
-      "lat": 37.58333,
-      "lon": 127
-    },
-    "l": "Swift",
-    "nwo": "nugu-developers/nugu-ios",
-    "pr": 667,
-    "ma": "2020-12-14 19:23:05.000",
-    "oa": "2020-12-06 20:29:20.000"
-  },
-  {
-    "uml": "Redmond",
-    "gm": {
-      "lat": 47.6694,
-      "lon": -122.1239
-    },
-    "uol": "Redmond",
-    "gop": {
-      "lat": 47.6694,
-      "lon": -122.1239
-    },
-    "l": "C#",
-    "nwo": "dotnet/installer",
-    "pr": 9194,
-    "ma": "2020-12-14 16:05:06.000",
-    "oa": "2020-12-07 11:29:18.000"
-  },
-  {
-    "uml": "California City",
-    "gm": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "uol": "California City",
-    "gop": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "l": "Go",
-    "nwo": "gatekeeper/gatekeeper-operator",
-    "pr": 76,
-    "ma": "2020-12-14 17:55:02.000",
-    "oa": "2020-12-07 17:44:35.000"
-  },
-  {
-    "uml": "United States",
-    "gm": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "uol": "United States",
-    "gop": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "l": "SystemVerilog",
-    "nwo": "lowRISC/opentitan",
-    "pr": 4464,
-    "ma": "2020-12-14 17:08:46.000",
-    "oa": "2020-12-07 20:10:33.000"
-  },
-  {
-    "uml": "Sydney",
-    "gm": {
-      "lat": -33.868,
-      "lon": 151.21
-    },
-    "uol": "Ukraine",
-    "gop": {
-      "lat": 49.3227937844972,
-      "lon": 31.3202829593814
-    },
-    "l": "Swift",
-    "nwo": "AlphaWallet/alpha-wallet-ios",
-    "pr": 2376,
-    "ma": "2020-12-14 18:52:21.000",
-    "oa": "2020-12-08 02:23:30.000"
-  },
-  {
-    "uml": "London",
-    "gm": {
-      "lat": 51.50722,
-      "lon": -0.1275
-    },
-    "uol": "Germany",
-    "gop": {
-      "lat": 51.1334813439932,
-      "lon": 10.0183432948567
-    },
-    "l": "JavaScript",
-    "nwo": "mrdoob/three.js",
-    "pr": 20859,
-    "ma": "2020-12-14 16:07:21.000",
-    "oa": "2020-12-08 13:35:30.000"
-  },
-  {
-    "uml": "San Francisco",
-    "gm": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "uol": "San Francisco",
-    "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "l": "Shell",
-    "nwo": "rust-lang/async-book",
-    "pr": 115,
-    "ma": "2020-12-14 16:09:24.000",
-    "oa": "2020-12-08 19:20:04.000"
-  },
-  {
-    "uml": "Sydney",
-    "gm": {
-      "lat": -33.868,
-      "lon": 151.21
-    },
-    "uol": "Sydney",
-    "gop": {
-      "lat": -33.868,
-      "lon": 151.21
-    },
-    "l": "JavaScript",
-    "nwo": "keystonejs/keystone",
-    "pr": 4540,
-    "ma": "2020-12-14 17:27:59.000",
-    "oa": "2020-12-08 19:29:07.000"
-  },
-  {
-    "uml": "United States",
-    "gm": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "uol": "United States",
-    "gop": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "l": "TypeScript",
-    "nwo": "elastic/kibana",
-    "pr": 85369,
-    "ma": "2020-12-14 16:23:16.000",
-    "oa": "2020-12-08 19:39:20.000"
-  },
-  {
-    "uml": "Seoul",
-    "gm": {
-      "lat": 37.58333,
-      "lon": 127
-    },
-    "uol": "Seoul",
-    "gop": {
-      "lat": 37.58333,
-      "lon": 127
-    },
-    "l": "Swift",
-    "nwo": "nugu-developers/nugu-ios",
-    "pr": 670,
-    "ma": "2020-12-14 19:22:45.000",
-    "oa": "2020-12-08 23:14:03.000"
-  },
-  {
-    "uml": "Singapore",
-    "gm": {
-      "lat": 1.3516161224392,
-      "lon": 103.808052586332
-    },
-    "uol": "Singapore",
-    "gop": {
-      "lat": 1.3516161224392,
-      "lon": 103.808052586332
-    },
-    "l": "Shell",
-    "nwo": "discourse/discourse_docker",
-    "pr": 498,
-    "ma": "2020-12-14 17:11:08.000",
-    "oa": "2020-12-08 23:15:19.000"
-  },
-  {
-    "uml": "San Francisco",
-    "gm": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "uol": "San Francisco",
-    "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "l": "TypeScript",
-    "nwo": "rvl-system/home-lights",
-    "pr": 63,
-    "ma": "2020-12-14 17:14:07.000",
-    "oa": "2020-12-08 23:22:40.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud-operator",
-    "pr": 358,
-    "ma": "2020-12-14 18:05:32.000",
-    "oa": "2020-12-09 02:52:10.000"
-  },
-  {
-    "uml": "Canada",
-    "gm": {
-      "lat": 55.5859012851966,
-      "lon": -105.750595856519
-    },
-    "uol": "Canada",
-    "gop": {
-      "lat": 55.5859012851966,
-      "lon": -105.750595856519
-    },
-    "l": "Rust",
-    "nwo": "iotaledger/identity.rs",
-    "pr": 95,
-    "ma": "2020-12-14 17:11:13.000",
-    "oa": "2020-12-09 11:06:26.000"
-  },
-  {
-    "uml": "London",
-    "gm": {
-      "lat": 51.50722,
-      "lon": -0.1275
-    },
-    "uol": "London",
-    "gop": {
-      "lat": 51.50722,
-      "lon": -0.1275
-    },
-    "l": "JavaScript",
-    "nwo": "transferwise/neptune-web",
-    "pr": 726,
-    "ma": "2020-12-14 19:53:12.000",
-    "oa": "2020-12-09 17:09:30.000"
-  },
-  {
-    "uml": "Kyoto",
-    "gm": {
-      "lat": 35.01167,
-      "lon": 135.76806
-    },
-    "uol": "Kyoto",
-    "gop": {
-      "lat": 35.01167,
-      "lon": 135.76806
-    },
-    "l": "Nim",
-    "nwo": "status-im/nim-libp2p",
-    "pr": 476,
-    "ma": "2020-12-14 17:25:23.000",
-    "oa": "2020-12-09 18:17:33.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "C++",
-    "nwo": "apache/incubator-doris",
-    "pr": 5055,
-    "ma": "2020-12-14 17:27:52.000",
-    "oa": "2020-12-09 18:33:32.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Shanghai",
-    "gop": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "l": "Makefile",
-    "nwo": "webmachinelearning/webnn",
-    "pr": 126,
-    "ma": "2020-12-14 18:19:38.000",
-    "oa": "2020-12-09 19:05:08.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
+    "author_count": 322167,
+    "institution_count": 718,
+    "work_count": 567381,
     "l": "Python",
-    "nwo": "PaddlePaddle/Paddle",
-    "pr": 29548,
-    "ma": "2020-12-14 18:34:21.000",
-    "oa": "2020-12-09 23:59:12.000"
-  },
-  {
-    "uml": "London",
-    "gm": {
-      "lat": 51.50722,
-      "lon": -0.1275
-    },
-    "uol": "Germany",
-    "gop": {
-      "lat": 51.1334813439932,
-      "lon": 10.0183432948567
-    },
-    "l": "JavaScript",
-    "nwo": "mrdoob/three.js",
-    "pr": 20871,
-    "ma": "2020-12-14 16:04:32.000",
-    "oa": "2020-12-10 01:35:20.000"
-  },
-  {
-    "uml": "Tokyo",
-    "gm": {
-      "lat": 35.68,
-      "lon": 139.77
-    },
-    "uol": "Tokyo",
-    "gop": {
-      "lat": 35.68,
-      "lon": 139.77
-    },
-    "l": "Ruby",
-    "nwo": "rsim/oracle-enhanced",
-    "pr": 2075,
-    "ma": "2020-12-14 18:24:56.000",
-    "oa": "2020-12-10 02:11:36.000"
-  },
-  {
-    "uml": "London",
-    "gm": {
-      "lat": 51.50722,
-      "lon": -0.1275
-    },
-    "uol": "Germany",
-    "gop": {
-      "lat": 51.1334813439932,
-      "lon": 10.0183432948567
-    },
-    "l": "JavaScript",
-    "nwo": "mrdoob/three.js",
-    "pr": 20875,
-    "ma": "2020-12-14 16:09:55.000",
-    "oa": "2020-12-10 04:34:58.000"
-  },
-  {
-    "uml": "Hangzhou",
-    "gm": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "uol": "People's Republic of China",
-    "gop": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "l": "JavaScript",
-    "nwo": "alibaba-fusion/next",
-    "pr": 2511,
-    "ma": "2020-12-14 19:26:02.000",
-    "oa": "2020-12-10 05:23:49.000"
-  },
-  {
-    "uml": "Germany",
-    "gm": {
-      "lat": 51.1334813439932,
-      "lon": 10.0183432948567
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "Ruby",
-    "nwo": "tootsuite/mastodon",
-    "pr": 15314,
-    "ma": "2020-12-14 18:04:04.000",
-    "oa": "2020-12-10 08:41:53.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Java",
-    "nwo": "apache/pulsar",
-    "pr": 8905,
-    "ma": "2020-12-14 16:27:10.000",
-    "oa": "2020-12-10 11:28:29.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "C",
-    "nwo": "bloomberg/comdb2",
-    "pr": 2617,
-    "ma": "2020-12-14 19:02:47.000",
-    "oa": "2020-12-10 11:57:25.000"
-  },
-  {
-    "uml": "Auckland",
-    "gm": {
-      "lat": -36.85,
-      "lon": 174.78333
-    },
-    "uol": "Auckland",
-    "gop": {
-      "lat": -36.85,
-      "lon": 174.78333
-    },
-    "l": "JavaScript",
-    "nwo": "beyondessential/tupaia",
-    "pr": 1818,
-    "ma": "2020-12-14 16:49:04.000",
-    "oa": "2020-12-10 15:20:47.000"
-  },
-  {
-    "uml": "Calgary",
-    "gm": {
-      "lat": 51.0531,
-      "lon": -114.0626
-    },
-    "uol": "Calgary",
-    "gop": {
-      "lat": 51.0531,
-      "lon": -114.0626
-    },
-    "l": "Python",
-    "nwo": "ROCmSoftwarePlatform/Tensile",
-    "pr": 1250,
-    "ma": "2020-12-14 17:41:04.000",
-    "oa": "2020-12-10 16:39:22.000"
-  },
-  {
-    "uml": "California City",
-    "gm": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "uol": "California City",
-    "gop": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "l": "C#",
-    "nwo": "versx/WhMgr",
-    "pr": 100,
-    "ma": "2020-12-14 17:43:21.000",
-    "oa": "2020-12-10 17:52:50.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Shanghai",
-    "gop": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "l": "Python",
-    "nwo": "Azure/azure-cli",
-    "pr": 16240,
-    "ma": "2020-12-14 17:35:15.000",
-    "oa": "2020-12-10 18:20:41.000"
-  },
-  {
-    "uml": "Sydney",
-    "gm": {
-      "lat": -33.868,
-      "lon": 151.21
-    },
-    "uol": "Sydney",
-    "gop": {
-      "lat": -33.868,
-      "lon": 151.21
-    },
-    "l": "Java",
-    "nwo": "atlassian-labs/dc-migration-assistant",
-    "pr": 426,
-    "ma": "2020-12-14 16:39:20.000",
-    "oa": "2020-12-10 20:05:02.000"
-  },
-  {
-    "uml": "San Francisco",
-    "gm": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "uol": "San Francisco",
-    "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "l": "Python",
-    "nwo": "getsentry/sentry",
-    "pr": 22621,
-    "ma": "2020-12-14 17:40:14.000",
-    "oa": "2020-12-10 20:12:13.000"
-  },
-  {
-    "uml": "Ottawa",
-    "gm": {
-      "lat": 45.421,
-      "lon": -75.69
-    },
-    "uol": "Ottawa",
-    "gop": {
-      "lat": 45.421,
-      "lon": -75.69
-    },
-    "l": "Swift",
-    "nwo": "woocommerce/woocommerce-ios",
-    "pr": 3332,
-    "ma": "2020-12-14 18:01:05.000",
-    "oa": "2020-12-10 20:54:42.000"
-  },
-  {
-    "uml": "San Francisco",
-    "gm": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "uol": "San Francisco",
-    "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "l": "JavaScript",
-    "nwo": "outline/outline",
-    "pr": 1715,
-    "ma": "2020-12-14 19:55:23.000",
-    "oa": "2020-12-11 00:09:54.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Hangzhou",
-    "gop": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "l": "Python",
-    "nwo": "ray-project/ray",
-    "pr": 12780,
-    "ma": "2020-12-14 18:27:56.000",
-    "oa": "2020-12-11 00:31:44.000"
-  },
-  {
-    "uml": "Tokyo",
-    "gm": {
-      "lat": 35.68,
-      "lon": 139.77
-    },
-    "uol": "Tokyo",
-    "gop": {
-      "lat": 35.68,
-      "lon": 139.77
-    },
-    "l": "TypeScript",
-    "nwo": "kufu/smarthr-ui",
-    "pr": 1211,
-    "ma": "2020-12-14 18:43:48.000",
-    "oa": "2020-12-11 00:32:11.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "TypeScript",
-    "nwo": "baidu/amis",
-    "pr": 1178,
-    "ma": "2020-12-14 18:29:07.000",
-    "oa": "2020-12-11 01:19:40.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "Go",
-    "nwo": "nats-io/nats-server",
-    "pr": 1770,
-    "ma": "2020-12-14 17:34:16.000",
-    "oa": "2020-12-11 14:32:24.000"
-  },
-  {
-    "uml": "Vancouver",
-    "gm": {
-      "lat": 49.2609,
-      "lon": -123.1139
-    },
-    "uol": "Vancouver",
-    "gop": {
-      "lat": 49.2609,
-      "lon": -123.1139
-    },
-    "l": "Go",
-    "nwo": "terraform-providers/terraform-provider-azurerm",
-    "pr": 9841,
-    "ma": "2020-12-14 16:52:58.000",
-    "oa": "2020-12-11 14:45:35.000"
-  },
-  {
-    "uml": "United States",
-    "gm": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "uol": "United States",
-    "gop": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "l": "SystemVerilog",
-    "nwo": "lowRISC/opentitan",
-    "pr": 4532,
-    "ma": "2020-12-14 19:59:29.000",
-    "oa": "2020-12-11 15:15:15.000"
-  },
-  {
-    "uml": "Barcelona",
-    "gm": {
-      "lat": 41.3825,
-      "lon": 2.17694
-    },
-    "uol": "Barcelona",
-    "gop": {
-      "lat": 41.3825,
-      "lon": 2.17694
-    },
-    "l": "Rust",
-    "nwo": "hecrj/iced",
-    "pr": 658,
-    "ma": "2020-12-14 18:27:42.000",
-    "oa": "2020-12-11 15:56:18.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "Java",
-    "nwo": "opendistro-for-elasticsearch/sql",
-    "pr": 926,
-    "ma": "2020-12-14 17:59:39.000",
-    "oa": "2020-12-11 16:22:32.000"
-  },
-  {
-    "uml": "United States",
-    "gm": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "uol": "United States",
-    "gop": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "l": "Go",
-    "nwo": "pion/mediadevices",
-    "pr": 263,
-    "ma": "2020-12-14 19:07:57.000",
-    "oa": "2020-12-11 16:31:42.000"
-  },
-  {
-    "uml": "Los Angeles",
-    "gm": {
-      "lat": 34.0544,
-      "lon": -118.2439
-    },
-    "uol": "Los Angeles",
-    "gop": {
-      "lat": 34.0544,
-      "lon": -118.2439
-    },
-    "l": "Kotlin",
-    "nwo": "cdsap/Talaiot",
-    "pr": 263,
-    "ma": "2020-12-14 18:47:28.000",
-    "oa": "2020-12-11 18:44:58.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "San Francisco",
-    "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "l": "Java",
-    "nwo": "apache/pulsar",
-    "pr": 8932,
-    "ma": "2020-12-14 16:26:17.000",
-    "oa": "2020-12-11 18:57:46.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "Python",
-    "nwo": "mathics/Mathics",
-    "pr": 1046,
-    "ma": "2020-12-14 16:56:27.000",
-    "oa": "2020-12-11 21:46:40.000"
-  },
-  {
-    "uml": "Hong Kong",
-    "gm": {
-      "lat": 22.27833,
-      "lon": 114.15861
-    },
-    "uol": "Hong Kong",
-    "gop": {
-      "lat": 22.27833,
-      "lon": 114.15861
-    },
-    "l": "JavaScript",
-    "nwo": "substrate-developer-hub/substrate-developer-hub.github.io",
-    "pr": 802,
-    "ma": "2020-12-14 17:16:33.000",
-    "oa": "2020-12-12 02:48:54.000"
-  },
-  {
-    "uml": "Israel",
-    "gm": {
-      "lat": 31.8472608144505,
-      "lon": 34.8419985253627
-    },
-    "uol": "Israel",
-    "gop": {
-      "lat": 31.8472608144505,
-      "lon": 34.8419985253627
-    },
-    "l": "HTML",
-    "nwo": "Faucet-Collector/scripts",
-    "pr": 761,
-    "ma": "2020-12-14 19:00:18.000",
-    "oa": "2020-12-12 16:02:22.000"
-  },
-  {
-    "uml": "Redmond",
-    "gm": {
-      "lat": 47.6694,
-      "lon": -122.1239
-    },
-    "uol": "Redmond",
-    "gop": {
-      "lat": 47.6694,
-      "lon": -122.1239
-    },
-    "l": "C++",
-    "nwo": "dotnet/diagnostics",
-    "pr": 1823,
-    "ma": "2020-12-14 20:10:15.000",
-    "oa": "2020-12-12 18:42:33.000"
-  },
-  {
-    "uml": "United States",
-    "gm": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "uol": "United States",
-    "gop": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "l": "Go",
-    "nwo": "kyverno/kyverno",
-    "pr": 1391,
-    "ma": "2020-12-14 17:07:07.000",
-    "oa": "2020-12-12 21:22:05.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "Verilog",
-    "nwo": "bespoke-silicon-group/basejump_stl",
-    "pr": 363,
-    "ma": "2020-12-14 17:59:01.000",
-    "oa": "2020-12-13 02:15:32.000"
-  },
-  {
-    "uml": "Guangzhou",
-    "gm": {
-      "lat": 23.1288,
-      "lon": 113.25898
-    },
-    "uol": "Guangzhou",
-    "gop": {
-      "lat": 23.1288,
-      "lon": 113.25898
-    },
-    "l": "JavaScript",
-    "nwo": "GzhiYi/dandan-account",
-    "pr": 84,
-    "ma": "2020-12-14 18:12:07.000",
-    "oa": "2020-12-13 03:08:34.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Norway",
-    "gop": {
-      "lat": 61.2483331493152,
-      "lon": 8.80482073895072
-    },
-    "l": "Python",
-    "nwo": "mrtolkien/inhouse_bot",
-    "pr": 12,
-    "ma": "2020-12-14 16:30:47.000",
-    "oa": "2020-12-13 09:05:28.000"
-  },
-  {
-    "uml": "Switzerland",
-    "gm": {
-      "lat": 46.8024955829499,
-      "lon": 8.23439191387853
-    },
-    "uol": "Switzerland",
-    "gop": {
-      "lat": 46.8024955829499,
-      "lon": 8.23439191387853
-    },
-    "l": "Makefile",
-    "nwo": "SynoCommunity/spksrc",
-    "pr": 4308,
-    "ma": "2020-12-14 19:04:24.000",
-    "oa": "2020-12-13 13:27:13.000"
-  },
-  {
-    "uml": "Ottawa",
-    "gm": {
-      "lat": 45.421,
-      "lon": -75.69
-    },
-    "uol": "Ottawa",
-    "gop": {
-      "lat": 45.421,
-      "lon": -75.69
-    },
-    "l": "Swift",
-    "nwo": "wordpress-mobile/WordPressAuthenticator-iOS",
-    "pr": 544,
-    "ma": "2020-12-14 18:17:44.000",
-    "oa": "2020-12-13 15:44:45.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud-operator",
-    "pr": 362,
-    "ma": "2020-12-14 18:05:37.000",
-    "oa": "2020-12-13 17:50:08.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud-operator",
-    "pr": 363,
-    "ma": "2020-12-14 18:05:41.000",
-    "oa": "2020-12-13 18:44:00.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "PowerShell",
-    "nwo": "MicrosoftDocs/OfficeDocs-Support",
-    "pr": 982,
-    "ma": "2020-12-14 17:43:38.000",
-    "oa": "2020-12-13 19:02:40.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "PowerShell",
-    "nwo": "MicrosoftDocs/OfficeDocs-Support",
-    "pr": 983,
-    "ma": "2020-12-14 17:44:00.000",
-    "oa": "2020-12-13 19:04:10.000"
-  },
-  {
-    "uml": "United States",
-    "gm": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "uol": "United States",
-    "gop": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "l": "TypeScript",
-    "nwo": "GetStream/stream-chat-react-native",
-    "pr": 454,
-    "ma": "2020-12-14 17:18:04.000",
-    "oa": "2020-12-13 19:23:05.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Python",
-    "nwo": "couler-proj/couler",
-    "pr": 133,
-    "ma": "2020-12-14 16:24:28.000",
-    "oa": "2020-12-13 20:22:10.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Python",
-    "nwo": "couler-proj/couler",
-    "pr": 134,
-    "ma": "2020-12-14 16:24:03.000",
-    "oa": "2020-12-13 22:06:59.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "People's Republic of China",
-    "gop": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "l": "TypeScript",
-    "nwo": "badgen/badgen.net",
-    "pr": 454,
-    "ma": "2020-12-14 18:15:03.000",
-    "oa": "2020-12-13 22:09:11.000"
-  },
-  {
-    "uml": "Canada",
-    "gm": {
-      "lat": 55.5859012851966,
-      "lon": -105.750595856519
-    },
-    "uol": "Wisconsin",
-    "gop": {
-      "lat": 44.7131688504,
-      "lon": -89.7639108198947
-    },
-    "l": "Java",
-    "nwo": "SpongePowered/Sponge",
-    "pr": 3235,
-    "ma": "2020-12-14 20:10:13.000",
-    "oa": "2020-12-13 22:55:44.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "C",
-    "nwo": "taosdata/TDengine",
-    "pr": 4560,
-    "ma": "2020-12-14 18:36:02.000",
-    "oa": "2020-12-13 23:57:08.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "C++",
-    "nwo": "apache/incubator-doris",
-    "pr": 5076,
-    "ma": "2020-12-14 17:27:21.000",
-    "oa": "2020-12-14 00:21:51.000"
-  },
-  {
-    "uml": "Hangzhou",
-    "gm": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "uol": "Hangzhou",
-    "gop": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "l": "C++",
-    "nwo": "alibaba/dragonwell8_hotspot",
-    "pr": 56,
-    "ma": "2020-12-14 18:58:28.000",
-    "oa": "2020-12-14 00:25:01.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Shanghai",
-    "gop": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "l": "C++",
-    "nwo": "ceph/ceph",
-    "pr": 38563,
-    "ma": "2020-12-14 17:07:13.000",
-    "oa": "2020-12-14 00:28:24.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Shanghai",
-    "gop": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "l": "Java",
-    "nwo": "pingcap/tispark",
-    "pr": 1863,
-    "ma": "2020-12-14 19:01:01.000",
-    "oa": "2020-12-14 01:39:37.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Shanghai",
-    "gop": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "l": "JavaScript",
-    "nwo": "microsoft/pai",
-    "pr": 5174,
-    "ma": "2020-12-14 19:35:04.000",
-    "oa": "2020-12-14 01:58:36.000"
-  },
-  {
-    "uml": "San Francisco",
-    "gm": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Java",
-    "nwo": "apache/pulsar",
-    "pr": 8952,
-    "ma": "2020-12-14 17:05:40.000",
-    "oa": "2020-12-14 02:38:42.000"
-  },
-  {
-    "uml": "Hong Kong",
-    "gm": {
-      "lat": 22.27833,
-      "lon": 114.15861
-    },
-    "uol": "Hong Kong",
-    "gop": {
-      "lat": 22.27833,
-      "lon": 114.15861
-    },
-    "l": "Go",
-    "nwo": "crypto-com/chain-main",
-    "pr": 296,
-    "ma": "2020-12-14 18:33:18.000",
-    "oa": "2020-12-14 02:56:35.000"
-  },
-  {
-    "uml": "Phnom Penh",
-    "gm": {
-      "lat": 11.55,
-      "lon": 104.91667
-    },
-    "uol": "Phnom Penh",
-    "gop": {
-      "lat": 11.55,
-      "lon": 104.91667
-    },
-    "l": "TypeScript",
-    "nwo": "coilhq/web-monetization-projects",
-    "pr": 1409,
-    "ma": "2020-12-14 17:09:43.000",
-    "oa": "2020-12-14 02:58:02.000"
-  },
-  {
-    "uml": "Singapore",
-    "gm": {
-      "lat": 1.3516161224392,
-      "lon": 103.808052586332
-    },
-    "uol": "Singapore",
-    "gop": {
-      "lat": 1.3516161224392,
-      "lon": 103.808052586332
-    },
-    "l": "Haskell",
-    "nwo": "noinia/hgeometry",
-    "pr": 61,
-    "ma": "2020-12-14 17:36:32.000",
-    "oa": "2020-12-14 03:23:28.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "Go",
-    "nwo": "sacloud/usacloud",
-    "pr": 736,
-    "ma": "2020-12-14 16:27:02.000",
-    "oa": "2020-12-14 03:49:11.000"
-  },
-  {
-    "uml": "Sri Lanka",
-    "gm": {
-      "lat": 7.60808521895433,
-      "lon": 80.7047272491285
-    },
-    "uol": "Sri Lanka",
-    "gop": {
-      "lat": 7.60808521895433,
-      "lon": 80.7047272491285
-    },
-    "l": "Java",
-    "nwo": "ballerina-platform/ballerina-lang",
-    "pr": 27487,
-    "ma": "2020-12-14 18:18:22.000",
-    "oa": "2020-12-14 04:07:32.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "People's Republic of China",
-    "gop": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "l": "Go",
-    "nwo": "trustwallet/blockatlas",
-    "pr": 1314,
-    "ma": "2020-12-14 17:58:27.000",
-    "oa": "2020-12-14 05:41:26.000"
-  },
-  {
-    "uml": "Netherlands",
-    "gm": {
-      "lat": 51.9724664894952,
-      "lon": 5.61349061168593
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "V",
-    "nwo": "vlang/v",
-    "pr": 7322,
-    "ma": "2020-12-14 19:24:58.000",
-    "oa": "2020-12-14 06:28:29.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Netherlands",
-    "gop": {
-      "lat": 51.9724664894952,
-      "lon": 5.61349061168593
-    },
-    "l": "Go",
-    "nwo": "publicsuffix/list",
-    "pr": 1167,
-    "ma": "2020-12-14 16:06:03.000",
-    "oa": "2020-12-14 06:57:04.000"
-  },
-  {
-    "uml": "Singapore",
-    "gm": {
-      "lat": 1.3516161224392,
-      "lon": 103.808052586332
-    },
-    "uol": "Shenzhen",
-    "gop": {
-      "lat": 22.535383,
-      "lon": 114.05471
-    },
-    "l": "Python",
-    "nwo": "open-mmlab/mmdetection",
-    "pr": 4303,
-    "ma": "2020-12-14 18:28:52.000",
-    "oa": "2020-12-14 07:15:52.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "Vue",
-    "nwo": "directus/directus",
-    "pr": 3413,
-    "ma": "2020-12-14 19:18:55.000",
-    "oa": "2020-12-14 07:51:40.000"
-  },
-  {
-    "uml": "London",
-    "gm": {
-      "lat": 51.50722,
-      "lon": -0.1275
-    },
-    "uol": "London",
-    "gop": {
-      "lat": 51.50722,
-      "lon": -0.1275
-    },
-    "l": "C++",
-    "nwo": "martin-pr/possumwood",
-    "pr": 195,
-    "ma": "2020-12-14 16:37:35.000",
-    "oa": "2020-12-14 08:17:17.000"
-  },
-  {
-    "uml": "Nepal",
-    "gm": {
-      "lat": 28.2530072798101,
-      "lon": 83.9385480132428
-    },
-    "uol": "Hradec Králové",
-    "gop": {
-      "lat": 50.20917,
-      "lon": 15.83194
-    },
-    "l": "Gherkin",
-    "nwo": "owncloud/web",
-    "pr": 4493,
-    "ma": "2020-12-14 18:40:37.000",
-    "oa": "2020-12-14 08:21:24.000"
-  },
-  {
-    "uml": "Singapore",
-    "gm": {
-      "lat": 1.3516161224392,
-      "lon": 103.808052586332
-    },
-    "uol": "La Jolla",
-    "gop": {
-      "lat": 32.8473,
-      "lon": -117.2742
-    },
-    "l": "Python",
-    "nwo": "open-mmlab/mmdetection",
-    "pr": 4306,
-    "ma": "2020-12-14 18:25:30.000",
-    "oa": "2020-12-14 09:52:25.000"
-  },
-  {
-    "uml": "Philippines",
-    "gm": {
-      "lat": 11.5363,
-      "lon": 122.7613
-    },
-    "uol": "Philippines",
-    "gop": {
-      "lat": 11.5363,
-      "lon": 122.7613
-    },
-    "l": "Go",
-    "nwo": "trustwallet/watchmarket",
-    "pr": 291,
-    "ma": "2020-12-14 19:21:20.000",
-    "oa": "2020-12-14 09:59:27.000"
-  },
-  {
-    "uml": "Mexico City",
-    "gm": {
-      "lat": 19.41944,
-      "lon": -99.14556
-    },
-    "uol": "Michigan",
-    "gop": {
-      "lat": 44.93374589245,
-      "lon": -84.525239999781
-    },
-    "l": "Go",
-    "nwo": "Azure/ARO-RP",
-    "pr": 1227,
-    "ma": "2020-12-14 16:13:24.000",
-    "oa": "2020-12-14 10:27:33.000"
-  },
-  {
-    "uml": "Sweden",
-    "gm": {
-      "lat": 64.9648751621697,
-      "lon": 17.6754094331351
-    },
-    "uol": "Netherlands",
-    "gop": {
-      "lat": 51.9724664894952,
-      "lon": 5.61349061168593
-    },
-    "l": "Java",
-    "nwo": "Incendo/cloud",
-    "pr": 169,
-    "ma": "2020-12-14 17:04:39.000",
-    "oa": "2020-12-14 10:59:42.000"
-  },
-  {
-    "uml": "Finland",
-    "gm": {
-      "lat": 62.7777539652943,
-      "lon": 26.199539005192
-    },
-    "uol": "Finland",
-    "gop": {
-      "lat": 62.7777539652943,
-      "lon": 26.199539005192
-    },
-    "l": "C",
-    "nwo": "libretro/libretro-uae",
-    "pr": 356,
-    "ma": "2020-12-14 17:41:51.000",
-    "oa": "2020-12-14 11:22:02.000"
-  },
-  {
-    "uml": "Brazil",
-    "gm": {
-      "lat": -9.58890301712257,
-      "lon": -51.6197890205486
-    },
-    "uol": "Brazil",
-    "gop": {
-      "lat": -9.58890301712257,
-      "lon": -51.6197890205486
-    },
-    "l": "Python",
-    "nwo": "ross-rotordynamics/ross",
-    "pr": 730,
-    "ma": "2020-12-14 16:27:51.000",
-    "oa": "2020-12-14 12:16:56.000"
-  },
-  {
-    "uml": "Melbourne",
-    "gm": {
-      "lat": -37.8142,
-      "lon": 144.9632
-    },
-    "uol": "Melbourne",
-    "gop": {
-      "lat": -37.8142,
-      "lon": 144.9632
-    },
-    "l": "C#",
-    "nwo": "Flow-Launcher/Flow.Launcher",
-    "pr": 238,
-    "ma": "2020-12-14 18:16:54.000",
-    "oa": "2020-12-14 12:17:53.000"
-  },
-  {
-    "uml": "Cupertino",
-    "gm": {
-      "lat": 37.323,
-      "lon": -122.0323
-    },
-    "uol": "Cupertino",
-    "gop": {
-      "lat": 37.323,
-      "lon": -122.0323
-    },
-    "l": "Python",
-    "nwo": "HorizonRobotics/alf",
-    "pr": 732,
-    "ma": "2020-12-14 17:19:37.000",
-    "oa": "2020-12-14 12:26:33.000"
-  },
-  {
-    "uml": "Chicago",
-    "gm": {
-      "lat": 41.8756,
-      "lon": -87.6244
-    },
-    "uol": "Chicago",
-    "gop": {
-      "lat": 41.8756,
-      "lon": -87.6244
-    },
-    "l": "Go",
-    "nwo": "cdr/coder-cli",
-    "pr": 204,
-    "ma": "2020-12-14 17:30:26.000",
-    "oa": "2020-12-14 12:30:06.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "Go",
-    "nwo": "pulumi/pulumi-aws",
-    "pr": 1263,
-    "ma": "2020-12-14 18:35:24.000",
-    "oa": "2020-12-14 12:33:20.000"
-  },
-  {
-    "uml": "Roorkee",
-    "gm": {
-      "lat": 29.86139,
-      "lon": 77.88889
-    },
-    "uol": "California City",
-    "gop": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "l": "Dart",
-    "nwo": "am15h/tflite_flutter_plugin",
-    "pr": 56,
-    "ma": "2020-12-14 20:00:30.000",
-    "oa": "2020-12-14 12:44:50.000"
-  },
-  {
-    "uml": "United States",
-    "gm": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "uol": "United States",
-    "gop": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "l": "Python",
-    "nwo": "HEXRD/hexrd",
-    "pr": 141,
-    "ma": "2020-12-14 18:24:59.000",
-    "oa": "2020-12-14 12:55:15.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "Dongguan",
-    "gop": {
-      "lat": 23.04749,
-      "lon": 113.74928
-    },
-    "l": "Shell",
-    "nwo": "LCTT/TranslateProject",
-    "pr": 20438,
-    "ma": "2020-12-14 18:04:04.000",
-    "oa": "2020-12-14 13:02:40.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "Dongguan",
-    "gop": {
-      "lat": 23.04749,
-      "lon": 113.74928
-    },
-    "l": "Shell",
-    "nwo": "LCTT/TranslateProject",
-    "pr": 20439,
-    "ma": "2020-12-14 18:07:13.000",
-    "oa": "2020-12-14 13:03:03.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "Dongguan",
-    "gop": {
-      "lat": 23.04749,
-      "lon": 113.74928
-    },
-    "l": "Shell",
-    "nwo": "LCTT/TranslateProject",
-    "pr": 20440,
-    "ma": "2020-12-14 18:13:32.000",
-    "oa": "2020-12-14 13:03:21.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "Dongguan",
-    "gop": {
-      "lat": 23.04749,
-      "lon": 113.74928
-    },
-    "l": "Shell",
-    "nwo": "LCTT/TranslateProject",
-    "pr": 20441,
-    "ma": "2020-12-14 18:16:55.000",
-    "oa": "2020-12-14 13:03:38.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "Dongguan",
-    "gop": {
-      "lat": 23.04749,
-      "lon": 113.74928
-    },
-    "l": "Shell",
-    "nwo": "LCTT/TranslateProject",
-    "pr": 20442,
-    "ma": "2020-12-14 18:19:29.000",
-    "oa": "2020-12-14 13:03:52.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "Dongguan",
-    "gop": {
-      "lat": 23.04749,
-      "lon": 113.74928
-    },
-    "l": "Shell",
-    "nwo": "LCTT/TranslateProject",
-    "pr": 20443,
-    "ma": "2020-12-14 18:22:55.000",
-    "oa": "2020-12-14 13:04:05.000"
-  },
-  {
-    "uml": "Melbourne",
-    "gm": {
-      "lat": -37.8142,
-      "lon": 144.9632
-    },
-    "uol": "Melbourne",
-    "gop": {
-      "lat": -37.8142,
-      "lon": 144.9632
-    },
-    "l": "Java",
-    "nwo": "apromore/ApromoreCore",
-    "pr": 615,
-    "ma": "2020-12-14 20:01:48.000",
-    "oa": "2020-12-14 13:11:01.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "JavaScript",
-    "nwo": "mongodb/docs-realm",
-    "pr": 667,
-    "ma": "2020-12-14 20:08:38.000",
-    "oa": "2020-12-14 13:12:44.000"
-  },
-  {
-    "uml": "Roorkee",
-    "gm": {
-      "lat": 29.86139,
-      "lon": 77.88889
-    },
-    "uol": "California City",
-    "gop": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "l": "Dart",
-    "nwo": "am15h/tflite_flutter_plugin",
-    "pr": 57,
-    "ma": "2020-12-14 19:59:47.000",
-    "oa": "2020-12-14 13:14:54.000"
-  },
-  {
-    "uml": "Cambridge",
-    "gm": {
-      "lat": 52.20806,
-      "lon": 0.1225
-    },
-    "uol": "Cambridge",
-    "gop": {
-      "lat": 52.20806,
-      "lon": 0.1225
-    },
-    "l": "Java",
-    "nwo": "IBM/FHIR",
-    "pr": 1827,
-    "ma": "2020-12-14 16:51:47.000",
-    "oa": "2020-12-14 14:04:27.000"
+    "nwo": "1013",
+    "pr": 1013,
+    "ma": "2022-12-10 02:08:30",
+    "oa": "2022-12-10 02:08:30"
   },
   {
     "uml": "Australia",
     "gm": {
-      "lat": -25.7349684916223,
-      "lon": 134.489562606981
+      "lat": -25.274398,
+      "lon": 133.775136
     },
+    "key": "AU",
     "uol": "Australia",
     "gop": {
-      "lat": -25.7349684916223,
-      "lon": 134.489562606981
+      "lat": -25.274398,
+      "lon": 133.775136
     },
-    "l": "TypeScript",
-    "nwo": "Accenture/sfpowerscripts",
-    "pr": 275,
-    "ma": "2020-12-14 16:10:52.000",
-    "oa": "2020-12-14 14:12:47.000"
-  },
-  {
-    "uml": "Maryland",
-    "gm": {
-      "lat": 39.4780636707,
-      "lon": -76.8536374638244
-    },
-    "uol": "Maryland",
-    "gop": {
-      "lat": 39.4780636707,
-      "lon": -76.8536374638244
-    },
+    "author_count": 1073793,
+    "institution_count": 1517,
+    "work_count": 2118392,
     "l": "Python",
-    "nwo": "llllllllll/slider",
-    "pr": 81,
-    "ma": "2020-12-14 17:04:37.000",
-    "oa": "2020-12-14 14:33:16.000"
+    "nwo": "1014",
+    "pr": 1014,
+    "ma": "2022-12-10 02:10:37",
+    "oa": "2022-12-10 02:10:37"
   },
   {
-    "uml": "Santa Fe",
+    "uml": "Aruba",
     "gm": {
-      "lat": -33.72278,
-      "lon": -62.24611
+      "lat": 12.52111,
+      "lon": -69.968338
     },
-    "uol": "Santa Fe",
+    "key": "AW",
+    "uol": "Aruba",
     "gop": {
-      "lat": -33.72278,
-      "lon": -62.24611
+      "lat": 12.52111,
+      "lon": -69.968338
     },
-    "l": "Java",
-    "nwo": "MarquezProject/marquez",
-    "pr": 871,
-    "ma": "2020-12-14 18:31:47.000",
-    "oa": "2020-12-14 14:44:17.000"
-  },
-  {
-    "uml": "Solomon Islands",
-    "gm": {
-      "lat": -8.9182158295247,
-      "lon": 159.634315081643
-    },
-    "uol": "Solomon Islands",
-    "gop": {
-      "lat": -8.9182158295247,
-      "lon": 159.634315081643
-    },
-    "l": "JavaScript",
-    "nwo": "RedHatInsights/curiosity-frontend",
-    "pr": 538,
-    "ma": "2020-12-14 17:12:08.000",
-    "oa": "2020-12-14 14:45:57.000"
-  },
-  {
-    "uml": "Nepal",
-    "gm": {
-      "lat": 28.2530072798101,
-      "lon": 83.9385480132428
-    },
-    "uol": "Ennepetal",
-    "gop": {
-      "lat": 51.28333,
-      "lon": 7.33333
-    },
-    "l": "Go",
-    "nwo": "owncloud/ocis",
-    "pr": 1095,
-    "ma": "2020-12-14 18:36:19.000",
-    "oa": "2020-12-14 14:54:33.000"
-  },
-  {
-    "uml": "Boston",
-    "gm": {
-      "lat": 42.3605,
-      "lon": -71.0596
-    },
-    "uol": "Boston",
-    "gop": {
-      "lat": 42.3605,
-      "lon": -71.0596
-    },
-    "l": "TypeScript",
-    "nwo": "Path-Check/gaen-mobile",
-    "pr": 758,
-    "ma": "2020-12-14 16:36:00.000",
-    "oa": "2020-12-14 14:59:02.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "TypeScript",
-    "nwo": "google/model-viewer",
-    "pr": 1765,
-    "ma": "2020-12-14 16:39:52.000",
-    "oa": "2020-12-14 15:18:13.000"
-  },
-  {
-    "uml": "Canada",
-    "gm": {
-      "lat": 55.5859012851966,
-      "lon": -105.750595856519
-    },
-    "uol": "Canada",
-    "gop": {
-      "lat": 55.5859012851966,
-      "lon": -105.750595856519
-    },
-    "l": "HTML",
-    "nwo": "web-platform-tests/wpt",
-    "pr": 26896,
-    "ma": "2020-12-14 16:39:23.000",
-    "oa": "2020-12-14 15:23:06.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "TypeScript",
-    "nwo": "opendistro-for-elasticsearch/security-kibana-plugin",
-    "pr": 649,
-    "ma": "2020-12-14 16:48:50.000",
-    "oa": "2020-12-14 15:36:08.000"
-  },
-  {
-    "uml": "Palo Alto",
-    "gm": {
-      "lat": 37.4422,
-      "lon": -122.1634
-    },
-    "uol": "Palo Alto",
-    "gop": {
-      "lat": 37.4422,
-      "lon": -122.1634
-    },
-    "l": "Java",
-    "nwo": "opendistro-for-elasticsearch/security",
-    "pr": 898,
-    "ma": "2020-12-14 16:17:35.000",
-    "oa": "2020-12-14 15:40:05.000"
-  },
-  {
-    "uml": "California City",
-    "gm": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "uol": "San Francisco",
-    "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "l": "TypeScript",
-    "nwo": "zendeskgarden/react-components",
-    "pr": 952,
-    "ma": "2020-12-14 17:28:16.000",
-    "oa": "2020-12-14 15:50:30.000"
-  },
-  {
-    "uml": "Liverpool",
-    "gm": {
-      "lat": 53.41667,
-      "lon": -3
-    },
-    "uol": "Germany",
-    "gop": {
-      "lat": 51.1334813439932,
-      "lon": 10.0183432948567
-    },
-    "l": "C++",
-    "nwo": "AliveTeam/alive_reversing",
-    "pr": 996,
-    "ma": "2020-12-14 16:08:15.000",
-    "oa": "2020-12-14 15:56:38.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "TypeScript",
-    "nwo": "sprout2000/elephicon",
-    "pr": 93,
-    "ma": "2020-12-14 16:03:26.000",
-    "oa": "2020-12-14 16:03:20.000"
-  },
-  {
-    "uml": "Portugal",
-    "gm": {
-      "lat": 39.6009946583093,
-      "lon": -8.56273059638958
-    },
-    "uol": "Portugal",
-    "gop": {
-      "lat": 39.6009946583093,
-      "lon": -8.56273059638958
-    },
-    "l": "JavaScript",
-    "nwo": "mapswipe/mapswipe",
-    "pr": 443,
-    "ma": "2020-12-14 16:15:26.000",
-    "oa": "2020-12-14 16:03:34.000"
-  },
-  {
-    "uml": "Utah",
-    "gm": {
-      "lat": 39.2548171647,
-      "lon": -111.602499934826
-    },
-    "uol": "Utah",
-    "gop": {
-      "lat": 39.2548171647,
-      "lon": -111.602499934826
-    },
-    "l": "JavaScript",
-    "nwo": "iobio/gene.iobio.vue",
-    "pr": 697,
-    "ma": "2020-12-14 16:04:07.000",
-    "oa": "2020-12-14 16:04:00.000"
-  },
-  {
-    "uml": "Paris",
-    "gm": {
-      "lat": 48.85658,
-      "lon": 2.35183
-    },
-    "uol": "Paris",
-    "gop": {
-      "lat": 48.85658,
-      "lon": 2.35183
-    },
-    "l": "Swift",
-    "nwo": "openfoodfacts/openfoodfacts-ios",
-    "pr": 851,
-    "ma": "2020-12-14 16:05:25.000",
-    "oa": "2020-12-14 16:04:15.000"
-  },
-  {
-    "uml": "Oregon City",
-    "gm": {
-      "lat": 45.3573,
-      "lon": -122.6068
-    },
-    "uol": "Oregon City",
-    "gop": {
-      "lat": 45.3573,
-      "lon": -122.6068
-    },
-    "l": "HTML",
-    "nwo": "unicode-org/cldr-staging",
-    "pr": 32,
-    "ma": "2020-12-14 16:07:27.000",
-    "oa": "2020-12-14 16:07:17.000"
-  },
-  {
-    "uml": "Redmond",
-    "gm": {
-      "lat": 47.6694,
-      "lon": -122.1239
-    },
-    "uol": "Redmond",
-    "gop": {
-      "lat": 47.6694,
-      "lon": -122.1239
-    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
     "l": "Python",
-    "nwo": "MicrosoftDocs/visualstudio-docs",
-    "pr": 6204,
-    "ma": "2020-12-14 16:08:28.000",
-    "oa": "2020-12-14 16:08:05.000"
-  },
-  {
-    "uml": "Ireland",
-    "gm": {
-      "lat": 53.3054943871234,
-      "lon": -7.73764888796793
-    },
-    "uol": "Ireland",
-    "gop": {
-      "lat": 53.3054943871234,
-      "lon": -7.73764888796793
-    },
-    "l": "C#",
-    "nwo": "alanmcgovern/monotorrent",
-    "pr": 356,
-    "ma": "2020-12-14 16:13:31.000",
-    "oa": "2020-12-14 16:09:10.000"
-  },
-  {
-    "uml": "France",
-    "gm": {
-      "lat": 47.8249046208979,
-      "lon": 2.61878695312962
-    },
-    "uol": "France",
-    "gop": {
-      "lat": 47.8249046208979,
-      "lon": 2.61878695312962
-    },
-    "l": "C#",
-    "nwo": "aura-systems/Aura-Operating-System",
-    "pr": 147,
-    "ma": "2020-12-14 16:09:17.000",
-    "oa": "2020-12-14 16:09:11.000"
-  },
-  {
-    "uml": "Norway",
-    "gm": {
-      "lat": 61.2483331493152,
-      "lon": 8.80482073895072
-    },
-    "uol": "Norway",
-    "gop": {
-      "lat": 61.2483331493152,
-      "lon": 8.80482073895072
-    },
-    "l": "Python",
-    "nwo": "hacs/integration",
-    "pr": 1726,
-    "ma": "2020-12-14 16:16:16.000",
-    "oa": "2020-12-14 16:15:22.000"
-  },
-  {
-    "uml": "San Francisco",
-    "gm": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "uol": "San Francisco",
-    "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "l": "Swift",
-    "nwo": "kyleve/Listable",
-    "pr": 241,
-    "ma": "2020-12-14 16:52:39.000",
-    "oa": "2020-12-14 16:24:16.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "JavaScript",
-    "nwo": "RecordReplay/devtools",
-    "pr": 1231,
-    "ma": "2020-12-14 16:27:05.000",
-    "oa": "2020-12-14 16:26:53.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "TypeScript",
-    "nwo": "IBM/kui",
-    "pr": 6404,
-    "ma": "2020-12-14 18:45:30.000",
-    "oa": "2020-12-14 16:27:48.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "Shell",
-    "nwo": "opendistro-for-elasticsearch/opendistro-build",
-    "pr": 516,
-    "ma": "2020-12-14 16:30:12.000",
-    "oa": "2020-12-14 16:28:47.000"
-  },
-  {
-    "uml": "Tokyo",
-    "gm": {
-      "lat": 35.68,
-      "lon": 139.77
-    },
-    "uol": "Tokyo",
-    "gop": {
-      "lat": 35.68,
-      "lon": 139.77
-    },
-    "l": "Ruby",
-    "nwo": "fjordllc/bootcamp",
-    "pr": 2198,
-    "ma": "2020-12-14 16:52:07.000",
-    "oa": "2020-12-14 16:32:24.000"
-  },
-  {
-    "uml": "Chengdu",
-    "gm": {
-      "lat": 30.66361,
-      "lon": 104.06667
-    },
-    "uol": "Chengdu",
-    "gop": {
-      "lat": 30.66361,
-      "lon": 104.06667
-    },
-    "l": "C++",
-    "nwo": "pinpoint-apm/pinpoint-c-agent",
-    "pr": 266,
-    "ma": "2020-12-14 16:32:53.000",
-    "oa": "2020-12-14 16:32:32.000"
-  },
-  {
-    "uml": "United Kingdom",
-    "gm": {
-      "lat": 54.2379333607472,
-      "lon": -2.36966957036279
-    },
-    "uol": "United Kingdom",
-    "gop": {
-      "lat": 54.2379333607472,
-      "lon": -2.36966957036279
-    },
-    "l": "TypeScript",
-    "nwo": "devoxa/prisma-relay-cursor-connection",
-    "pr": 148,
-    "ma": "2020-12-14 16:43:55.000",
-    "oa": "2020-12-14 16:32:55.000"
-  },
-  {
-    "uml": "Switzerland",
-    "gm": {
-      "lat": 46.8024955829499,
-      "lon": 8.23439191387853
-    },
-    "uol": "Switzerland",
-    "gop": {
-      "lat": 46.8024955829499,
-      "lon": 8.23439191387853
-    },
-    "l": "C++",
-    "nwo": "polybar/polybar",
-    "pr": 2304,
-    "ma": "2020-12-14 16:47:33.000",
-    "oa": "2020-12-14 16:35:47.000"
-  },
-  {
-    "uml": "San Diego",
-    "gm": {
-      "lat": 32.7174,
-      "lon": -117.1628
-    },
-    "uol": "San Diego",
-    "gop": {
-      "lat": 32.7174,
-      "lon": -117.1628
-    },
-    "l": "C++",
-    "nwo": "commaai/openpilot",
-    "pr": 19502,
-    "ma": "2020-12-14 19:49:02.000",
-    "oa": "2020-12-14 16:36:43.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "Germany",
-    "gop": {
-      "lat": 51.1334813439932,
-      "lon": 10.0183432948567
-    },
-    "l": "Vue",
-    "nwo": "directus/directus",
-    "pr": 3421,
-    "ma": "2020-12-14 16:43:29.000",
-    "oa": "2020-12-14 16:38:48.000"
-  },
-  {
-    "uml": "Tainan",
-    "gm": {
-      "lat": 22.98333,
-      "lon": 120.18333
-    },
-    "uol": "Tainan",
-    "gop": {
-      "lat": 22.98333,
-      "lon": 120.18333
-    },
-    "l": "Java",
-    "nwo": "apache/kafka",
-    "pr": 9751,
-    "ma": "2020-12-14 16:39:59.000",
-    "oa": "2020-12-14 16:39:10.000"
-  },
-  {
-    "uml": "Boston",
-    "gm": {
-      "lat": 42.3605,
-      "lon": -71.0596
-    },
-    "uol": "Boston",
-    "gop": {
-      "lat": 42.3605,
-      "lon": -71.0596
-    },
-    "l": "Java",
-    "nwo": "JMRI/JMRI",
-    "pr": 9236,
-    "ma": "2020-12-14 19:01:54.000",
-    "oa": "2020-12-14 16:42:15.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Python",
-    "nwo": "Nitrate/Nitrate",
-    "pr": 850,
-    "ma": "2020-12-14 17:01:00.000",
-    "oa": "2020-12-14 16:43:24.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "Shell",
-    "nwo": "opendistro-for-elasticsearch/opendistro-build",
-    "pr": 518,
-    "ma": "2020-12-14 16:54:41.000",
-    "oa": "2020-12-14 16:45:23.000"
-  },
-  {
-    "uml": "Canada",
-    "gm": {
-      "lat": 55.5859012851966,
-      "lon": -105.750595856519
-    },
-    "uol": "Canada",
-    "gop": {
-      "lat": 55.5859012851966,
-      "lon": -105.750595856519
-    },
-    "l": "HTML",
-    "nwo": "web-platform-tests/wpt",
-    "pr": 26897,
-    "ma": "2020-12-14 17:31:29.000",
-    "oa": "2020-12-14 16:45:28.000"
-  },
-  {
-    "uml": "Rio de Janeiro",
-    "gm": {
-      "lat": -22.911,
-      "lon": -43.2094
-    },
-    "uol": "Rio de Janeiro",
-    "gop": {
-      "lat": -22.911,
-      "lon": -43.2094
-    },
-    "l": "Julia",
-    "nwo": "LAMPSPUC/StateSpaceModels.jl",
-    "pr": 224,
-    "ma": "2020-12-14 17:01:38.000",
-    "oa": "2020-12-14 16:46:58.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "TypeScript",
-    "nwo": "sprout2000/elephicon",
-    "pr": 94,
-    "ma": "2020-12-14 16:47:18.000",
-    "oa": "2020-12-14 16:47:10.000"
-  },
-  {
-    "uml": "United States",
-    "gm": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "uol": "United States",
-    "gop": {
-      "lat": 39.3812661305678,
-      "lon": -97.9222112121185
-    },
-    "l": "Go",
-    "nwo": "denverquane/automuteus",
-    "pr": 324,
-    "ma": "2020-12-14 17:05:11.000",
-    "oa": "2020-12-14 16:47:37.000"
-  },
-  {
-    "uml": "New Zealand",
-    "gm": {
-      "lat": -41.8388752215127,
-      "lon": 171.779900195937
-    },
-    "uol": "New Zealand",
-    "gop": {
-      "lat": -41.8388752215127,
-      "lon": 171.779900195937
-    },
-    "l": "TypeScript",
-    "nwo": "binance-chain-npm/honeycomb",
-    "pr": 190,
-    "ma": "2020-12-14 17:29:53.000",
-    "oa": "2020-12-14 17:00:16.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "JavaScript",
-    "nwo": "RecordReplay/devtools",
-    "pr": 1232,
-    "ma": "2020-12-14 17:03:31.000",
-    "oa": "2020-12-14 17:02:57.000"
-  },
-  {
-    "uml": "California City",
-    "gm": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "uol": "Sweden",
-    "gop": {
-      "lat": 64.9648751621697,
-      "lon": 17.6754094331351
-    },
-    "l": "Markdown",
-    "nwo": "ppy/osu-wiki",
-    "pr": 4623,
-    "ma": "2020-12-14 17:05:16.000",
-    "oa": "2020-12-14 17:04:14.000"
-  },
-  {
-    "uml": "Sunnyvale",
-    "gm": {
-      "lat": 37.3688,
-      "lon": -122.0363
-    },
-    "uol": "Sunnyvale",
-    "gop": {
-      "lat": 37.3688,
-      "lon": -122.0363
-    },
-    "l": "Jupyter Notebook",
-    "nwo": "onnx/tensorflow-onnx",
-    "pr": 1232,
-    "ma": "2020-12-14 17:47:48.000",
-    "oa": "2020-12-14 17:04:17.000"
-  },
-  {
-    "uml": "Philadelphia",
-    "gm": {
-      "lat": 40.0115,
-      "lon": -75.1327
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "Ruby",
-    "nwo": "rails/rails",
-    "pr": 40844,
-    "ma": "2020-12-14 17:43:18.000",
-    "oa": "2020-12-14 17:07:30.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "TypeScript",
-    "nwo": "google/model-viewer",
-    "pr": 1766,
-    "ma": "2020-12-14 17:14:23.000",
-    "oa": "2020-12-14 17:14:00.000"
-  },
-  {
-    "uml": "San Francisco",
-    "gm": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "uol": "San Francisco",
-    "gop": {
-      "lat": 37.7648,
-      "lon": -122.463
-    },
-    "l": "Go",
-    "nwo": "moby/buildkit",
-    "pr": 1898,
-    "ma": "2020-12-14 17:55:08.000",
-    "oa": "2020-12-14 17:22:06.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "Go",
-    "nwo": "sacloud/usacloud",
-    "pr": 739,
-    "ma": "2020-12-14 17:42:24.000",
-    "oa": "2020-12-14 17:23:38.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "Shell",
-    "nwo": "opendistro-for-elasticsearch/opendistro-build",
-    "pr": 519,
-    "ma": "2020-12-14 17:28:43.000",
-    "oa": "2020-12-14 17:23:53.000"
-  },
-  {
-    "uml": "Redmond",
-    "gm": {
-      "lat": 47.6694,
-      "lon": -122.1239
-    },
-    "uol": "Montreal",
-    "gop": {
-      "lat": 45.5088,
-      "lon": -73.554
-    },
-    "l": "Python",
-    "nwo": "microsoft/PowerPlatformConnectors",
-    "pr": 613,
-    "ma": "2020-12-14 19:31:06.000",
-    "oa": "2020-12-14 17:30:00.000"
-  },
-  {
-    "uml": "Germany",
-    "gm": {
-      "lat": 51.1334813439932,
-      "lon": 10.0183432948567
-    },
-    "uol": "Germany",
-    "gop": {
-      "lat": 51.1334813439932,
-      "lon": 10.0183432948567
-    },
-    "l": "JavaScript",
-    "nwo": "arlac77/svelte-session-manager",
-    "pr": 355,
-    "ma": "2020-12-14 17:32:49.000",
-    "oa": "2020-12-14 17:31:10.000"
-  },
-  {
-    "uml": "Australia",
-    "gm": {
-      "lat": -25.7349684916223,
-      "lon": 134.489562606981
-    },
-    "uol": "Australia",
-    "gop": {
-      "lat": -25.7349684916223,
-      "lon": 134.489562606981
-    },
-    "l": "Python",
-    "nwo": "inventree/InvenTree",
-    "pr": 1164,
-    "ma": "2020-12-14 18:32:13.000",
-    "oa": "2020-12-14 17:31:28.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "Fortran",
-    "nwo": "ywkawai/FE-Project",
-    "pr": 87,
-    "ma": "2020-12-14 17:59:55.000",
-    "oa": "2020-12-14 17:34:14.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "Go",
-    "nwo": "sacloud/usacloud",
-    "pr": 740,
-    "ma": "2020-12-14 17:41:54.000",
-    "oa": "2020-12-14 17:37:05.000"
-  },
-  {
-    "uml": "Shanghai",
-    "gm": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "uol": "Shanghai",
-    "gop": {
-      "lat": 31.16667,
-      "lon": 121.46667
-    },
-    "l": "Lua",
-    "nwo": "xmake-io/xmake-repo",
-    "pr": 212,
-    "ma": "2020-12-14 17:51:35.000",
-    "oa": "2020-12-14 17:38:19.000"
-  },
-  {
-    "uml": "Hangzhou",
-    "gm": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "uol": "Hangzhou",
-    "gop": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "l": "TypeScript",
-    "nwo": "antvis/X6",
-    "pr": 416,
-    "ma": "2020-12-14 19:52:03.000",
-    "oa": "2020-12-14 17:39:38.000"
-  },
-  {
-    "uml": "Netherlands",
-    "gm": {
-      "lat": 51.9724664894952,
-      "lon": 5.61349061168593
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "V",
-    "nwo": "vlang/v",
-    "pr": 7333,
-    "ma": "2020-12-14 19:31:35.000",
-    "oa": "2020-12-14 17:46:41.000"
+    "nwo": "1015",
+    "pr": 1015,
+    "ma": "2022-12-10 02:10:17",
+    "oa": "2022-12-10 02:10:17"
   },
   {
     "uml": "Azerbaijan",
     "gm": {
-      "lat": 40.418259613178,
-      "lon": 47.720341220495
+      "lat": 40.143105,
+      "lon": 47.576927
     },
+    "key": "AZ",
     "uol": "Azerbaijan",
     "gop": {
-      "lat": 40.418259613178,
-      "lon": 47.720341220495
+      "lat": 40.143105,
+      "lon": 47.576927
     },
-    "l": "PHP",
-    "nwo": "hose1021/DevHub",
-    "pr": 121,
-    "ma": "2020-12-14 17:50:40.000",
-    "oa": "2020-12-14 17:50:32.000"
-  },
-  {
-    "uml": "Toronto",
-    "gm": {
-      "lat": 43.6529,
-      "lon": -79.3849
-    },
-    "uol": "Toronto",
-    "gop": {
-      "lat": 43.6529,
-      "lon": -79.3849
-    },
-    "l": "TypeScript",
-    "nwo": "nrwl/nx",
-    "pr": 4292,
-    "ma": "2020-12-14 18:36:21.000",
-    "oa": "2020-12-14 17:51:06.000"
-  },
-  {
-    "uml": "California City",
-    "gm": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "uol": "California City",
-    "gop": {
-      "lat": 35.1258,
-      "lon": -117.9859
-    },
-    "l": "JavaScript",
-    "nwo": "versx/WhMgr-UI",
-    "pr": 18,
-    "ma": "2020-12-14 19:17:49.000",
-    "oa": "2020-12-14 17:52:14.000"
-  },
-  {
-    "uml": "Panama",
-    "gm": {
-      "lat": 8.70473482400532,
-      "lon": -80.2681751731831
-    },
-    "uol": "Panama",
-    "gop": {
-      "lat": 8.70473482400532,
-      "lon": -80.2681751731831
-    },
-    "l": "Vue",
-    "nwo": "LeXeL/Brewthers",
-    "pr": 242,
-    "ma": "2020-12-14 18:16:32.000",
-    "oa": "2020-12-14 17:54:41.000"
-  },
-  {
-    "uml": "South Korea",
-    "gm": {
-      "lat": 36.5362364654109,
-      "lon": 128.168944342317
-    },
-    "uol": "South Korea",
-    "gop": {
-      "lat": 36.5362364654109,
-      "lon": 128.168944342317
-    },
-    "l": "JavaScript",
-    "nwo": "linewalks/MDwalks-UI",
-    "pr": 823,
-    "ma": "2020-12-14 18:35:56.000",
-    "oa": "2020-12-14 18:06:12.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "Starlark",
-    "nwo": "google/llvm-bazel",
-    "pr": 113,
-    "ma": "2020-12-14 18:43:46.000",
-    "oa": "2020-12-14 18:08:55.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "TypeScript",
-    "nwo": "sprout2000/elephicon",
-    "pr": 95,
-    "ma": "2020-12-14 18:10:01.000",
-    "oa": "2020-12-14 18:09:55.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "Go",
-    "nwo": "lighttiger2505/sqls",
-    "pr": 34,
-    "ma": "2020-12-14 18:13:54.000",
-    "oa": "2020-12-14 18:10:58.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "C++",
-    "nwo": "ApolloAuto/apollo",
-    "pr": 13188,
-    "ma": "2020-12-14 18:14:41.000",
-    "oa": "2020-12-14 18:14:31.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "TypeScript",
-    "nwo": "sprout2000/elephicon",
-    "pr": 96,
-    "ma": "2020-12-14 18:16:58.000",
-    "oa": "2020-12-14 18:16:51.000"
-  },
-  {
-    "uml": "Japan",
-    "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "uol": "Japan",
-    "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
-    },
-    "l": "TypeScript",
-    "nwo": "sprout2000/leafview",
-    "pr": 140,
-    "ma": "2020-12-14 18:22:42.000",
-    "oa": "2020-12-14 18:22:34.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "People's Republic of China",
-    "gop": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "l": "Shell",
-    "nwo": "LCTT/TranslateProject",
-    "pr": 20446,
-    "ma": "2020-12-14 18:33:29.000",
-    "oa": "2020-12-14 18:30:55.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
+    "author_count": 20137,
+    "institution_count": 66,
+    "work_count": 20287,
     "l": "Python",
-    "nwo": "k2-fsa/snowfall",
-    "pr": 41,
-    "ma": "2020-12-14 18:41:46.000",
-    "oa": "2020-12-14 18:30:59.000"
+    "nwo": "1016",
+    "pr": 1016,
+    "ma": "2022-12-10 02:08:25",
+    "oa": "2022-12-10 02:08:25"
   },
   {
-    "uml": "California City",
+    "uml": "Bosnia and Herzegovina",
     "gm": {
-      "lat": 35.1258,
-      "lon": -117.9859
+      "lat": 43.915886,
+      "lon": 17.679076
     },
-    "uol": "California City",
+    "key": "BA",
+    "uol": "Bosnia and Herzegovina",
     "gop": {
-      "lat": 35.1258,
-      "lon": -117.9859
+      "lat": 43.915886,
+      "lon": 17.679076
     },
-    "l": "TypeScript",
-    "nwo": "HackSC/odyssey",
-    "pr": 490,
-    "ma": "2020-12-14 19:25:34.000",
-    "oa": "2020-12-14 18:34:05.000"
-  },
-  {
-    "uml": "Utah",
-    "gm": {
-      "lat": 39.2548171647,
-      "lon": -111.602499934826
-    },
-    "uol": "Utah",
-    "gop": {
-      "lat": 39.2548171647,
-      "lon": -111.602499934826
-    },
-    "l": "JavaScript",
-    "nwo": "iobio/gene.iobio.vue",
-    "pr": 700,
-    "ma": "2020-12-14 18:39:53.000",
-    "oa": "2020-12-14 18:39:26.000"
-  },
-  {
-    "uml": "Tokyo",
-    "gm": {
-      "lat": 35.68,
-      "lon": 139.77
-    },
-    "uol": "Tokyo",
-    "gop": {
-      "lat": 35.68,
-      "lon": 139.77
-    },
-    "l": "Shell",
-    "nwo": "yutakatay/dotfiles",
-    "pr": 1758,
-    "ma": "2020-12-14 18:40:46.000",
-    "oa": "2020-12-14 18:40:41.000"
-  },
-  {
-    "uml": "Denver",
-    "gm": {
-      "lat": 39.7348,
-      "lon": -104.9653
-    },
-    "uol": "Denver",
-    "gop": {
-      "lat": 39.7348,
-      "lon": -104.9653
-    },
-    "l": "JavaScript",
-    "nwo": "HausDAO/daohaus-web",
-    "pr": 467,
-    "ma": "2020-12-14 18:46:30.000",
-    "oa": "2020-12-14 18:45:40.000"
-  },
-  {
-    "uml": "Berlin",
-    "gm": {
-      "lat": 52.51667,
-      "lon": 13.38333
-    },
-    "uol": "Berlin",
-    "gop": {
-      "lat": 52.51667,
-      "lon": 13.38333
-    },
+    "author_count": 19614,
+    "institution_count": 46,
+    "work_count": 24231,
     "l": "Python",
-    "nwo": "JohnSnowLabs/nlu",
-    "pr": 22,
-    "ma": "2020-12-14 18:47:53.000",
-    "oa": "2020-12-14 18:46:42.000"
+    "nwo": "1017",
+    "pr": 1017,
+    "ma": "2022-12-10 02:09:01",
+    "oa": "2022-12-10 02:09:01"
   },
   {
-    "uml": "Portugal",
+    "uml": "Barbados",
     "gm": {
-      "lat": 39.6009946583093,
-      "lon": -8.56273059638958
+      "lat": 13.193887,
+      "lon": -59.543198
     },
-    "uol": "Portugal",
+    "key": "BB",
+    "uol": "Barbados",
     "gop": {
-      "lat": 39.6009946583093,
-      "lon": -8.56273059638958
+      "lat": 13.193887,
+      "lon": -59.543198
     },
-    "l": "C#",
-    "nwo": "mono/CppSharp",
-    "pr": 1551,
-    "ma": "2020-12-14 18:51:43.000",
-    "oa": "2020-12-14 18:46:47.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud",
-    "pr": 9426,
-    "ma": "2020-12-14 19:44:43.000",
-    "oa": "2020-12-14 18:46:48.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud",
-    "pr": 9427,
-    "ma": "2020-12-14 19:44:49.000",
-    "oa": "2020-12-14 18:47:28.000"
-  },
-  {
-    "uml": "Denver",
-    "gm": {
-      "lat": 39.7348,
-      "lon": -104.9653
-    },
-    "uol": "Denver",
-    "gop": {
-      "lat": 39.7348,
-      "lon": -104.9653
-    },
-    "l": "JavaScript",
-    "nwo": "HausDAO/daohaus-web",
-    "pr": 468,
-    "ma": "2020-12-14 18:47:39.000",
-    "oa": "2020-12-14 18:47:34.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud",
-    "pr": 9428,
-    "ma": "2020-12-14 19:45:18.000",
-    "oa": "2020-12-14 18:48:01.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud",
-    "pr": 9429,
-    "ma": "2020-12-14 19:45:29.000",
-    "oa": "2020-12-14 18:48:33.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud",
-    "pr": 9430,
-    "ma": "2020-12-14 19:45:35.000",
-    "oa": "2020-12-14 18:49:07.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "C",
-    "nwo": "taosdata/TDengine",
-    "pr": 4569,
-    "ma": "2020-12-14 18:52:20.000",
-    "oa": "2020-12-14 18:52:10.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Shell",
-    "nwo": "kaldi-asr/kaldi",
-    "pr": 4389,
-    "ma": "2020-12-14 18:58:25.000",
-    "oa": "2020-12-14 18:58:08.000"
-  },
-  {
-    "uml": "New York City",
-    "gm": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "uol": "New York City",
-    "gop": {
-      "lat": 40.7648,
-      "lon": -73.9808
-    },
-    "l": "Kotlin",
-    "nwo": "code-helix/slatekit",
-    "pr": 278,
-    "ma": "2020-12-14 19:01:16.000",
-    "oa": "2020-12-14 18:58:45.000"
-  },
-  {
-    "uml": "Seattle",
-    "gm": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "uol": "Seattle",
-    "gop": {
-      "lat": 47.6038,
-      "lon": -122.3301
-    },
-    "l": "TypeScript",
-    "nwo": "aws-amplify/amplify-cli",
-    "pr": 6183,
-    "ma": "2020-12-14 19:34:08.000",
-    "oa": "2020-12-14 19:02:38.000"
-  },
-  {
-    "uml": "Canberra",
-    "gm": {
-      "lat": -35.2819,
-      "lon": 149.1289
-    },
-    "uol": "Canberra",
-    "gop": {
-      "lat": -35.2819,
-      "lon": 149.1289
-    },
+    "author_count": 5137,
+    "institution_count": 11,
+    "work_count": 4680,
     "l": "Python",
-    "nwo": "GeoscienceAustralia/dea-airflow",
-    "pr": 160,
-    "ma": "2020-12-14 19:42:19.000",
-    "oa": "2020-12-14 19:03:57.000"
+    "nwo": "1018",
+    "pr": 1018,
+    "ma": "2022-12-10 02:09:59",
+    "oa": "2022-12-10 02:09:59"
   },
   {
-    "uml": "San José",
+    "uml": "Bangladesh",
     "gm": {
-      "lat": 9.93333,
-      "lon": -84.08333
+      "lat": 23.684994,
+      "lon": 90.356331
     },
-    "uol": "San José",
+    "key": "BD",
+    "uol": "Bangladesh",
     "gop": {
-      "lat": 9.93333,
-      "lon": -84.08333
+      "lat": 23.684994,
+      "lon": 90.356331
     },
-    "l": "Go",
-    "nwo": "noironetworks/aci-containers",
-    "pr": 705,
-    "ma": "2020-12-14 19:47:15.000",
-    "oa": "2020-12-14 19:24:14.000"
-  },
-  {
-    "uml": "Hangzhou",
-    "gm": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "uol": "Hangzhou",
-    "gop": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "l": "TypeScript",
-    "nwo": "umijs/umi",
-    "pr": 5824,
-    "ma": "2020-12-14 19:46:10.000",
-    "oa": "2020-12-14 19:29:46.000"
-  },
-  {
-    "uml": "Portland",
-    "gm": {
-      "lat": 45.5202,
-      "lon": -122.6742
-    },
-    "uol": "Portland",
-    "gop": {
-      "lat": 45.5202,
-      "lon": -122.6742
-    },
-    "l": "Shell",
-    "nwo": "devlinjunker/template.github",
-    "pr": 52,
-    "ma": "2020-12-14 19:35:48.000",
-    "oa": "2020-12-14 19:31:48.000"
-  },
-  {
-    "uml": "Hangzhou",
-    "gm": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "uol": "Hangzhou",
-    "gop": {
-      "lat": 30.2741,
-      "lon": 120.15507
-    },
-    "l": "TypeScript",
-    "nwo": "umijs/umi",
-    "pr": 5825,
-    "ma": "2020-12-14 19:45:54.000",
-    "oa": "2020-12-14 19:32:57.000"
-  },
-  {
-    "uml": "New Zealand",
-    "gm": {
-      "lat": -41.8388752215127,
-      "lon": 171.779900195937
-    },
-    "uol": "New Zealand",
-    "gop": {
-      "lat": -41.8388752215127,
-      "lon": 171.779900195937
-    },
-    "l": "JavaScript",
-    "nwo": "Automattic/wp-calypso",
-    "pr": 48333,
-    "ma": "2020-12-14 20:00:09.000",
-    "oa": "2020-12-14 19:34:10.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud",
-    "pr": 9431,
-    "ma": "2020-12-14 19:46:09.000",
-    "oa": "2020-12-14 19:35:32.000"
-  },
-  {
-    "uml": "Shenzhen",
-    "gm": {
-      "lat": 22.535383,
-      "lon": 114.05471
-    },
-    "uol": "Shenzhen",
-    "gop": {
-      "lat": 22.535383,
-      "lon": 114.05471
-    },
-    "l": "C",
-    "nwo": "dart-native/dart_native",
-    "pr": 42,
-    "ma": "2020-12-14 19:38:11.000",
-    "oa": "2020-12-14 19:36:07.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud",
-    "pr": 9432,
-    "ma": "2020-12-14 19:51:57.000",
-    "oa": "2020-12-14 19:36:13.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud",
-    "pr": 9433,
-    "ma": "2020-12-14 19:54:33.000",
-    "oa": "2020-12-14 19:36:54.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Go",
-    "nwo": "yunionio/onecloud",
-    "pr": 9434,
-    "ma": "2020-12-14 19:54:36.000",
-    "oa": "2020-12-14 19:37:30.000"
-  },
-  {
-    "uml": "Beijing",
-    "gm": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "uol": "Beijing",
-    "gop": {
-      "lat": 39.905,
-      "lon": 116.39139
-    },
-    "l": "Java",
-    "nwo": "Talend/tesb-studio-se",
-    "pr": 997,
-    "ma": "2020-12-14 19:46:45.000",
-    "oa": "2020-12-14 19:42:40.000"
-  },
-  {
-    "uml": "South Korea",
-    "gm": {
-      "lat": 36.5362364654109,
-      "lon": 128.168944342317
-    },
-    "uol": "South Korea",
-    "gop": {
-      "lat": 36.5362364654109,
-      "lon": 128.168944342317
-    },
-    "l": "HTML",
-    "nwo": "bitholla/hollaex-kit",
-    "pr": 390,
-    "ma": "2020-12-14 19:44:56.000",
-    "oa": "2020-12-14 19:43:59.000"
-  },
-  {
-    "uml": "Mountain View",
-    "gm": {
-      "lat": 37.3856,
-      "lon": -122.082
-    },
-    "uol": "Mountain View",
-    "gop": {
-      "lat": 37.3856,
-      "lon": -122.082
-    },
+    "author_count": 140821,
+    "institution_count": 201,
+    "work_count": 130148,
     "l": "Python",
-    "nwo": "facebookresearch/hydra",
-    "pr": 1210,
-    "ma": "2020-12-14 19:59:25.000",
-    "oa": "2020-12-14 19:45:27.000"
+    "nwo": "1019",
+    "pr": 1019,
+    "ma": "2022-12-10 02:10:44",
+    "oa": "2022-12-10 02:10:44"
   },
   {
-    "uml": "South Korea",
+    "uml": "Belgium",
     "gm": {
-      "lat": 36.5362364654109,
-      "lon": 128.168944342317
+      "lat": 50.503887,
+      "lon": 4.469936
     },
-    "uol": "South Korea",
+    "key": "BE",
+    "uol": "Belgium",
     "gop": {
-      "lat": 36.5362364654109,
-      "lon": 128.168944342317
+      "lat": 50.503887,
+      "lon": 4.469936
     },
-    "l": "HTML",
-    "nwo": "bitholla/hollaex-kit",
-    "pr": 391,
-    "ma": "2020-12-14 19:45:45.000",
-    "oa": "2020-12-14 19:45:34.000"
+    "author_count": 413866,
+    "institution_count": 952,
+    "work_count": 876677,
+    "l": "Python",
+    "nwo": "1020",
+    "pr": 1020,
+    "ma": "2022-12-10 02:10:33",
+    "oa": "2022-12-10 02:10:33"
   },
   {
-    "uml": "People's Republic of China",
+    "uml": "Burkina Faso",
     "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
+      "lat": 12.238333,
+      "lon": -1.561593
     },
-    "uol": "People's Republic of China",
+    "key": "BF",
+    "uol": "Burkina Faso",
     "gop": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
+      "lat": 12.238333,
+      "lon": -1.561593
     },
-    "l": "Shell",
-    "nwo": "LCTT/TranslateProject",
-    "pr": 20447,
-    "ma": "2020-12-14 19:50:04.000",
-    "oa": "2020-12-14 19:48:19.000"
+    "author_count": 9872,
+    "institution_count": 37,
+    "work_count": 8835,
+    "l": "Python",
+    "nwo": "1021",
+    "pr": 1021,
+    "ma": "2022-12-10 02:08:51",
+    "oa": "2022-12-10 02:08:51"
   },
   {
-    "uml": "Hong Kong",
+    "uml": "Bulgaria",
     "gm": {
-      "lat": 22.27833,
-      "lon": 114.15861
+      "lat": 42.733883,
+      "lon": 25.48583
     },
-    "uol": "Hong Kong",
+    "key": "BG",
+    "uol": "Bulgaria",
     "gop": {
-      "lat": 22.27833,
-      "lon": 114.15861
+      "lat": 42.733883,
+      "lon": 25.48583
     },
-    "l": "Java",
-    "nwo": "OpenAPITools/openapi-generator",
-    "pr": 8188,
-    "ma": "2020-12-14 19:50:55.000",
-    "oa": "2020-12-14 19:48:52.000"
+    "author_count": 97534,
+    "institution_count": 237,
+    "work_count": 122520,
+    "l": "Python",
+    "nwo": "1022",
+    "pr": 1022,
+    "ma": "2022-12-10 02:11:06",
+    "oa": "2022-12-10 02:11:06"
   },
   {
-    "uml": "Japan",
+    "uml": "Bahrain",
     "gm": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
+      "lat": 25.930414,
+      "lon": 50.637772
     },
-    "uol": "Japan",
+    "key": "BH",
+    "uol": "Bahrain",
     "gop": {
-      "lat": 36.3864928218528,
-      "lon": 138.592229549504
+      "lat": 25.930414,
+      "lon": 50.637772
     },
-    "l": "C++",
-    "nwo": "MapIV/eagleye",
-    "pr": 60,
-    "ma": "2020-12-14 20:00:03.000",
-    "oa": "2020-12-14 19:50:09.000"
+    "author_count": 15423,
+    "institution_count": 21,
+    "work_count": 18322,
+    "l": "Python",
+    "nwo": "1023",
+    "pr": 1023,
+    "ma": "2022-12-10 02:08:21",
+    "oa": "2022-12-10 02:08:21"
   },
   {
-    "uml": "Portland",
+    "uml": "Burundi",
     "gm": {
-      "lat": 45.5202,
-      "lon": -122.6742
+      "lat": -3.373056,
+      "lon": 29.918886
     },
-    "uol": "Portland",
+    "key": "BI",
+    "uol": "Burundi",
     "gop": {
-      "lat": 45.5202,
-      "lon": -122.6742
+      "lat": -3.373056,
+      "lon": 29.918886
     },
-    "l": "Shell",
-    "nwo": "devlinjunker/template.github",
-    "pr": 54,
-    "ma": "2020-12-14 20:05:59.000",
-    "oa": "2020-12-14 20:03:27.000"
+    "author_count": 4606,
+    "institution_count": 15,
+    "work_count": 9319,
+    "l": "Python",
+    "nwo": "1024",
+    "pr": 1024,
+    "ma": "2022-12-10 02:08:33",
+    "oa": "2022-12-10 02:08:33"
+  },
+  {
+    "uml": "Benin",
+    "gm": {
+      "lat": 9.30769,
+      "lon": 2.315834
+    },
+    "key": "BJ",
+    "uol": "Benin",
+    "gop": {
+      "lat": 9.30769,
+      "lon": 2.315834
+    },
+    "author_count": 14023,
+    "institution_count": 31,
+    "work_count": 12897,
+    "l": "Python",
+    "nwo": "1025",
+    "pr": 1025,
+    "ma": "2022-12-10 02:09:05",
+    "oa": "2022-12-10 02:09:05"
+  },
+  {
+    "uml": "Bermuda",
+    "gm": {
+      "lat": 32.321384,
+      "lon": -64.75737
+    },
+    "key": "BM",
+    "uol": "Bermuda",
+    "gop": {
+      "lat": 32.321384,
+      "lon": -64.75737
+    },
+    "author_count": 645,
+    "institution_count": 10,
+    "work_count": 1084,
+    "l": "Python",
+    "nwo": "1026",
+    "pr": 1026,
+    "ma": "2022-12-10 02:10:11",
+    "oa": "2022-12-10 02:10:11"
+  },
+  {
+    "uml": "Brunei",
+    "gm": {
+      "lat": 4.535277,
+      "lon": 114.727669
+    },
+    "key": "BN",
+    "uol": "Brunei",
+    "gop": {
+      "lat": 4.535277,
+      "lon": 114.727669
+    },
+    "author_count": 5115,
+    "institution_count": 9,
+    "work_count": 7603,
+    "l": "Python",
+    "nwo": "1027",
+    "pr": 1027,
+    "ma": "2022-12-10 02:09:29",
+    "oa": "2022-12-10 02:09:29"
+  },
+  {
+    "uml": "Bolivia",
+    "gm": {
+      "lat": -16.290154,
+      "lon": -63.588653
+    },
+    "key": "BO",
+    "uol": "Bolivia",
+    "gop": {
+      "lat": -16.290154,
+      "lon": -63.588653
+    },
+    "author_count": 16542,
+    "institution_count": 71,
+    "work_count": 17731,
+    "l": "Python",
+    "nwo": "1028",
+    "pr": 1028,
+    "ma": "2022-12-10 02:09:15",
+    "oa": "2022-12-10 02:09:15"
   },
   {
     "uml": "Brazil",
     "gm": {
-      "lat": -9.58890301712257,
-      "lon": -51.6197890205486
+      "lat": -14.235004,
+      "lon": -51.92528
     },
+    "key": "BR",
     "uol": "Brazil",
     "gop": {
-      "lat": -9.58890301712257,
-      "lon": -51.6197890205486
+      "lat": -14.235004,
+      "lon": -51.92528
     },
-    "l": "JavaScript",
-    "nwo": "topcoder-platform/community-app",
-    "pr": 5256,
-    "ma": "2020-12-14 20:09:56.000",
-    "oa": "2020-12-14 20:04:32.000"
-  },
-  {
-    "uml": "People's Republic of China",
-    "gm": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "uol": "People's Republic of China",
-    "gop": {
-      "lat": 35.4867029846329,
-      "lon": 101.901875103385
-    },
-    "l": "Shell",
-    "nwo": "LCTT/TranslateProject",
-    "pr": 20448,
-    "ma": "2020-12-14 20:06:44.000",
-    "oa": "2020-12-14 20:04:37.000"
-  },
-  {
-    "uml": "Wuhan",
-    "gm": {
-      "lat": 30.5725,
-      "lon": 114.27917
-    },
-    "uol": "Wuhan",
-    "gop": {
-      "lat": 30.5725,
-      "lon": 114.27917
-    },
+    "author_count": 2106115,
+    "institution_count": 1805,
+    "work_count": 2299272,
     "l": "Python",
-    "nwo": "FISCO-BCOS/FISCO-BCOS-DOC",
-    "pr": 1090,
-    "ma": "2020-12-14 20:09:34.000",
-    "oa": "2020-12-14 20:06:54.000"
+    "nwo": "1029",
+    "pr": 1029,
+    "ma": "2022-12-10 02:10:21",
+    "oa": "2022-12-10 02:10:21"
+  },
+  {
+    "uml": "Bahamas",
+    "gm": {
+      "lat": 25.03428,
+      "lon": -77.39628
+    },
+    "key": "BS",
+    "uol": "Bahamas",
+    "gop": {
+      "lat": 25.03428,
+      "lon": -77.39628
+    },
+    "author_count": 716,
+    "institution_count": 12,
+    "work_count": 1293,
+    "l": "Python",
+    "nwo": "1030",
+    "pr": 1030,
+    "ma": "2022-12-10 02:08:18",
+    "oa": "2022-12-10 02:08:18"
+  },
+  {
+    "uml": "Bhutan",
+    "gm": {
+      "lat": 27.514162,
+      "lon": 90.433601
+    },
+    "key": "BT",
+    "uol": "Bhutan",
+    "gop": {
+      "lat": 27.514162,
+      "lon": 90.433601
+    },
+    "author_count": 1041,
+    "institution_count": 10,
+    "work_count": 1008,
+    "l": "Python",
+    "nwo": "1031",
+    "pr": 1031,
+    "ma": "2022-12-10 02:08:22",
+    "oa": "2022-12-10 02:08:22"
+  },
+  {
+    "uml": "Bouvet Island",
+    "gm": {
+      "lat": -54.423199,
+      "lon": 3.413194
+    },
+    "key": "BV",
+    "uol": "Bouvet Island",
+    "gop": {
+      "lat": -54.423199,
+      "lon": 3.413194
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1032",
+    "pr": 1032,
+    "ma": "2022-12-10 02:08:11",
+    "oa": "2022-12-10 02:08:11"
+  },
+  {
+    "uml": "Botswana",
+    "gm": {
+      "lat": -22.328474,
+      "lon": 24.684866
+    },
+    "key": "BW",
+    "uol": "Botswana",
+    "gop": {
+      "lat": -22.328474,
+      "lon": 24.684866
+    },
+    "author_count": 7236,
+    "institution_count": 34,
+    "work_count": 11274,
+    "l": "Python",
+    "nwo": "1033",
+    "pr": 1033,
+    "ma": "2022-12-10 02:08:50",
+    "oa": "2022-12-10 02:08:50"
+  },
+  {
+    "uml": "Belarus",
+    "gm": {
+      "lat": 53.709807,
+      "lon": 27.953389
+    },
+    "key": "BY",
+    "uol": "Belarus",
+    "gop": {
+      "lat": 53.709807,
+      "lon": 27.953389
+    },
+    "author_count": 63871,
+    "institution_count": 117,
+    "work_count": 68232,
+    "l": "Python",
+    "nwo": "1034",
+    "pr": 1034,
+    "ma": "2022-12-10 02:09:30",
+    "oa": "2022-12-10 02:09:30"
+  },
+  {
+    "uml": "Belize",
+    "gm": {
+      "lat": 17.189877,
+      "lon": -88.49765
+    },
+    "key": "BZ",
+    "uol": "Belize",
+    "gop": {
+      "lat": 17.189877,
+      "lon": -88.49765
+    },
+    "author_count": 1518,
+    "institution_count": 5,
+    "work_count": 1603,
+    "l": "Python",
+    "nwo": "1035",
+    "pr": 1035,
+    "ma": "2022-12-10 02:09:52",
+    "oa": "2022-12-10 02:09:52"
   },
   {
     "uml": "Canada",
     "gm": {
-      "lat": 55.5859012851966,
-      "lon": -105.750595856519
+      "lat": 56.130366,
+      "lon": -106.346771
     },
-    "uol": "Wisconsin",
+    "key": "CA",
+    "uol": "Canada",
     "gop": {
-      "lat": 44.7131688504,
-      "lon": -89.7639108198947
+      "lat": 56.130366,
+      "lon": -106.346771
     },
-    "l": "Java",
-    "nwo": "SpongePowered/SpongeAPI",
-    "pr": 2281,
-    "ma": "2020-12-14 20:10:00.000",
-    "oa": "2020-12-14 20:09:23.000"
+    "author_count": 1736611,
+    "institution_count": 3498,
+    "work_count": 2836619,
+    "l": "Python",
+    "nwo": "1036",
+    "pr": 1036,
+    "ma": "2022-12-10 02:09:17",
+    "oa": "2022-12-10 02:09:17"
+  },
+  {
+    "uml": "Cocos [Keeling] Islands",
+    "gm": {
+      "lat": -12.164165,
+      "lon": 96.870956
+    },
+    "key": "CC",
+    "uol": "Cocos [Keeling] Islands",
+    "gop": {
+      "lat": -12.164165,
+      "lon": 96.870956
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1037",
+    "pr": 1037,
+    "ma": "2022-12-10 02:09:32",
+    "oa": "2022-12-10 02:09:32"
+  },
+  {
+    "uml": "Congo [DRC]",
+    "gm": {
+      "lat": -4.038333,
+      "lon": 21.758664
+    },
+    "key": "CD",
+    "uol": "Congo [DRC]",
+    "gop": {
+      "lat": -4.038333,
+      "lon": 21.758664
+    },
+    "author_count": 10784,
+    "institution_count": 67,
+    "work_count": 7543,
+    "l": "Python",
+    "nwo": "1038",
+    "pr": 1038,
+    "ma": "2022-12-10 02:08:50",
+    "oa": "2022-12-10 02:08:50"
+  },
+  {
+    "uml": "Central African Republic",
+    "gm": {
+      "lat": 6.611111,
+      "lon": 20.939444
+    },
+    "key": "CF",
+    "uol": "Central African Republic",
+    "gop": {
+      "lat": 6.611111,
+      "lon": 20.939444
+    },
+    "author_count": 676,
+    "institution_count": 0,
+    "work_count": 653,
+    "l": "Python",
+    "nwo": "1039",
+    "pr": 1039,
+    "ma": "2022-12-10 02:10:58",
+    "oa": "2022-12-10 02:10:58"
+  },
+  {
+    "uml": "Congo [Republic]",
+    "gm": {
+      "lat": -0.228021,
+      "lon": 15.827659
+    },
+    "key": "CG",
+    "uol": "Congo [Republic]",
+    "gop": {
+      "lat": -0.228021,
+      "lon": 15.827659
+    },
+    "author_count": 6362,
+    "institution_count": 10,
+    "work_count": 7551,
+    "l": "Python",
+    "nwo": "1040",
+    "pr": 1040,
+    "ma": "2022-12-10 02:08:26",
+    "oa": "2022-12-10 02:08:26"
+  },
+  {
+    "uml": "Switzerland",
+    "gm": {
+      "lat": 46.818188,
+      "lon": 8.227512
+    },
+    "key": "CH",
+    "uol": "Switzerland",
+    "gop": {
+      "lat": 46.818188,
+      "lon": 8.227512
+    },
+    "author_count": 658070,
+    "institution_count": 1601,
+    "work_count": 1046619,
+    "l": "Python",
+    "nwo": "1041",
+    "pr": 1041,
+    "ma": "2022-12-10 02:10:18",
+    "oa": "2022-12-10 02:10:18"
+  },
+  
+  {
+    "uml": "Cook Islands",
+    "gm": {
+      "lat": -21.236736,
+      "lon": -159.777671
+    },
+    "key": "CK",
+    "uol": "Cook Islands",
+    "gop": {
+      "lat": -21.236736,
+      "lon": -159.777671
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1043",
+    "pr": 1043,
+    "ma": "2022-12-10 02:10:32",
+    "oa": "2022-12-10 02:10:32"
+  },
+  {
+    "uml": "Chile",
+    "gm": {
+      "lat": -35.675147,
+      "lon": -71.542969
+    },
+    "key": "CL",
+    "uol": "Chile",
+    "gop": {
+      "lat": -35.675147,
+      "lon": -71.542969
+    },
+    "author_count": 214162,
+    "institution_count": 219,
+    "work_count": 293317,
+    "l": "Python",
+    "nwo": "1044",
+    "pr": 1044,
+    "ma": "2022-12-10 02:08:43",
+    "oa": "2022-12-10 02:08:43"
+  },
+  {
+    "uml": "Cameroon",
+    "gm": {
+      "lat": 7.369722,
+      "lon": 12.354722
+    },
+    "key": "CM",
+    "uol": "Cameroon",
+    "gop": {
+      "lat": 7.369722,
+      "lon": 12.354722
+    },
+    "author_count": 35628,
+    "institution_count": 71,
+    "work_count": 30846,
+    "l": "Python",
+    "nwo": "1045",
+    "pr": 1045,
+    "ma": "2022-12-10 02:08:47",
+    "oa": "2022-12-10 02:08:47"
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": 35.86166,
+      "lon": 104.195397
+    },
+    "key": "CN",
+    "uol": "China",
+    "gop": {
+      "lat": 35.86166,
+      "lon": 104.195397
+    },
+    "author_count": 14111772,
+    "institution_count": 4856,
+    "work_count": 10358258,
+    "l": "Python",
+    "nwo": "1046",
+    "pr": 1046,
+    "ma": "2022-12-10 02:08:08",
+    "oa": "2022-12-10 02:08:08"
+  },
+  {
+    "uml": "Colombia",
+    "gm": {
+      "lat": 4.570868,
+      "lon": -74.297333
+    },
+    "key": "CO",
+    "uol": "Colombia",
+    "gop": {
+      "lat": 4.570868,
+      "lon": -74.297333
+    },
+    "author_count": 340094,
+    "institution_count": 340,
+    "work_count": 351972,
+    "l": "Python",
+    "nwo": "1047",
+    "pr": 1047,
+    "ma": "2022-12-10 02:09:30",
+    "oa": "2022-12-10 02:09:30"
+  },
+  {
+    "uml": "Costa Rica",
+    "gm": {
+      "lat": 9.748917,
+      "lon": -83.753428
+    },
+    "key": "CR",
+    "uol": "Costa Rica",
+    "gop": {
+      "lat": 9.748917,
+      "lon": -83.753428
+    },
+    "author_count": 42317,
+    "institution_count": 74,
+    "work_count": 51241,
+    "l": "Python",
+    "nwo": "1048",
+    "pr": 1048,
+    "ma": "2022-12-10 02:09:23",
+    "oa": "2022-12-10 02:09:23"
+  },
+  {
+    "uml": "Cuba",
+    "gm": {
+      "lat": 21.521757,
+      "lon": -77.781167
+    },
+    "key": "CU",
+    "uol": "Cuba",
+    "gop": {
+      "lat": 21.521757,
+      "lon": -77.781167
+    },
+    "author_count": 98138,
+    "institution_count": 61,
+    "work_count": 99799,
+    "l": "Python",
+    "nwo": "1049",
+    "pr": 1049,
+    "ma": "2022-12-10 02:10:38",
+    "oa": "2022-12-10 02:10:38"
+  },
+  {
+    "uml": "Cape Verde",
+    "gm": {
+      "lat": 16.002082,
+      "lon": -24.013197
+    },
+    "key": "CV",
+    "uol": "Cape Verde",
+    "gop": {
+      "lat": 16.002082,
+      "lon": -24.013197
+    },
+    "author_count": 499,
+    "institution_count": 12,
+    "work_count": 734,
+    "l": "Python",
+    "nwo": "1050",
+    "pr": 1050,
+    "ma": "2022-12-10 02:08:32",
+    "oa": "2022-12-10 02:08:32"
+  },
+  {
+    "uml": "Christmas Island",
+    "gm": {
+      "lat": -10.447525,
+      "lon": 105.690449
+    },
+    "key": "CX",
+    "uol": "Christmas Island",
+    "gop": {
+      "lat": -10.447525,
+      "lon": 105.690449
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1051",
+    "pr": 1051,
+    "ma": "2022-12-10 02:08:27",
+    "oa": "2022-12-10 02:08:27"
+  },
+  {
+    "uml": "Cyprus",
+    "gm": {
+      "lat": 35.126413,
+      "lon": 33.429859
+    },
+    "key": "CY",
+    "uol": "Cyprus",
+    "gop": {
+      "lat": 35.126413,
+      "lon": 33.429859
+    },
+    "author_count": 23743,
+    "institution_count": 101,
+    "work_count": 49010,
+    "l": "Python",
+    "nwo": "1052",
+    "pr": 1052,
+    "ma": "2022-12-10 02:10:31",
+    "oa": "2022-12-10 02:10:31"
+  },
+  {
+    "uml": "Czech Republic",
+    "gm": {
+      "lat": 49.817492,
+      "lon": 15.472962
+    },
+    "key": "CZ",
+    "uol": "Czech Republic",
+    "gop": {
+      "lat": 49.817492,
+      "lon": 15.472962
+    },
+    "author_count": 299549,
+    "institution_count": 2751,
+    "work_count": 417475,
+    "l": "Python",
+    "nwo": "1053",
+    "pr": 1053,
+    "ma": "2022-12-10 02:10:40",
+    "oa": "2022-12-10 02:10:40"
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": 51.165691,
+      "lon": 10.451526
+    },
+    "key": "DE",
+    "uol": "Germany",
+    "gop": {
+      "lat": 51.165691,
+      "lon": 10.451526
+    },
+    "author_count": 3155099,
+    "institution_count": 5096,
+    "work_count": 4605869,
+    "l": "Python",
+    "nwo": "1054",
+    "pr": 1054,
+    "ma": "2022-12-10 02:08:24",
+    "oa": "2022-12-10 02:08:24"
+  },
+  {
+    "uml": "Djibouti",
+    "gm": {
+      "lat": 11.825138,
+      "lon": 42.590275
+    },
+    "key": "DJ",
+    "uol": "Djibouti",
+    "gop": {
+      "lat": 11.825138,
+      "lon": 42.590275
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1055",
+    "pr": 1055,
+    "ma": "2022-12-10 02:10:37",
+    "oa": "2022-12-10 02:10:37"
+  },
+  {
+    "uml": "Denmark",
+    "gm": {
+      "lat": 56.26392,
+      "lon": 9.501785
+    },
+    "key": "DK",
+    "uol": "Denmark",
+    "gop": {
+      "lat": 56.26392,
+      "lon": 9.501785
+    },
+    "author_count": 325504,
+    "institution_count": 635,
+    "work_count": 637140,
+    "l": "Python",
+    "nwo": "1056",
+    "pr": 1056,
+    "ma": "2022-12-10 02:10:46",
+    "oa": "2022-12-10 02:10:46"
+  },
+  {
+    "uml": "Dominica",
+    "gm": {
+      "lat": 15.414999,
+      "lon": -61.370976
+    },
+    "key": "DM",
+    "uol": "Dominica",
+    "gop": {
+      "lat": 15.414999,
+      "lon": -61.370976
+    },
+    "author_count": 0,
+    "institution_count": 4,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1057",
+    "pr": 1057,
+    "ma": "2022-12-10 02:09:03",
+    "oa": "2022-12-10 02:09:03"
+  },
+  {
+    "uml": "Dominican Republic",
+    "gm": {
+      "lat": 18.735693,
+      "lon": -70.162651
+    },
+    "key": "DO",
+    "uol": "Dominican Republic",
+    "gop": {
+      "lat": 18.735693,
+      "lon": -70.162651
+    },
+    "author_count": 5353,
+    "institution_count": 44,
+    "work_count": 6001,
+    "l": "Python",
+    "nwo": "1058",
+    "pr": 1058,
+    "ma": "2022-12-10 02:08:37",
+    "oa": "2022-12-10 02:08:37"
+  },
+  {
+    "uml": "Algeria",
+    "gm": {
+      "lat": 28.033886,
+      "lon": 1.659626
+    },
+    "key": "DZ",
+    "uol": "Algeria",
+    "gop": {
+      "lat": 28.033886,
+      "lon": 1.659626
+    },
+    "author_count": 111211,
+    "institution_count": 111,
+    "work_count": 103853,
+    "l": "Python",
+    "nwo": "1059",
+    "pr": 1059,
+    "ma": "2022-12-10 02:11:00",
+    "oa": "2022-12-10 02:11:00"
+  },
+  {
+    "uml": "Ecuador",
+    "gm": {
+      "lat": -1.831239,
+      "lon": -78.183406
+    },
+    "key": "EC",
+    "uol": "Ecuador",
+    "gop": {
+      "lat": -1.831239,
+      "lon": -78.183406
+    },
+    "author_count": 99875,
+    "institution_count": 94,
+    "work_count": 77585,
+    "l": "Python",
+    "nwo": "1060",
+    "pr": 1060,
+    "ma": "2022-12-10 02:10:59",
+    "oa": "2022-12-10 02:10:59"
+  },
+  {
+    "uml": "Estonia",
+    "gm": {
+      "lat": 58.595272,
+      "lon": 25.013607
+    },
+    "key": "EE",
+    "uol": "Estonia",
+    "gop": {
+      "lat": 58.595272,
+      "lon": 25.013607
+    },
+    "author_count": 32378,
+    "institution_count": 125,
+    "work_count": 58386,
+    "l": "Python",
+    "nwo": "1061",
+    "pr": 1061,
+    "ma": "2022-12-10 02:09:24",
+    "oa": "2022-12-10 02:09:24"
+  },
+  {
+    "uml": "Egypt",
+    "gm": {
+      "lat": 26.820553,
+      "lon": 30.802498
+    },
+    "key": "EG",
+    "uol": "Egypt",
+    "gop": {
+      "lat": 26.820553,
+      "lon": 30.802498
+    },
+    "author_count": 374581,
+    "institution_count": 234,
+    "work_count": 386957,
+    "l": "Python",
+    "nwo": "1062",
+    "pr": 1062,
+    "ma": "2022-12-10 02:08:48",
+    "oa": "2022-12-10 02:08:48"
+  },
+  {
+    "uml": "Western Sahara",
+    "gm": {
+      "lat": 24.215527,
+      "lon": -12.885834
+    },
+    "key": "EH",
+    "uol": "Western Sahara",
+    "gop": {
+      "lat": 24.215527,
+      "lon": -12.885834
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1063",
+    "pr": 1063,
+    "ma": "2022-12-10 02:10:38",
+    "oa": "2022-12-10 02:10:38"
+  },
+  {
+    "uml": "Eritrea",
+    "gm": {
+      "lat": 15.179384,
+      "lon": 39.782334
+    },
+    "key": "ER",
+    "uol": "Eritrea",
+    "gop": {
+      "lat": 15.179384,
+      "lon": 39.782334
+    },
+    "author_count": 572,
+    "institution_count": 0,
+    "work_count": 585,
+    "l": "Python",
+    "nwo": "1064",
+    "pr": 1064,
+    "ma": "2022-12-10 02:09:49",
+    "oa": "2022-12-10 02:09:49"
+  },
+  {
+    "uml": "Spain",
+    "gm": {
+      "lat": 40.463667,
+      "lon": -3.74922
+    },
+    "key": "ES",
+    "uol": "Spain",
+    "gop": {
+      "lat": 40.463667,
+      "lon": -3.74922
+    },
+    "author_count": 1470833,
+    "institution_count": 1804,
+    "work_count": 2034243,
+    "l": "Python",
+    "nwo": "1065",
+    "pr": 1065,
+    "ma": "2022-12-10 02:08:37",
+    "oa": "2022-12-10 02:08:37"
+  },
+  {
+    "uml": "Ethiopia",
+    "gm": {
+      "lat": 9.145,
+      "lon": 40.489673
+    },
+    "key": "ET",
+    "uol": "Ethiopia",
+    "gop": {
+      "lat": 9.145,
+      "lon": 40.489673
+    },
+    "author_count": 81599,
+    "institution_count": 110,
+    "work_count": 84244,
+    "l": "Python",
+    "nwo": "1066",
+    "pr": 1066,
+    "ma": "2022-12-10 02:10:03",
+    "oa": "2022-12-10 02:10:03"
+  },
+  {
+    "uml": "Finland",
+    "gm": {
+      "lat": 61.92411,
+      "lon": 25.748151
+    },
+    "key": "FI",
+    "uol": "Finland",
+    "gop": {
+      "lat": 61.92411,
+      "lon": 25.748151
+    },
+    "author_count": 258665,
+    "institution_count": 508,
+    "work_count": 499323,
+    "l": "Python",
+    "nwo": "1067",
+    "pr": 1067,
+    "ma": "2022-12-10 02:08:14",
+    "oa": "2022-12-10 02:08:14"
+  },
+  {
+    "uml": "Fiji",
+    "gm": {
+      "lat": -16.578193,
+      "lon": 179.414413
+    },
+    "key": "FJ",
+    "uol": "Fiji",
+    "gop": {
+      "lat": -16.578193,
+      "lon": 179.414413
+    },
+    "author_count": 3306,
+    "institution_count": 13,
+    "work_count": 6123,
+    "l": "Python",
+    "nwo": "1068",
+    "pr": 1068,
+    "ma": "2022-12-10 02:08:58",
+    "oa": "2022-12-10 02:08:58"
+  },
+  {
+    "uml": "Falkland Islands [Islas Malvinas]",
+    "gm": {
+      "lat": -51.796253,
+      "lon": -59.523613
+    },
+    "key": "FK",
+    "uol": "Falkland Islands [Islas Malvinas]",
+    "gop": {
+      "lat": -51.796253,
+      "lon": -59.523613
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1069",
+    "pr": 1069,
+    "ma": "2022-12-10 02:10:21",
+    "oa": "2022-12-10 02:10:21"
+  },
+  {
+    "uml": "Micronesia",
+    "gm": {
+      "lat": 7.425554,
+      "lon": 150.550812
+    },
+    "key": "FM",
+    "uol": "Micronesia",
+    "gop": {
+      "lat": 7.425554,
+      "lon": 150.550812
+    },
+    "author_count": 0,
+    "institution_count": 3,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1070",
+    "pr": 1070,
+    "ma": "2022-12-10 02:08:32",
+    "oa": "2022-12-10 02:08:32"
+  },
+  {
+    "uml": "Faroe Islands",
+    "gm": {
+      "lat": 61.892635,
+      "lon": -6.911806
+    },
+    "key": "FO",
+    "uol": "Faroe Islands",
+    "gop": {
+      "lat": 61.892635,
+      "lon": -6.911806
+    },
+    "author_count": 745,
+    "institution_count": 5,
+    "work_count": 1200,
+    "l": "Python",
+    "nwo": "1071",
+    "pr": 1071,
+    "ma": "2022-12-10 02:08:57",
+    "oa": "2022-12-10 02:08:57"
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": 46.227638,
+      "lon": 2.213749
+    },
+    "key": "FR",
+    "uol": "France",
+    "gop": {
+      "lat": 46.227638,
+      "lon": 2.213749
+    },
+    "author_count": 3618489,
+    "institution_count": 3965,
+    "work_count": 3764240,
+    "l": "Python",
+    "nwo": "1072",
+    "pr": 1072,
+    "ma": "2022-12-10 02:10:43",
+    "oa": "2022-12-10 02:10:43"
+  },
+  {
+    "uml": "Gabon",
+    "gm": {
+      "lat": -0.803689,
+      "lon": 11.609444
+    },
+    "key": "GA",
+    "uol": "Gabon",
+    "gop": {
+      "lat": -0.803689,
+      "lon": 11.609444
+    },
+    "author_count": 3310,
+    "institution_count": 11,
+    "work_count": 3491,
+    "l": "Python",
+    "nwo": "1073",
+    "pr": 1073,
+    "ma": "2022-12-10 02:10:01",
+    "oa": "2022-12-10 02:10:01"
+  },
+  {
+    "uml": "United Kingdom",
+    "gm": {
+      "lat": 55.378051,
+      "lon": -3.435973
+    },
+    "key": "GB",
+    "uol": "United Kingdom",
+    "gop": {
+      "lat": 55.378051,
+      "lon": -3.435973
+    },
+    "author_count": 3576294,
+    "institution_count": 7743,
+    "work_count": 5597865,
+    "l": "Python",
+    "nwo": "1074",
+    "pr": 1074,
+    "ma": "2022-12-10 02:10:43",
+    "oa": "2022-12-10 02:10:43"
+  },
+  {
+    "uml": "Grenada",
+    "gm": {
+      "lat": 12.262776,
+      "lon": -61.604171
+    },
+    "key": "GD",
+    "uol": "Grenada",
+    "gop": {
+      "lat": 12.262776,
+      "lon": -61.604171
+    },
+    "author_count": 2656,
+    "institution_count": 4,
+    "work_count": 3647,
+    "l": "Python",
+    "nwo": "1075",
+    "pr": 1075,
+    "ma": "2022-12-10 02:10:25",
+    "oa": "2022-12-10 02:10:25"
+  },
+  {
+    "uml": "Georgia",
+    "gm": {
+      "lat": 42.315407,
+      "lon": 43.356892
+    },
+    "key": "GE",
+    "uol": "Georgia",
+    "gop": {
+      "lat": 42.315407,
+      "lon": 43.356892
+    },
+    "author_count": 28179,
+    "institution_count": 82,
+    "work_count": 52648,
+    "l": "Python",
+    "nwo": "1076",
+    "pr": 1076,
+    "ma": "2022-12-10 02:08:42",
+    "oa": "2022-12-10 02:08:42"
+  },
+  {
+    "uml": "French Guiana",
+    "gm": {
+      "lat": 3.933889,
+      "lon": -53.125782
+    },
+    "key": "GF",
+    "uol": "French Guiana",
+    "gop": {
+      "lat": 3.933889,
+      "lon": -53.125782
+    },
+    "author_count": 1800,
+    "institution_count": 5,
+    "work_count": 2030,
+    "l": "Python",
+    "nwo": "1077",
+    "pr": 1077,
+    "ma": "2022-12-10 02:10:18",
+    "oa": "2022-12-10 02:10:18"
+  },
+  {
+    "uml": "Guernsey",
+    "gm": {
+      "lat": 49.465691,
+      "lon": -2.585278
+    },
+    "key": "GG",
+    "uol": "Guernsey",
+    "gop": {
+      "lat": 49.465691,
+      "lon": -2.585278
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1078",
+    "pr": 1078,
+    "ma": "2022-12-10 02:10:58",
+    "oa": "2022-12-10 02:10:58"
+  },
+  {
+    "uml": "Ghana",
+    "gm": {
+      "lat": 7.946527,
+      "lon": -1.023194
+    },
+    "key": "GH",
+    "uol": "Ghana",
+    "gop": {
+      "lat": 7.946527,
+      "lon": -1.023194
+    },
+    "author_count": 48592,
+    "institution_count": 133,
+    "work_count": 49936,
+    "l": "Python",
+    "nwo": "1079",
+    "pr": 1079,
+    "ma": "2022-12-10 02:10:15",
+    "oa": "2022-12-10 02:10:15"
+  },
+  {
+    "uml": "Gibraltar",
+    "gm": {
+      "lat": 36.137741,
+      "lon": -5.345374
+    },
+    "key": "GI",
+    "uol": "Gibraltar",
+    "gop": {
+      "lat": 36.137741,
+      "lon": -5.345374
+    },
+    "author_count": 0,
+    "institution_count": 4,
+    "work_count": 342,
+    "l": "Python",
+    "nwo": "1080",
+    "pr": 1080,
+    "ma": "2022-12-10 02:09:29",
+    "oa": "2022-12-10 02:09:29"
+  },
+  {
+    "uml": "Greenland",
+    "gm": {
+      "lat": 71.706936,
+      "lon": -42.604303
+    },
+    "key": "GL",
+    "uol": "Greenland",
+    "gop": {
+      "lat": 71.706936,
+      "lon": -42.604303
+    },
+    "author_count": 692,
+    "institution_count": 8,
+    "work_count": 1376,
+    "l": "Python",
+    "nwo": "1081",
+    "pr": 1081,
+    "ma": "2022-12-10 02:08:44",
+    "oa": "2022-12-10 02:08:44"
+  },
+  {
+    "uml": "Gambia",
+    "gm": {
+      "lat": 13.443182,
+      "lon": -15.310139
+    },
+    "key": "GM",
+    "uol": "Gambia",
+    "gop": {
+      "lat": 13.443182,
+      "lon": -15.310139
+    },
+    "author_count": 2195,
+    "institution_count": 13,
+    "work_count": 2710,
+    "l": "Python",
+    "nwo": "1082",
+    "pr": 1082,
+    "ma": "2022-12-10 02:08:29",
+    "oa": "2022-12-10 02:08:29"
+  },
+  {
+    "uml": "Guinea",
+    "gm": {
+      "lat": 9.945587,
+      "lon": -9.696645
+    },
+    "key": "GN",
+    "uol": "Guinea",
+    "gop": {
+      "lat": 9.945587,
+      "lon": -9.696645
+    },
+    "author_count": 2217,
+    "institution_count": 15,
+    "work_count": 1290,
+    "l": "Python",
+    "nwo": "1083",
+    "pr": 1083,
+    "ma": "2022-12-10 02:10:53",
+    "oa": "2022-12-10 02:10:53"
+  },
+  {
+    "uml": "Guadeloupe",
+    "gm": {
+      "lat": 16.995971,
+      "lon": -62.067641
+    },
+    "key": "GP",
+    "uol": "Guadeloupe",
+    "gop": {
+      "lat": 16.995971,
+      "lon": -62.067641
+    },
+    "author_count": 3320,
+    "institution_count": 4,
+    "work_count": 3797,
+    "l": "Python",
+    "nwo": "1084",
+    "pr": 1084,
+    "ma": "2022-12-10 02:10:06",
+    "oa": "2022-12-10 02:10:06"
+  },
+  {
+    "uml": "Equatorial Guinea",
+    "gm": {
+      "lat": 1.650801,
+      "lon": 10.267895
+    },
+    "key": "GQ",
+    "uol": "Equatorial Guinea",
+    "gop": {
+      "lat": 1.650801,
+      "lon": 10.267895
+    },
+    "author_count": 0,
+    "institution_count": 3,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1085",
+    "pr": 1085,
+    "ma": "2022-12-10 02:10:34",
+    "oa": "2022-12-10 02:10:34"
+  },
+  {
+    "uml": "Greece",
+    "gm": {
+      "lat": 39.074208,
+      "lon": 21.824312
+    },
+    "key": "GR",
+    "uol": "Greece",
+    "gop": {
+      "lat": 39.074208,
+      "lon": 21.824312
+    },
+    "author_count": 292174,
+    "institution_count": 503,
+    "work_count": 419723,
+    "l": "Python",
+    "nwo": "1086",
+    "pr": 1086,
+    "ma": "2022-12-10 02:08:34",
+    "oa": "2022-12-10 02:08:34"
+  },
+  {
+    "uml": "South Georgia and the South Sandwich Islands",
+    "gm": {
+      "lat": -54.429579,
+      "lon": -36.587909
+    },
+    "key": "GS",
+    "uol": "South Georgia and the South Sandwich Islands",
+    "gop": {
+      "lat": -54.429579,
+      "lon": -36.587909
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1087",
+    "pr": 1087,
+    "ma": "2022-12-10 02:09:31",
+    "oa": "2022-12-10 02:09:31"
+  },
+  {
+    "uml": "Guatemala",
+    "gm": {
+      "lat": 15.783471,
+      "lon": -90.230759
+    },
+    "key": "GT",
+    "uol": "Guatemala",
+    "gop": {
+      "lat": 15.783471,
+      "lon": -90.230759
+    },
+    "author_count": 7864,
+    "institution_count": 30,
+    "work_count": 8964,
+    "l": "Python",
+    "nwo": "1088",
+    "pr": 1088,
+    "ma": "2022-12-10 02:10:28",
+    "oa": "2022-12-10 02:10:28"
+  },
+  {
+    "uml": "Guam",
+    "gm": {
+      "lat": 13.444304,
+      "lon": 144.793731
+    },
+    "key": "GU",
+    "uol": "Guam",
+    "gop": {
+      "lat": 13.444304,
+      "lon": 144.793731
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1089",
+    "pr": 1089,
+    "ma": "2022-12-10 02:10:12",
+    "oa": "2022-12-10 02:10:12"
+  },
+  {
+    "uml": "Guinea-Bissau",
+    "gm": {
+      "lat": 11.803749,
+      "lon": -15.180413
+    },
+    "key": "GW",
+    "uol": "Guinea-Bissau",
+    "gop": {
+      "lat": 11.803749,
+      "lon": -15.180413
+    },
+    "author_count": 1319,
+    "institution_count": 7,
+    "work_count": 1676,
+    "l": "Python",
+    "nwo": "1090",
+    "pr": 1090,
+    "ma": "2022-12-10 02:09:17",
+    "oa": "2022-12-10 02:09:17"
+  },
+  {
+    "uml": "Guyana",
+    "gm": {
+      "lat": 4.860416,
+      "lon": -58.93018
+    },
+    "key": "GY",
+    "uol": "Guyana",
+    "gop": {
+      "lat": 4.860416,
+      "lon": -58.93018
+    },
+    "author_count": 655,
+    "institution_count": 7,
+    "work_count": 738,
+    "l": "Python",
+    "nwo": "1091",
+    "pr": 1091,
+    "ma": "2022-12-10 02:08:22",
+    "oa": "2022-12-10 02:08:22"
+  },
+  {
+    "uml": "Gaza Strip",
+    "gm": {
+      "lat": 31.354676,
+      "lon": 34.308825
+    },
+    "key": "GZ",
+    "uol": "Gaza Strip",
+    "gop": {
+      "lat": 31.354676,
+      "lon": 34.308825
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1092",
+    "pr": 1092,
+    "ma": "2022-12-10 02:09:48",
+    "oa": "2022-12-10 02:09:48"
+  },
+  {
+    "uml": "Hong Kong",
+    "gm": {
+      "lat": 22.396428,
+      "lon": 114.109497
+    },
+    "key": "HK",
+    "uol": "Hong Kong",
+    "gop": {
+      "lat": 22.396428,
+      "lon": 114.109497
+    },
+    "author_count": 22411,
+    "institution_count": 16,
+    "work_count": 29192,
+    "l": "Python",
+    "nwo": "1093",
+    "pr": 1093,
+    "ma": "2022-12-10 02:11:06",
+    "oa": "2022-12-10 02:11:06"
+  },
+  {
+    "uml": "Heard Island and McDonald Islands",
+    "gm": {
+      "lat": -53.08181,
+      "lon": 73.504158
+    },
+    "key": "HM",
+    "uol": "Heard Island and McDonald Islands",
+    "gop": {
+      "lat": -53.08181,
+      "lon": 73.504158
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1094",
+    "pr": 1094,
+    "ma": "2022-12-10 02:08:38",
+    "oa": "2022-12-10 02:08:38"
+  },
+  {
+    "uml": "Honduras",
+    "gm": {
+      "lat": 15.199999,
+      "lon": -86.241905
+    },
+    "key": "HN",
+    "uol": "Honduras",
+    "gop": {
+      "lat": 15.199999,
+      "lon": -86.241905
+    },
+    "author_count": 7711,
+    "institution_count": 17,
+    "work_count": 7219,
+    "l": "Python",
+    "nwo": "1095",
+    "pr": 1095,
+    "ma": "2022-12-10 02:09:48",
+    "oa": "2022-12-10 02:09:48"
+  },
+  {
+    "uml": "Croatia",
+    "gm": {
+      "lat": 45.1,
+      "lon": 15.2
+    },
+    "key": "HR",
+    "uol": "Croatia",
+    "gop": {
+      "lat": 45.1,
+      "lon": 15.2
+    },
+    "author_count": 105631,
+    "institution_count": 137,
+    "work_count": 171463,
+    "l": "Python",
+    "nwo": "1096",
+    "pr": 1096,
+    "ma": "2022-12-10 02:09:30",
+    "oa": "2022-12-10 02:09:30"
+  },
+  {
+    "uml": "Haiti",
+    "gm": {
+      "lat": 18.971187,
+      "lon": -72.285215
+    },
+    "key": "HT",
+    "uol": "Haiti",
+    "gop": {
+      "lat": 18.971187,
+      "lon": -72.285215
+    },
+    "author_count": 1112,
+    "institution_count": 22,
+    "work_count": 991,
+    "l": "Python",
+    "nwo": "1097",
+    "pr": 1097,
+    "ma": "2022-12-10 02:08:22",
+    "oa": "2022-12-10 02:08:22"
+  },
+  {
+    "uml": "Hungary",
+    "gm": {
+      "lat": 47.162494,
+      "lon": 19.503304
+    },
+    "key": "HU",
+    "uol": "Hungary",
+    "gop": {
+      "lat": 47.162494,
+      "lon": 19.503304
+    },
+    "author_count": 189096,
+    "institution_count": 408,
+    "work_count": 296745,
+    "l": "Python",
+    "nwo": "1098",
+    "pr": 1098,
+    "ma": "2022-12-10 02:09:24",
+    "oa": "2022-12-10 02:09:24"
+  },
+  {
+    "uml": "Indonesia",
+    "gm": {
+      "lat": -0.789275,
+      "lon": 113.921327
+    },
+    "key": "ID",
+    "uol": "Indonesia",
+    "gop": {
+      "lat": -0.789275,
+      "lon": 113.921327
+    },
+    "author_count": 1305796,
+    "institution_count": 610,
+    "work_count": 1123784,
+    "l": "Python",
+    "nwo": "1099",
+    "pr": 1099,
+    "ma": "2022-12-10 02:09:51",
+    "oa": "2022-12-10 02:09:51"
+  },
+  {
+    "uml": "Ireland",
+    "gm": {
+      "lat": 53.41291,
+      "lon": -8.24389
+    },
+    "key": "IE",
+    "uol": "Ireland",
+    "gop": {
+      "lat": 53.41291,
+      "lon": -8.24389
+    },
+    "author_count": 220486,
+    "institution_count": 667,
+    "work_count": 333415,
+    "l": "Python",
+    "nwo": "1100",
+    "pr": 1100,
+    "ma": "2022-12-10 02:09:46",
+    "oa": "2022-12-10 02:09:46"
+  },
+  {
+    "uml": "Israel",
+    "gm": {
+      "lat": 31.046051,
+      "lon": 34.851612
+    },
+    "key": "IL",
+    "uol": "Israel",
+    "gop": {
+      "lat": 31.046051,
+      "lon": 34.851612
+    },
+    "author_count": 348903,
+    "institution_count": 410,
+    "work_count": 602066,
+    "l": "Python",
+    "nwo": "1101",
+    "pr": 1101,
+    "ma": "2022-12-10 02:10:32",
+    "oa": "2022-12-10 02:10:32"
+  },
+  {
+    "uml": "Isle of Man",
+    "gm": {
+      "lat": 54.236107,
+      "lon": -4.548056
+    },
+    "key": "IM",
+    "uol": "Isle of Man",
+    "gop": {
+      "lat": 54.236107,
+      "lon": -4.548056
+    },
+    "author_count": 0,
+    "institution_count": 4,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1102",
+    "pr": 1102,
+    "ma": "2022-12-10 02:09:36",
+    "oa": "2022-12-10 02:09:36"
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": 20.593684,
+      "lon": 78.96288
+    },
+    "key": "IN",
+    "uol": "India",
+    "gop": {
+      "lat": 20.593684,
+      "lon": 78.96288
+    },
+    "author_count": 2668092,
+    "institution_count": 3731,
+    "work_count": 2699112,
+    "l": "Python",
+    "nwo": "1103",
+    "pr": 1103,
+    "ma": "2022-12-10 02:08:55",
+    "oa": "2022-12-10 02:08:55"
+  },
+  {
+    "uml": "British Indian Ocean Territory",
+    "gm": {
+      "lat": -6.343194,
+      "lon": 71.876519
+    },
+    "key": "IO",
+    "uol": "British Indian Ocean Territory",
+    "gop": {
+      "lat": -6.343194,
+      "lon": 71.876519
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1104",
+    "pr": 1104,
+    "ma": "2022-12-10 02:09:28",
+    "oa": "2022-12-10 02:09:28"
+  },
+  {
+    "uml": "Iraq",
+    "gm": {
+      "lat": 33.223191,
+      "lon": 43.679291
+    },
+    "key": "IQ",
+    "uol": "Iraq",
+    "gop": {
+      "lat": 33.223191,
+      "lon": 43.679291
+    },
+    "author_count": 74206,
+    "institution_count": 76,
+    "work_count": 72408,
+    "l": "Python",
+    "nwo": "1105",
+    "pr": 1105,
+    "ma": "2022-12-10 02:10:07",
+    "oa": "2022-12-10 02:10:07"
+  },
+  {
+    "uml": "Iran",
+    "gm": {
+      "lat": 32.427908,
+      "lon": 53.688046
+    },
+    "key": "IR",
+    "uol": "Iran",
+    "gop": {
+      "lat": 32.427908,
+      "lon": 53.688046
+    },
+    "author_count": 883780,
+    "institution_count": 414,
+    "work_count": 908474,
+    "l": "Python",
+    "nwo": "1106",
+    "pr": 1106,
+    "ma": "2022-12-10 02:09:54",
+    "oa": "2022-12-10 02:09:54"
+  },
+  {
+    "uml": "Iceland",
+    "gm": {
+      "lat": 64.963051,
+      "lon": -19.020835
+    },
+    "key": "IS",
+    "uol": "Iceland",
+    "gop": {
+      "lat": 64.963051,
+      "lon": -19.020835
+    },
+    "author_count": 14593,
+    "institution_count": 57,
+    "work_count": 29052,
+    "l": "Python",
+    "nwo": "1107",
+    "pr": 1107,
+    "ma": "2022-12-10 02:10:40",
+    "oa": "2022-12-10 02:10:40"
+  },
+  {
+    "uml": "Italy",
+    "gm": {
+      "lat": 41.87194,
+      "lon": 12.56738
+    },
+    "key": "IT",
+    "uol": "Italy",
+    "gop": {
+      "lat": 41.87194,
+      "lon": 12.56738
+    },
+    "author_count": 1537941,
+    "institution_count": 2068,
+    "work_count": 2484079,
+    "l": "Python",
+    "nwo": "1108",
+    "pr": 1108,
+    "ma": "2022-12-10 02:08:11",
+    "oa": "2022-12-10 02:08:11"
+  },
+  {
+    "uml": "Jersey",
+    "gm": {
+      "lat": 49.214439,
+      "lon": -2.13125
+    },
+    "key": "JE",
+    "uol": "Jersey",
+    "gop": {
+      "lat": 49.214439,
+      "lon": -2.13125
+    },
+    "author_count": 396,
+    "institution_count": 4,
+    "work_count": 575,
+    "l": "Python",
+    "nwo": "1109",
+    "pr": 1109,
+    "ma": "2022-12-10 02:08:49",
+    "oa": "2022-12-10 02:08:49"
+  },
+  {
+    "uml": "Jamaica",
+    "gm": {
+      "lat": 18.109581,
+      "lon": -77.297508
+    },
+    "key": "JM",
+    "uol": "Jamaica",
+    "gop": {
+      "lat": 18.109581,
+      "lon": -77.297508
+    },
+    "author_count": 9224,
+    "institution_count": 19,
+    "work_count": 11507,
+    "l": "Python",
+    "nwo": "1110",
+    "pr": 1110,
+    "ma": "2022-12-10 02:09:46",
+    "oa": "2022-12-10 02:09:46"
+  },
+  {
+    "uml": "Jordan",
+    "gm": {
+      "lat": 30.585164,
+      "lon": 36.238414
+    },
+    "key": "JO",
+    "uol": "Jordan",
+    "gop": {
+      "lat": 30.585164,
+      "lon": 36.238414
+    },
+    "author_count": 46464,
+    "institution_count": 61,
+    "work_count": 64223,
+    "l": "Python",
+    "nwo": "1111",
+    "pr": 1111,
+    "ma": "2022-12-10 02:08:51",
+    "oa": "2022-12-10 02:08:51"
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": 36.204824,
+      "lon": 138.252924
+    },
+    "key": "JP",
+    "uol": "Japan",
+    "gop": {
+      "lat": 36.204824,
+      "lon": 138.252924
+    },
+    "author_count": 3352649,
+    "institution_count": 4031,
+    "work_count": 4200412,
+    "l": "Python",
+    "nwo": "1112",
+    "pr": 1112,
+    "ma": "2022-12-10 02:08:43",
+    "oa": "2022-12-10 02:08:43"
+  },
+  {
+    "uml": "Kenya",
+    "gm": {
+      "lat": -0.023559,
+      "lon": 37.906193
+    },
+    "key": "KE",
+    "uol": "Kenya",
+    "gop": {
+      "lat": -0.023559,
+      "lon": 37.906193
+    },
+    "author_count": 61545,
+    "institution_count": 254,
+    "work_count": 71997,
+    "l": "Python",
+    "nwo": "1113",
+    "pr": 1113,
+    "ma": "2022-12-10 02:09:37",
+    "oa": "2022-12-10 02:09:37"
+  },
+  {
+    "uml": "Kyrgyzstan",
+    "gm": {
+      "lat": 41.20438,
+      "lon": 74.766098
+    },
+    "key": "KG",
+    "uol": "Kyrgyzstan",
+    "gop": {
+      "lat": 41.20438,
+      "lon": 74.766098
+    },
+    "author_count": 6190,
+    "institution_count": 41,
+    "work_count": 5087,
+    "l": "Python",
+    "nwo": "1114",
+    "pr": 1114,
+    "ma": "2022-12-10 02:11:01",
+    "oa": "2022-12-10 02:11:01"
+  },
+  {
+    "uml": "Cambodia",
+    "gm": {
+      "lat": 12.565679,
+      "lon": 104.990963
+    },
+    "key": "KH",
+    "uol": "Cambodia",
+    "gop": {
+      "lat": 12.565679,
+      "lon": 104.990963
+    },
+    "author_count": 12042,
+    "institution_count": 58,
+    "work_count": 12142,
+    "l": "Python",
+    "nwo": "1115",
+    "pr": 1115,
+    "ma": "2022-12-10 02:08:56",
+    "oa": "2022-12-10 02:08:56"
+  },
+  {
+    "uml": "Kiribati",
+    "gm": {
+      "lat": -3.370417,
+      "lon": -168.734039
+    },
+    "key": "KI",
+    "uol": "Kiribati",
+    "gop": {
+      "lat": -3.370417,
+      "lon": -168.734039
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1116",
+    "pr": 1116,
+    "ma": "2022-12-10 02:10:06",
+    "oa": "2022-12-10 02:10:06"
+  },
+  {
+    "uml": "Comoros",
+    "gm": {
+      "lat": -11.875001,
+      "lon": 43.872219
+    },
+    "key": "KM",
+    "uol": "Comoros",
+    "gop": {
+      "lat": -11.875001,
+      "lon": 43.872219
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1117",
+    "pr": 1117,
+    "ma": "2022-12-10 02:09:41",
+    "oa": "2022-12-10 02:09:41"
+  },
+  {
+    "uml": "Saint Kitts and Nevis",
+    "gm": {
+      "lat": 17.357822,
+      "lon": -62.782998
+    },
+    "key": "KN",
+    "uol": "Saint Kitts and Nevis",
+    "gop": {
+      "lat": 17.357822,
+      "lon": -62.782998
+    },
+    "author_count": 2180,
+    "institution_count": 5,
+    "work_count": 1760,
+    "l": "Python",
+    "nwo": "1118",
+    "pr": 1118,
+    "ma": "2022-12-10 02:09:28",
+    "oa": "2022-12-10 02:09:28"
+  },
+  {
+    "uml": "North Korea",
+    "gm": {
+      "lat": 40.339852,
+      "lon": 127.510093
+    },
+    "key": "KP",
+    "uol": "North Korea",
+    "gop": {
+      "lat": 40.339852,
+      "lon": 127.510093
+    },
+    "author_count": 2771,
+    "institution_count": 11,
+    "work_count": 2070,
+    "l": "Python",
+    "nwo": "1119",
+    "pr": 1119,
+    "ma": "2022-12-10 02:09:12",
+    "oa": "2022-12-10 02:09:12"
+  },
+  {
+    "uml": "South Korea",
+    "gm": {
+      "lat": 35.907757,
+      "lon": 127.766922
+    },
+    "key": "KR",
+    "uol": "South Korea",
+    "gop": {
+      "lat": 35.907757,
+      "lon": 127.766922
+    },
+    "author_count": 1208459,
+    "institution_count": 1666,
+    "work_count": 1476486,
+    "l": "Python",
+    "nwo": "1120",
+    "pr": 1120,
+    "ma": "2022-12-10 02:10:02",
+    "oa": "2022-12-10 02:10:02"
+  },
+  {
+    "uml": "Kuwait",
+    "gm": {
+      "lat": 29.31166,
+      "lon": 47.481766
+    },
+    "key": "KW",
+    "uol": "Kuwait",
+    "gop": {
+      "lat": 29.31166,
+      "lon": 47.481766
+    },
+    "author_count": 27137,
+    "institution_count": 35,
+    "work_count": 35783,
+    "l": "Python",
+    "nwo": "1121",
+    "pr": 1121,
+    "ma": "2022-12-10 02:09:53",
+    "oa": "2022-12-10 02:09:53"
+  },
+  {
+    "uml": "Cayman Islands",
+    "gm": {
+      "lat": 19.513469,
+      "lon": -80.566956
+    },
+    "key": "KY",
+    "uol": "Cayman Islands",
+    "gop": {
+      "lat": 19.513469,
+      "lon": -80.566956
+    },
+    "author_count": 386,
+    "institution_count": 6,
+    "work_count": 465,
+    "l": "Python",
+    "nwo": "1122",
+    "pr": 1122,
+    "ma": "2022-12-10 02:08:31",
+    "oa": "2022-12-10 02:08:31"
+  },
+  {
+    "uml": "Kazakhstan",
+    "gm": {
+      "lat": 48.019573,
+      "lon": 66.923684
+    },
+    "key": "KZ",
+    "uol": "Kazakhstan",
+    "gop": {
+      "lat": 48.019573,
+      "lon": 66.923684
+    },
+    "author_count": 53226,
+    "institution_count": 122,
+    "work_count": 40562,
+    "l": "Python",
+    "nwo": "1123",
+    "pr": 1123,
+    "ma": "2022-12-10 02:10:39",
+    "oa": "2022-12-10 02:10:39"
+  },
+  {
+    "uml": "Laos",
+    "gm": {
+      "lat": 19.85627,
+      "lon": 102.495496
+    },
+    "key": "LA",
+    "uol": "Laos",
+    "gop": {
+      "lat": 19.85627,
+      "lon": 102.495496
+    },
+    "author_count": 8174,
+    "institution_count": 15,
+    "work_count": 2747,
+    "l": "Python",
+    "nwo": "1124",
+    "pr": 1124,
+    "ma": "2022-12-10 02:10:03",
+    "oa": "2022-12-10 02:10:03"
+  },
+  {
+    "uml": "Lebanon",
+    "gm": {
+      "lat": 33.854721,
+      "lon": 35.862285
+    },
+    "key": "LB",
+    "uol": "Lebanon",
+    "gop": {
+      "lat": 33.854721,
+      "lon": 35.862285
+    },
+    "author_count": 43694,
+    "institution_count": 74,
+    "work_count": 55729,
+    "l": "Python",
+    "nwo": "1125",
+    "pr": 1125,
+    "ma": "2022-12-10 02:09:32",
+    "oa": "2022-12-10 02:09:32"
+  },
+  {
+    "uml": "Saint Lucia",
+    "gm": {
+      "lat": 13.909444,
+      "lon": -60.978893
+    },
+    "key": "LC",
+    "uol": "Saint Lucia",
+    "gop": {
+      "lat": 13.909444,
+      "lon": -60.978893
+    },
+    "author_count": 0,
+    "institution_count": 8,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1126",
+    "pr": 1126,
+    "ma": "2022-12-10 02:10:24",
+    "oa": "2022-12-10 02:10:24"
+  },
+  {
+    "uml": "Liechtenstein",
+    "gm": {
+      "lat": 47.166,
+      "lon": 9.555373
+    },
+    "key": "LI",
+    "uol": "Liechtenstein",
+    "gop": {
+      "lat": 47.166,
+      "lon": 9.555373
+    },
+    "author_count": 1179,
+    "institution_count": 15,
+    "work_count": 2008,
+    "l": "Python",
+    "nwo": "1127",
+    "pr": 1127,
+    "ma": "2022-12-10 02:09:05",
+    "oa": "2022-12-10 02:09:05"
+  },
+  {
+    "uml": "Sri Lanka",
+    "gm": {
+      "lat": 7.873054,
+      "lon": 80.771797
+    },
+    "key": "LK",
+    "uol": "Sri Lanka",
+    "gop": {
+      "lat": 7.873054,
+      "lon": 80.771797
+    },
+    "author_count": 57217,
+    "institution_count": 114,
+    "work_count": 53503,
+    "l": "Python",
+    "nwo": "1128",
+    "pr": 1128,
+    "ma": "2022-12-10 02:09:54",
+    "oa": "2022-12-10 02:09:54"
+  },
+  {
+    "uml": "Liberia",
+    "gm": {
+      "lat": 6.428055,
+      "lon": -9.429499
+    },
+    "key": "LR",
+    "uol": "Liberia",
+    "gop": {
+      "lat": 6.428055,
+      "lon": -9.429499
+    },
+    "author_count": 790,
+    "institution_count": 13,
+    "work_count": 802,
+    "l": "Python",
+    "nwo": "1129",
+    "pr": 1129,
+    "ma": "2022-12-10 02:09:57",
+    "oa": "2022-12-10 02:09:57"
+  },
+  {
+    "uml": "Lesotho",
+    "gm": {
+      "lat": -29.609988,
+      "lon": 28.233608
+    },
+    "key": "LS",
+    "uol": "Lesotho",
+    "gop": {
+      "lat": -29.609988,
+      "lon": 28.233608
+    },
+    "author_count": 963,
+    "institution_count": 5,
+    "work_count": 1231,
+    "l": "Python",
+    "nwo": "1130",
+    "pr": 1130,
+    "ma": "2022-12-10 02:08:15",
+    "oa": "2022-12-10 02:08:15"
+  },
+  {
+    "uml": "Lithuania",
+    "gm": {
+      "lat": 55.169438,
+      "lon": 23.881275
+    },
+    "key": "LT",
+    "uol": "Lithuania",
+    "gop": {
+      "lat": 55.169438,
+      "lon": 23.881275
+    },
+    "author_count": 51555,
+    "institution_count": 120,
+    "work_count": 66292,
+    "l": "Python",
+    "nwo": "1131",
+    "pr": 1131,
+    "ma": "2022-12-10 02:10:27",
+    "oa": "2022-12-10 02:10:27"
+  },
+  {
+    "uml": "Luxembourg",
+    "gm": {
+      "lat": 49.815273,
+      "lon": 6.129583
+    },
+    "key": "LU",
+    "uol": "Luxembourg",
+    "gop": {
+      "lat": 49.815273,
+      "lon": 6.129583
+    },
+    "author_count": 20279,
+    "institution_count": 89,
+    "work_count": 59458,
+    "l": "Python",
+    "nwo": "1132",
+    "pr": 1132,
+    "ma": "2022-12-10 02:08:43",
+    "oa": "2022-12-10 02:08:43"
+  },
+  {
+    "uml": "Latvia",
+    "gm": {
+      "lat": 56.879635,
+      "lon": 24.603189
+    },
+    "key": "LV",
+    "uol": "Latvia",
+    "gop": {
+      "lat": 56.879635,
+      "lon": 24.603189
+    },
+    "author_count": 33068,
+    "institution_count": 98,
+    "work_count": 40795,
+    "l": "Python",
+    "nwo": "1133",
+    "pr": 1133,
+    "ma": "2022-12-10 02:08:54",
+    "oa": "2022-12-10 02:08:54"
+  },
+  {
+    "uml": "Libya",
+    "gm": {
+      "lat": 26.3351,
+      "lon": 17.228331
+    },
+    "key": "LY",
+    "uol": "Libya",
+    "gop": {
+      "lat": 26.3351,
+      "lon": 17.228331
+    },
+    "author_count": 10013,
+    "institution_count": 21,
+    "work_count": 8658,
+    "l": "Python",
+    "nwo": "1134",
+    "pr": 1134,
+    "ma": "2022-12-10 02:08:15",
+    "oa": "2022-12-10 02:08:15"
+  },
+  {
+    "uml": "Morocco",
+    "gm": {
+      "lat": 31.791702,
+      "lon": -7.09262
+    },
+    "key": "MA",
+    "uol": "Morocco",
+    "gop": {
+      "lat": 31.791702,
+      "lon": -7.09262
+    },
+    "author_count": 138506,
+    "institution_count": 180,
+    "work_count": 124552,
+    "l": "Python",
+    "nwo": "1135",
+    "pr": 1135,
+    "ma": "2022-12-10 02:09:59",
+    "oa": "2022-12-10 02:09:59"
+  },
+  {
+    "uml": "Monaco",
+    "gm": {
+      "lat": 43.750298,
+      "lon": 7.412841
+    },
+    "key": "MC",
+    "uol": "Monaco",
+    "gop": {
+      "lat": 43.750298,
+      "lon": 7.412841
+    },
+    "author_count": 1487,
+    "institution_count": 7,
+    "work_count": 2127,
+    "l": "Python",
+    "nwo": "1136",
+    "pr": 1136,
+    "ma": "2022-12-10 02:08:49",
+    "oa": "2022-12-10 02:08:49"
+  },
+  {
+    "uml": "Moldova",
+    "gm": {
+      "lat": 47.411631,
+      "lon": 28.369885
+    },
+    "key": "MD",
+    "uol": "Moldova",
+    "gop": {
+      "lat": 47.411631,
+      "lon": 28.369885
+    },
+    "author_count": 53849,
+    "institution_count": 40,
+    "work_count": 40623,
+    "l": "Python",
+    "nwo": "1137",
+    "pr": 1137,
+    "ma": "2022-12-10 02:10:58",
+    "oa": "2022-12-10 02:10:58"
+  },
+  {
+    "uml": "Montenegro",
+    "gm": {
+      "lat": 42.708678,
+      "lon": 19.37439
+    },
+    "key": "ME",
+    "uol": "Montenegro",
+    "gop": {
+      "lat": 42.708678,
+      "lon": 19.37439
+    },
+    "author_count": 4805,
+    "institution_count": 17,
+    "work_count": 7040,
+    "l": "Python",
+    "nwo": "1138",
+    "pr": 1138,
+    "ma": "2022-12-10 02:09:15",
+    "oa": "2022-12-10 02:09:15"
+  },
+  {
+    "uml": "Madagascar",
+    "gm": {
+      "lat": -18.766947,
+      "lon": 46.869107
+    },
+    "key": "MG",
+    "uol": "Madagascar",
+    "gop": {
+      "lat": -18.766947,
+      "lon": 46.869107
+    },
+    "author_count": 6274,
+    "institution_count": 29,
+    "work_count": 6046,
+    "l": "Python",
+    "nwo": "1139",
+    "pr": 1139,
+    "ma": "2022-12-10 02:08:28",
+    "oa": "2022-12-10 02:08:28"
+  },
+  {
+    "uml": "Marshall Islands",
+    "gm": {
+      "lat": 7.131474,
+      "lon": 171.184478
+    },
+    "key": "MH",
+    "uol": "Marshall Islands",
+    "gop": {
+      "lat": 7.131474,
+      "lon": 171.184478
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1140",
+    "pr": 1140,
+    "ma": "2022-12-10 02:09:42",
+    "oa": "2022-12-10 02:09:42"
+  },
+  {
+    "uml": "Macedonia [FYROM]",
+    "gm": {
+      "lat": 41.608635,
+      "lon": 21.745275
+    },
+    "key": "MK",
+    "uol": "Macedonia [FYROM]",
+    "gop": {
+      "lat": 41.608635,
+      "lon": 21.745275
+    },
+    "author_count": 15597,
+    "institution_count": 34,
+    "work_count": 25300,
+    "l": "Python",
+    "nwo": "1141",
+    "pr": 1141,
+    "ma": "2022-12-10 02:09:40",
+    "oa": "2022-12-10 02:09:40"
+  },
+  {
+    "uml": "Mali",
+    "gm": {
+      "lat": 17.570692,
+      "lon": -3.996166
+    },
+    "key": "ML",
+    "uol": "Mali",
+    "gop": {
+      "lat": 17.570692,
+      "lon": -3.996166
+    },
+    "author_count": 5660,
+    "institution_count": 23,
+    "work_count": 5470,
+    "l": "Python",
+    "nwo": "1142",
+    "pr": 1142,
+    "ma": "2022-12-10 02:10:09",
+    "oa": "2022-12-10 02:10:09"
+  },
+  {
+    "uml": "Myanmar [Burma]",
+    "gm": {
+      "lat": 21.913965,
+      "lon": 95.956223
+    },
+    "key": "MM",
+    "uol": "Myanmar [Burma]",
+    "gop": {
+      "lat": 21.913965,
+      "lon": 95.956223
+    },
+    "author_count": 8164,
+    "institution_count": 94,
+    "work_count": 7662,
+    "l": "Python",
+    "nwo": "1143",
+    "pr": 1143,
+    "ma": "2022-12-10 02:08:28",
+    "oa": "2022-12-10 02:08:28"
+  },
+  {
+    "uml": "Mongolia",
+    "gm": {
+      "lat": 46.862496,
+      "lon": 103.846656
+    },
+    "key": "MN",
+    "uol": "Mongolia",
+    "gop": {
+      "lat": 46.862496,
+      "lon": 103.846656
+    },
+    "author_count": 9793,
+    "institution_count": 32,
+    "work_count": 8991,
+    "l": "Python",
+    "nwo": "1144",
+    "pr": 1144,
+    "ma": "2022-12-10 02:09:10",
+    "oa": "2022-12-10 02:09:10"
+  },
+  {
+    "uml": "Macau",
+    "gm": {
+      "lat": 22.198745,
+      "lon": 113.543873
+    },
+    "key": "MO",
+    "uol": "Macau",
+    "gop": {
+      "lat": 22.198745,
+      "lon": 113.543873
+    },
+    "author_count": 465,
+    "institution_count": 3,
+    "work_count": 746,
+    "l": "Python",
+    "nwo": "1145",
+    "pr": 1145,
+    "ma": "2022-12-10 02:10:41",
+    "oa": "2022-12-10 02:10:41"
+  },
+  {
+    "uml": "Northern Mariana Islands",
+    "gm": {
+      "lat": 17.33083,
+      "lon": 145.38469
+    },
+    "key": "MP",
+    "uol": "Northern Mariana Islands",
+    "gop": {
+      "lat": 17.33083,
+      "lon": 145.38469
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1146",
+    "pr": 1146,
+    "ma": "2022-12-10 02:08:14",
+    "oa": "2022-12-10 02:08:14"
+  },
+  {
+    "uml": "Martinique",
+    "gm": {
+      "lat": 14.641528,
+      "lon": -61.024174
+    },
+    "key": "MQ",
+    "uol": "Martinique",
+    "gop": {
+      "lat": 14.641528,
+      "lon": -61.024174
+    },
+    "author_count": 1958,
+    "institution_count": 0,
+    "work_count": 1601,
+    "l": "Python",
+    "nwo": "1147",
+    "pr": 1147,
+    "ma": "2022-12-10 02:09:02",
+    "oa": "2022-12-10 02:09:02"
+  },
+  {
+    "uml": "Mauritania",
+    "gm": {
+      "lat": 21.00789,
+      "lon": -10.940835
+    },
+    "key": "MR",
+    "uol": "Mauritania",
+    "gop": {
+      "lat": 21.00789,
+      "lon": -10.940835
+    },
+    "author_count": 886,
+    "institution_count": 8,
+    "work_count": 817,
+    "l": "Python",
+    "nwo": "1148",
+    "pr": 1148,
+    "ma": "2022-12-10 02:09:22",
+    "oa": "2022-12-10 02:09:22"
+  },
+  {
+    "uml": "Montserrat",
+    "gm": {
+      "lat": 16.742498,
+      "lon": -62.187366
+    },
+    "key": "MS",
+    "uol": "Montserrat",
+    "gop": {
+      "lat": 16.742498,
+      "lon": -62.187366
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1149",
+    "pr": 1149,
+    "ma": "2022-12-10 02:08:27",
+    "oa": "2022-12-10 02:08:27"
+  },
+  {
+    "uml": "Malta",
+    "gm": {
+      "lat": 35.937496,
+      "lon": 14.375416
+    },
+    "key": "MT",
+    "uol": "Malta",
+    "gop": {
+      "lat": 35.937496,
+      "lon": 14.375416
+    },
+    "author_count": 7849,
+    "institution_count": 34,
+    "work_count": 13507,
+    "l": "Python",
+    "nwo": "1150",
+    "pr": 1150,
+    "ma": "2022-12-10 02:08:49",
+    "oa": "2022-12-10 02:08:49"
+  },
+  {
+    "uml": "Mauritius",
+    "gm": {
+      "lat": -20.348404,
+      "lon": 57.552152
+    },
+    "key": "MU",
+    "uol": "Mauritius",
+    "gop": {
+      "lat": -20.348404,
+      "lon": 57.552152
+    },
+    "author_count": 5270,
+    "institution_count": 22,
+    "work_count": 7213,
+    "l": "Python",
+    "nwo": "1151",
+    "pr": 1151,
+    "ma": "2022-12-10 02:08:15",
+    "oa": "2022-12-10 02:08:15"
+  },
+  {
+    "uml": "Maldives",
+    "gm": {
+      "lat": 3.202778,
+      "lon": 73.22068
+    },
+    "key": "MV",
+    "uol": "Maldives",
+    "gop": {
+      "lat": 3.202778,
+      "lon": 73.22068
+    },
+    "author_count": 1080,
+    "institution_count": 10,
+    "work_count": 857,
+    "l": "Python",
+    "nwo": "1152",
+    "pr": 1152,
+    "ma": "2022-12-10 02:10:29",
+    "oa": "2022-12-10 02:10:29"
+  },
+  {
+    "uml": "Malawi",
+    "gm": {
+      "lat": -13.254308,
+      "lon": 34.301525
+    },
+    "key": "MW",
+    "uol": "Malawi",
+    "gop": {
+      "lat": -13.254308,
+      "lon": 34.301525
+    },
+    "author_count": 8171,
+    "institution_count": 40,
+    "work_count": 11307,
+    "l": "Python",
+    "nwo": "1153",
+    "pr": 1153,
+    "ma": "2022-12-10 02:10:01",
+    "oa": "2022-12-10 02:10:01"
+  },
+  {
+    "uml": "Mexico",
+    "gm": {
+      "lat": 23.634501,
+      "lon": -102.552784
+    },
+    "key": "MX",
+    "uol": "Mexico",
+    "gop": {
+      "lat": 23.634501,
+      "lon": -102.552784
+    },
+    "author_count": 623808,
+    "institution_count": 625,
+    "work_count": 689166,
+    "l": "Python",
+    "nwo": "1154",
+    "pr": 1154,
+    "ma": "2022-12-10 02:09:02",
+    "oa": "2022-12-10 02:09:02"
+  },
+  {
+    "uml": "Malaysia",
+    "gm": {
+      "lat": 4.210484,
+      "lon": 101.975766
+    },
+    "key": "MY",
+    "uol": "Malaysia",
+    "gop": {
+      "lat": 4.210484,
+      "lon": 101.975766
+    },
+    "author_count": 367251,
+    "institution_count": 208,
+    "work_count": 434992,
+    "l": "Python",
+    "nwo": "1155",
+    "pr": 1155,
+    "ma": "2022-12-10 02:10:08",
+    "oa": "2022-12-10 02:10:08"
+  },
+  {
+    "uml": "Mozambique",
+    "gm": {
+      "lat": -18.665695,
+      "lon": 35.529562
+    },
+    "key": "MZ",
+    "uol": "Mozambique",
+    "gop": {
+      "lat": -18.665695,
+      "lon": 35.529562
+    },
+    "author_count": 12112,
+    "institution_count": 47,
+    "work_count": 10658,
+    "l": "Python",
+    "nwo": "1156",
+    "pr": 1156,
+    "ma": "2022-12-10 02:10:26",
+    "oa": "2022-12-10 02:10:26"
+  },
+  {
+    "uml": "Namibia",
+    "gm": {
+      "lat": -22.95764,
+      "lon": 18.49041
+    },
+    "key": "NA",
+    "uol": "Namibia",
+    "gop": {
+      "lat": -22.95764,
+      "lon": 18.49041
+    },
+    "author_count": 3692,
+    "institution_count": 20,
+    "work_count": 5189,
+    "l": "Python",
+    "nwo": "1157",
+    "pr": 1157,
+    "ma": "2022-12-10 02:10:42",
+    "oa": "2022-12-10 02:10:42"
+  },
+  {
+    "uml": "New Caledonia",
+    "gm": {
+      "lat": -20.904305,
+      "lon": 165.618042
+    },
+    "key": "NC",
+    "uol": "New Caledonia",
+    "gop": {
+      "lat": -20.904305,
+      "lon": 165.618042
+    },
+    "author_count": 1650,
+    "institution_count": 6,
+    "work_count": 2530,
+    "l": "Python",
+    "nwo": "1158",
+    "pr": 1158,
+    "ma": "2022-12-10 02:10:06",
+    "oa": "2022-12-10 02:10:06"
+  },
+  {
+    "uml": "Niger",
+    "gm": {
+      "lat": 17.607789,
+      "lon": 8.081666
+    },
+    "key": "NE",
+    "uol": "Niger",
+    "gop": {
+      "lat": 17.607789,
+      "lon": 8.081666
+    },
+    "author_count": 11595,
+    "institution_count": 19,
+    "work_count": 11623,
+    "l": "Python",
+    "nwo": "1159",
+    "pr": 1159,
+    "ma": "2022-12-10 02:10:25",
+    "oa": "2022-12-10 02:10:25"
+  },
+  {
+    "uml": "Norfolk Island",
+    "gm": {
+      "lat": -29.040835,
+      "lon": 167.954712
+    },
+    "key": "NF",
+    "uol": "Norfolk Island",
+    "gop": {
+      "lat": -29.040835,
+      "lon": 167.954712
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1160",
+    "pr": 1160,
+    "ma": "2022-12-10 02:09:42",
+    "oa": "2022-12-10 02:09:42"
+  },
+  {
+    "uml": "Nigeria",
+    "gm": {
+      "lat": 9.081999,
+      "lon": 8.675277
+    },
+    "key": "NG",
+    "uol": "Nigeria",
+    "gop": {
+      "lat": 9.081999,
+      "lon": 8.675277
+    },
+    "author_count": 269141,
+    "institution_count": 290,
+    "work_count": 225218,
+    "l": "Python",
+    "nwo": "1161",
+    "pr": 1161,
+    "ma": "2022-12-10 02:10:13",
+    "oa": "2022-12-10 02:10:13"
+  },
+  {
+    "uml": "Nicaragua",
+    "gm": {
+      "lat": 12.865416,
+      "lon": -85.207229
+    },
+    "key": "NI",
+    "uol": "Nicaragua",
+    "gop": {
+      "lat": 12.865416,
+      "lon": -85.207229
+    },
+    "author_count": 5836,
+    "institution_count": 50,
+    "work_count": 5476,
+    "l": "Python",
+    "nwo": "1162",
+    "pr": 1162,
+    "ma": "2022-12-10 02:11:07",
+    "oa": "2022-12-10 02:11:07"
+  },
+  {
+    "uml": "Netherlands",
+    "gm": {
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "key": "NL",
+    "uol": "Netherlands",
+    "gop": {
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "author_count": 862563,
+    "institution_count": 1666,
+    "work_count": 1383471,
+    "l": "Python",
+    "nwo": "1163",
+    "pr": 1163,
+    "ma": "2022-12-10 02:10:32",
+    "oa": "2022-12-10 02:10:32"
+  },
+  {
+    "uml": "Norway",
+    "gm": {
+      "lat": 60.472024,
+      "lon": 8.468946
+    },
+    "key": "NO",
+    "uol": "Norway",
+    "gop": {
+      "lat": 60.472024,
+      "lon": 8.468946
+    },
+    "author_count": 244010,
+    "institution_count": 1942,
+    "work_count": 464555,
+    "l": "Python",
+    "nwo": "1164",
+    "pr": 1164,
+    "ma": "2022-12-10 02:09:38",
+    "oa": "2022-12-10 02:09:38"
+  },
+  {
+    "uml": "Nepal",
+    "gm": {
+      "lat": 28.394857,
+      "lon": 84.124008
+    },
+    "key": "NP",
+    "uol": "Nepal",
+    "gop": {
+      "lat": 28.394857,
+      "lon": 84.124008
+    },
+    "author_count": 54927,
+    "institution_count": 116,
+    "work_count": 43335,
+    "l": "Python",
+    "nwo": "1165",
+    "pr": 1165,
+    "ma": "2022-12-10 02:10:00",
+    "oa": "2022-12-10 02:10:00"
+  },
+  {
+    "uml": "Nauru",
+    "gm": {
+      "lat": -0.522778,
+      "lon": 166.931503
+    },
+    "key": "NR",
+    "uol": "Nauru",
+    "gop": {
+      "lat": -0.522778,
+      "lon": 166.931503
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1166",
+    "pr": 1166,
+    "ma": "2022-12-10 02:10:34",
+    "oa": "2022-12-10 02:10:34"
+  },
+  {
+    "uml": "Niue",
+    "gm": {
+      "lat": -19.054445,
+      "lon": -169.867233
+    },
+    "key": "NU",
+    "uol": "Niue",
+    "gop": {
+      "lat": -19.054445,
+      "lon": -169.867233
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1167",
+    "pr": 1167,
+    "ma": "2022-12-10 02:09:08",
+    "oa": "2022-12-10 02:09:08"
+  },
+  {
+    "uml": "New Zealand",
+    "gm": {
+      "lat": -40.900557,
+      "lon": 174.885971
+    },
+    "key": "NZ",
+    "uol": "New Zealand",
+    "gop": {
+      "lat": -40.900557,
+      "lon": 174.885971
+    },
+    "author_count": 176974,
+    "institution_count": 296,
+    "work_count": 335532,
+    "l": "Python",
+    "nwo": "1168",
+    "pr": 1168,
+    "ma": "2022-12-10 02:10:22",
+    "oa": "2022-12-10 02:10:22"
+  },
+  {
+    "uml": "Oman",
+    "gm": {
+      "lat": 21.512583,
+      "lon": 55.923255
+    },
+    "key": "OM",
+    "uol": "Oman",
+    "gop": {
+      "lat": 21.512583,
+      "lon": 55.923255
+    },
+    "author_count": 21971,
+    "institution_count": 33,
+    "work_count": 28802,
+    "l": "Python",
+    "nwo": "1169",
+    "pr": 1169,
+    "ma": "2022-12-10 02:09:17",
+    "oa": "2022-12-10 02:09:17"
+  },
+  {
+    "uml": "Panama",
+    "gm": {
+      "lat": 8.537981,
+      "lon": -80.782127
+    },
+    "key": "PA",
+    "uol": "Panama",
+    "gop": {
+      "lat": 8.537981,
+      "lon": -80.782127
+    },
+    "author_count": 16310,
+    "institution_count": 53,
+    "work_count": 21246,
+    "l": "Python",
+    "nwo": "1170",
+    "pr": 1170,
+    "ma": "2022-12-10 02:10:11",
+    "oa": "2022-12-10 02:10:11"
+  },
+  {
+    "uml": "Peru",
+    "gm": {
+      "lat": -9.189967,
+      "lon": -75.015152
+    },
+    "key": "PE",
+    "uol": "Peru",
+    "gop": {
+      "lat": -9.189967,
+      "lon": -75.015152
+    },
+    "author_count": 114008,
+    "institution_count": 147,
+    "work_count": 109925,
+    "l": "Python",
+    "nwo": "1171",
+    "pr": 1171,
+    "ma": "2022-12-10 02:10:00",
+    "oa": "2022-12-10 02:10:00"
+  },
+  {
+    "uml": "French Polynesia",
+    "gm": {
+      "lat": -17.679742,
+      "lon": -149.406843
+    },
+    "key": "PF",
+    "uol": "French Polynesia",
+    "gop": {
+      "lat": -17.679742,
+      "lon": -149.406843
+    },
+    "author_count": 1637,
+    "institution_count": 4,
+    "work_count": 2463,
+    "l": "Python",
+    "nwo": "1172",
+    "pr": 1172,
+    "ma": "2022-12-10 02:09:00",
+    "oa": "2022-12-10 02:09:00"
+  },
+  {
+    "uml": "Papua New Guinea",
+    "gm": {
+      "lat": -6.314993,
+      "lon": 143.95555
+    },
+    "key": "PG",
+    "uol": "Papua New Guinea",
+    "gop": {
+      "lat": -6.314993,
+      "lon": 143.95555
+    },
+    "author_count": 3998,
+    "institution_count": 15,
+    "work_count": 5293,
+    "l": "Python",
+    "nwo": "1173",
+    "pr": 1173,
+    "ma": "2022-12-10 02:11:06",
+    "oa": "2022-12-10 02:11:06"
+  },
+  {
+    "uml": "Philippines",
+    "gm": {
+      "lat": 12.879721,
+      "lon": 121.774017
+    },
+    "key": "PH",
+    "uol": "Philippines",
+    "gop": {
+      "lat": 12.879721,
+      "lon": 121.774017
+    },
+    "author_count": 107782,
+    "institution_count": 320,
+    "work_count": 141494,
+    "l": "Python",
+    "nwo": "1174",
+    "pr": 1174,
+    "ma": "2022-12-10 02:09:36",
+    "oa": "2022-12-10 02:09:36"
+  },
+  {
+    "uml": "Pakistan",
+    "gm": {
+      "lat": 30.375321,
+      "lon": 69.345116
+    },
+    "key": "PK",
+    "uol": "Pakistan",
+    "gop": {
+      "lat": 30.375321,
+      "lon": 69.345116
+    },
+    "author_count": 290715,
+    "institution_count": 344,
+    "work_count": 279482,
+    "l": "Python",
+    "nwo": "1175",
+    "pr": 1175,
+    "ma": "2022-12-10 02:08:19",
+    "oa": "2022-12-10 02:08:19"
+  },
+  {
+    "uml": "Poland",
+    "gm": {
+      "lat": 51.919438,
+      "lon": 19.145136
+    },
+    "key": "PL",
+    "uol": "Poland",
+    "gop": {
+      "lat": 51.919438,
+      "lon": 19.145136
+    },
+    "author_count": 735606,
+    "institution_count": 1210,
+    "work_count": 1175798,
+    "l": "Python",
+    "nwo": "1176",
+    "pr": 1176,
+    "ma": "2022-12-10 02:09:10",
+    "oa": "2022-12-10 02:09:10"
+  },
+  {
+    "uml": "Saint Pierre and Miquelon",
+    "gm": {
+      "lat": 46.941936,
+      "lon": -56.27111
+    },
+    "key": "PM",
+    "uol": "Saint Pierre and Miquelon",
+    "gop": {
+      "lat": 46.941936,
+      "lon": -56.27111
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1177",
+    "pr": 1177,
+    "ma": "2022-12-10 02:08:20",
+    "oa": "2022-12-10 02:08:20"
+  },
+  {
+    "uml": "Pitcairn Islands",
+    "gm": {
+      "lat": -24.703615,
+      "lon": -127.439308
+    },
+    "key": "PN",
+    "uol": "Pitcairn Islands",
+    "gop": {
+      "lat": -24.703615,
+      "lon": -127.439308
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1178",
+    "pr": 1178,
+    "ma": "2022-12-10 02:08:11",
+    "oa": "2022-12-10 02:08:11"
+  },
+  {
+    "uml": "Puerto Rico",
+    "gm": {
+      "lat": 18.220833,
+      "lon": -66.590149
+    },
+    "key": "PR",
+    "uol": "Puerto Rico",
+    "gop": {
+      "lat": 18.220833,
+      "lon": -66.590149
+    },
+    "author_count": 5762,
+    "institution_count": 3,
+    "work_count": 8531,
+    "l": "Python",
+    "nwo": "1179",
+    "pr": 1179,
+    "ma": "2022-12-10 02:10:16",
+    "oa": "2022-12-10 02:10:16"
+  },
+  {
+    "uml": "Palestinian Territories",
+    "gm": {
+      "lat": 31.952162,
+      "lon": 35.233154
+    },
+    "key": "PS",
+    "uol": "Palestinian Territories",
+    "gop": {
+      "lat": 31.952162,
+      "lon": 35.233154
+    },
+    "author_count": 11910,
+    "institution_count": 33,
+    "work_count": 16066,
+    "l": "Python",
+    "nwo": "1180",
+    "pr": 1180,
+    "ma": "2022-12-10 02:08:26",
+    "oa": "2022-12-10 02:08:26"
+  },
+  {
+    "uml": "Portugal",
+    "gm": {
+      "lat": 39.399872,
+      "lon": -8.224454
+    },
+    "key": "PT",
+    "uol": "Portugal",
+    "gop": {
+      "lat": 39.399872,
+      "lon": -8.224454
+    },
+    "author_count": 270890,
+    "institution_count": 557,
+    "work_count": 467005,
+    "l": "Python",
+    "nwo": "1181",
+    "pr": 1181,
+    "ma": "2022-12-10 02:10:24",
+    "oa": "2022-12-10 02:10:24"
+  },
+  {
+    "uml": "Palau",
+    "gm": {
+      "lat": 7.51498,
+      "lon": 134.58252
+    },
+    "key": "PW",
+    "uol": "Palau",
+    "gop": {
+      "lat": 7.51498,
+      "lon": 134.58252
+    },
+    "author_count": 271,
+    "institution_count": 3,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1182",
+    "pr": 1182,
+    "ma": "2022-12-10 02:08:58",
+    "oa": "2022-12-10 02:08:58"
+  },
+  {
+    "uml": "Paraguay",
+    "gm": {
+      "lat": -23.442503,
+      "lon": -58.443832
+    },
+    "key": "PY",
+    "uol": "Paraguay",
+    "gop": {
+      "lat": -23.442503,
+      "lon": -58.443832
+    },
+    "author_count": 13049,
+    "institution_count": 36,
+    "work_count": 11681,
+    "l": "Python",
+    "nwo": "1183",
+    "pr": 1183,
+    "ma": "2022-12-10 02:10:07",
+    "oa": "2022-12-10 02:10:07"
+  },
+  {
+    "uml": "Qatar",
+    "gm": {
+      "lat": 25.354826,
+      "lon": 51.183884
+    },
+    "key": "QA",
+    "uol": "Qatar",
+    "gop": {
+      "lat": 25.354826,
+      "lon": 51.183884
+    },
+    "author_count": 45368,
+    "institution_count": 116,
+    "work_count": 62688,
+    "l": "Python",
+    "nwo": "1184",
+    "pr": 1184,
+    "ma": "2022-12-10 02:10:36",
+    "oa": "2022-12-10 02:10:36"
+  },
+  {
+    "uml": "Réunion",
+    "gm": {
+      "lat": -21.115141,
+      "lon": 55.536384
+    },
+    "key": "RE",
+    "uol": "Réunion",
+    "gop": {
+      "lat": -21.115141,
+      "lon": 55.536384
+    },
+    "author_count": 4738,
+    "institution_count": 4,
+    "work_count": 6850,
+    "l": "Python",
+    "nwo": "1185",
+    "pr": 1185,
+    "ma": "2022-12-10 02:08:30",
+    "oa": "2022-12-10 02:08:30"
+  },
+  {
+    "uml": "Romania",
+    "gm": {
+      "lat": 45.943161,
+      "lon": 24.96676
+    },
+    "key": "RO",
+    "uol": "Romania",
+    "gop": {
+      "lat": 45.943161,
+      "lon": 24.96676
+    },
+    "author_count": 186272,
+    "institution_count": 277,
+    "work_count": 236522,
+    "l": "Python",
+    "nwo": "1186",
+    "pr": 1186,
+    "ma": "2022-12-10 02:09:29",
+    "oa": "2022-12-10 02:09:29"
+  },
+  {
+    "uml": "Serbia",
+    "gm": {
+      "lat": 44.016521,
+      "lon": 21.005859
+    },
+    "key": "RS",
+    "uol": "Serbia",
+    "gop": {
+      "lat": 44.016521,
+      "lon": 21.005859
+    },
+    "author_count": 97455,
+    "institution_count": 115,
+    "work_count": 136286,
+    "l": "Python",
+    "nwo": "1187",
+    "pr": 1187,
+    "ma": "2022-12-10 02:09:52",
+    "oa": "2022-12-10 02:09:52"
+  },
+  {
+    "uml": "Russia",
+    "gm": {
+      "lat": 61.52401,
+      "lon": 105.318756
+    },
+    "key": "RU",
+    "uol": "Russia",
+    "gop": {
+      "lat": 61.52401,
+      "lon": 105.318756
+    },
+    "author_count": 1528603,
+    "institution_count": 2138,
+    "work_count": 1408871,
+    "l": "Python",
+    "nwo": "1188",
+    "pr": 1188,
+    "ma": "2022-12-10 02:09:41",
+    "oa": "2022-12-10 02:09:41"
+  },
+  {
+    "uml": "Rwanda",
+    "gm": {
+      "lat": -1.940278,
+      "lon": 29.873888
+    },
+    "key": "RW",
+    "uol": "Rwanda",
+    "gop": {
+      "lat": -1.940278,
+      "lon": 29.873888
+    },
+    "author_count": 7031,
+    "institution_count": 38,
+    "work_count": 6506,
+    "l": "Python",
+    "nwo": "1189",
+    "pr": 1189,
+    "ma": "2022-12-10 02:08:07",
+    "oa": "2022-12-10 02:08:07"
+  },
+  {
+    "uml": "Saudi Arabia",
+    "gm": {
+      "lat": 23.885942,
+      "lon": 45.079162
+    },
+    "key": "SA",
+    "uol": "Saudi Arabia",
+    "gop": {
+      "lat": 23.885942,
+      "lon": 45.079162
+    },
+    "author_count": 221570,
+    "institution_count": 133,
+    "work_count": 320142,
+    "l": "Python",
+    "nwo": "1190",
+    "pr": 1190,
+    "ma": "2022-12-10 02:09:07",
+    "oa": "2022-12-10 02:09:07"
+  },
+  {
+    "uml": "Solomon Islands",
+    "gm": {
+      "lat": -9.64571,
+      "lon": 160.156194
+    },
+    "key": "SB",
+    "uol": "Solomon Islands",
+    "gop": {
+      "lat": -9.64571,
+      "lon": 160.156194
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1191",
+    "pr": 1191,
+    "ma": "2022-12-10 02:10:23",
+    "oa": "2022-12-10 02:10:23"
+  },
+  {
+    "uml": "Seychelles",
+    "gm": {
+      "lat": -4.679574,
+      "lon": 55.491977
+    },
+    "key": "SC",
+    "uol": "Seychelles",
+    "gop": {
+      "lat": -4.679574,
+      "lon": 55.491977
+    },
+    "author_count": 416,
+    "institution_count": 4,
+    "work_count": 583,
+    "l": "Python",
+    "nwo": "1192",
+    "pr": 1192,
+    "ma": "2022-12-10 02:10:26",
+    "oa": "2022-12-10 02:10:26"
+  },
+  {
+    "uml": "Sudan",
+    "gm": {
+      "lat": 12.862807,
+      "lon": 30.217636
+    },
+    "key": "SD",
+    "uol": "Sudan",
+    "gop": {
+      "lat": 12.862807,
+      "lon": 30.217636
+    },
+    "author_count": 20585,
+    "institution_count": 54,
+    "work_count": 20301,
+    "l": "Python",
+    "nwo": "1193",
+    "pr": 1193,
+    "ma": "2022-12-10 02:10:53",
+    "oa": "2022-12-10 02:10:53"
+  },
+  {
+    "uml": "Sweden",
+    "gm": {
+      "lat": 60.128161,
+      "lon": 18.643501
+    },
+    "key": "SE",
+    "uol": "Sweden",
+    "gop": {
+      "lat": 60.128161,
+      "lon": 18.643501
+    },
+    "author_count": 478166,
+    "institution_count": 1516,
+    "work_count": 1001331,
+    "l": "Python",
+    "nwo": "1194",
+    "pr": 1194,
+    "ma": "2022-12-10 02:09:15",
+    "oa": "2022-12-10 02:09:15"
+  },
+  {
+    "uml": "Singapore",
+    "gm": {
+      "lat": 1.352083,
+      "lon": 103.819836
+    },
+    "key": "SG",
+    "uol": "Singapore",
+    "gop": {
+      "lat": 1.352083,
+      "lon": 103.819836
+    },
+    "author_count": 275358,
+    "institution_count": 260,
+    "work_count": 422506,
+    "l": "Python",
+    "nwo": "1195",
+    "pr": 1195,
+    "ma": "2022-12-10 02:08:16",
+    "oa": "2022-12-10 02:08:16"
+  },
+  {
+    "uml": "Saint Helena",
+    "gm": {
+      "lat": -24.143474,
+      "lon": -10.030696
+    },
+    "key": "SH",
+    "uol": "Saint Helena",
+    "gop": {
+      "lat": -24.143474,
+      "lon": -10.030696
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1196",
+    "pr": 1196,
+    "ma": "2022-12-10 02:09:09",
+    "oa": "2022-12-10 02:09:09"
+  },
+  {
+    "uml": "Slovenia",
+    "gm": {
+      "lat": 46.151241,
+      "lon": 14.995463
+    },
+    "key": "SI",
+    "uol": "Slovenia",
+    "gop": {
+      "lat": 46.151241,
+      "lon": 14.995463
+    },
+    "author_count": 68841,
+    "institution_count": 376,
+    "work_count": 127694,
+    "l": "Python",
+    "nwo": "1197",
+    "pr": 1197,
+    "ma": "2022-12-10 02:08:49",
+    "oa": "2022-12-10 02:08:49"
+  },
+  {
+    "uml": "Svalbard and Jan Mayen",
+    "gm": {
+      "lat": 77.553604,
+      "lon": 23.670272
+    },
+    "key": "SJ",
+    "uol": "Svalbard and Jan Mayen",
+    "gop": {
+      "lat": 77.553604,
+      "lon": 23.670272
+    },
+    "author_count": 486,
+    "institution_count": 3,
+    "work_count": 1905,
+    "l": "Python",
+    "nwo": "1198",
+    "pr": 1198,
+    "ma": "2022-12-10 02:08:22",
+    "oa": "2022-12-10 02:08:22"
+  },
+  {
+    "uml": "Slovakia",
+    "gm": {
+      "lat": 48.669026,
+      "lon": 19.699024
+    },
+    "key": "SK",
+    "uol": "Slovakia",
+    "gop": {
+      "lat": 48.669026,
+      "lon": 19.699024
+    },
+    "author_count": 127670,
+    "institution_count": 453,
+    "work_count": 161160,
+    "l": "Python",
+    "nwo": "1199",
+    "pr": 1199,
+    "ma": "2022-12-10 02:08:15",
+    "oa": "2022-12-10 02:08:15"
+  },
+  {
+    "uml": "Sierra Leone",
+    "gm": {
+      "lat": 8.460555,
+      "lon": -11.779889
+    },
+    "key": "SL",
+    "uol": "Sierra Leone",
+    "gop": {
+      "lat": 8.460555,
+      "lon": -11.779889
+    },
+    "author_count": 1591,
+    "institution_count": 11,
+    "work_count": 1699,
+    "l": "Python",
+    "nwo": "1200",
+    "pr": 1200,
+    "ma": "2022-12-10 02:09:49",
+    "oa": "2022-12-10 02:09:49"
+  },
+  {
+    "uml": "San Marino",
+    "gm": {
+      "lat": 43.94236,
+      "lon": 12.457777
+    },
+    "key": "SM",
+    "uol": "San Marino",
+    "gop": {
+      "lat": 43.94236,
+      "lon": 12.457777
+    },
+    "author_count": 0,
+    "institution_count": 4,
+    "work_count": 415,
+    "l": "Python",
+    "nwo": "1201",
+    "pr": 1201,
+    "ma": "2022-12-10 02:08:11",
+    "oa": "2022-12-10 02:08:11"
+  },
+  {
+    "uml": "Senegal",
+    "gm": {
+      "lat": 14.497401,
+      "lon": -14.452362
+    },
+    "key": "SN",
+    "uol": "Senegal",
+    "gop": {
+      "lat": 14.497401,
+      "lon": -14.452362
+    },
+    "author_count": 14937,
+    "institution_count": 75,
+    "work_count": 14384,
+    "l": "Python",
+    "nwo": "1202",
+    "pr": 1202,
+    "ma": "2022-12-10 02:10:11",
+    "oa": "2022-12-10 02:10:11"
+  },
+  {
+    "uml": "Somalia",
+    "gm": {
+      "lat": 5.152149,
+      "lon": 46.199616
+    },
+    "key": "SO",
+    "uol": "Somalia",
+    "gop": {
+      "lat": 5.152149,
+      "lon": 46.199616
+    },
+    "author_count": 828,
+    "institution_count": 37,
+    "work_count": 806,
+    "l": "Python",
+    "nwo": "1203",
+    "pr": 1203,
+    "ma": "2022-12-10 02:09:21",
+    "oa": "2022-12-10 02:09:21"
+  },
+  {
+    "uml": "Suriname",
+    "gm": {
+      "lat": 3.919305,
+      "lon": -56.027783
+    },
+    "key": "SR",
+    "uol": "Suriname",
+    "gop": {
+      "lat": 3.919305,
+      "lon": -56.027783
+    },
+    "author_count": 710,
+    "institution_count": 6,
+    "work_count": 702,
+    "l": "Python",
+    "nwo": "1204",
+    "pr": 1204,
+    "ma": "2022-12-10 02:11:05",
+    "oa": "2022-12-10 02:11:05"
+  },
+  {
+    "uml": "São Tomé and Príncipe",
+    "gm": {
+      "lat": 0.18636,
+      "lon": 6.613081
+    },
+    "key": "ST",
+    "uol": "São Tomé and Príncipe",
+    "gop": {
+      "lat": 0.18636,
+      "lon": 6.613081
+    },
+    "author_count": 1877,
+    "institution_count": 0,
+    "work_count": 2303,
+    "l": "Python",
+    "nwo": "1205",
+    "pr": 1205,
+    "ma": "2022-12-10 02:10:32",
+    "oa": "2022-12-10 02:10:32"
+  },
+  {
+    "uml": "El Salvador",
+    "gm": {
+      "lat": 13.794185,
+      "lon": -88.89653
+    },
+    "key": "SV",
+    "uol": "El Salvador",
+    "gop": {
+      "lat": 13.794185,
+      "lon": -88.89653
+    },
+    "author_count": 7022,
+    "institution_count": 32,
+    "work_count": 5195,
+    "l": "Python",
+    "nwo": "1206",
+    "pr": 1206,
+    "ma": "2022-12-10 02:08:52",
+    "oa": "2022-12-10 02:08:52"
+  },
+  {
+    "uml": "Syria",
+    "gm": {
+      "lat": 34.802075,
+      "lon": 38.996815
+    },
+    "key": "SY",
+    "uol": "Syria",
+    "gop": {
+      "lat": 34.802075,
+      "lon": 38.996815
+    },
+    "author_count": 17939,
+    "institution_count": 37,
+    "work_count": 19546,
+    "l": "Python",
+    "nwo": "1207",
+    "pr": 1207,
+    "ma": "2022-12-10 02:08:10",
+    "oa": "2022-12-10 02:08:10"
+  },
+  {
+    "uml": "Swaziland",
+    "gm": {
+      "lat": -26.522503,
+      "lon": 31.465866
+    },
+    "key": "SZ",
+    "uol": "Swaziland",
+    "gop": {
+      "lat": -26.522503,
+      "lon": 31.465866
+    },
+    "author_count": 1178,
+    "institution_count": 7,
+    "work_count": 1633,
+    "l": "Python",
+    "nwo": "1208",
+    "pr": 1208,
+    "ma": "2022-12-10 02:11:03",
+    "oa": "2022-12-10 02:11:03"
+  },
+  {
+    "uml": "Turks and Caicos Islands",
+    "gm": {
+      "lat": 21.694025,
+      "lon": -71.797928
+    },
+    "key": "TC",
+    "uol": "Turks and Caicos Islands",
+    "gop": {
+      "lat": 21.694025,
+      "lon": -71.797928
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1209",
+    "pr": 1209,
+    "ma": "2022-12-10 02:10:40",
+    "oa": "2022-12-10 02:10:40"
+  },
+  {
+    "uml": "Chad",
+    "gm": {
+      "lat": 15.454166,
+      "lon": 18.732207
+    },
+    "key": "TD",
+    "uol": "Chad",
+    "gop": {
+      "lat": 15.454166,
+      "lon": 18.732207
+    },
+    "author_count": 767,
+    "institution_count": 10,
+    "work_count": 781,
+    "l": "Python",
+    "nwo": "1210",
+    "pr": 1210,
+    "ma": "2022-12-10 02:09:08",
+    "oa": "2022-12-10 02:09:08"
+  },
+  {
+    "uml": "French Southern Territories",
+    "gm": {
+      "lat": -49.280366,
+      "lon": 69.348557
+    },
+    "key": "TF",
+    "uol": "French Southern Territories",
+    "gop": {
+      "lat": -49.280366,
+      "lon": 69.348557
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1211",
+    "pr": 1211,
+    "ma": "2022-12-10 02:09:59",
+    "oa": "2022-12-10 02:09:59"
+  },
+  {
+    "uml": "Togo",
+    "gm": {
+      "lat": 8.619543,
+      "lon": 0.824782
+    },
+    "key": "TG",
+    "uol": "Togo",
+    "gop": {
+      "lat": 8.619543,
+      "lon": 0.824782
+    },
+    "author_count": 4632,
+    "institution_count": 13,
+    "work_count": 3823,
+    "l": "Python",
+    "nwo": "1212",
+    "pr": 1212,
+    "ma": "2022-12-10 02:08:44",
+    "oa": "2022-12-10 02:08:44"
+  },
+  {
+    "uml": "Thailand",
+    "gm": {
+      "lat": 15.870032,
+      "lon": 100.992541
+    },
+    "key": "TH",
+    "uol": "Thailand",
+    "gop": {
+      "lat": 15.870032,
+      "lon": 100.992541
+    },
+    "author_count": 235522,
+    "institution_count": 294,
+    "work_count": 266540,
+    "l": "Python",
+    "nwo": "1213",
+    "pr": 1213,
+    "ma": "2022-12-10 02:08:07",
+    "oa": "2022-12-10 02:08:07"
+  },
+  {
+    "uml": "Tajikistan",
+    "gm": {
+      "lat": 38.861034,
+      "lon": 71.276093
+    },
+    "key": "TJ",
+    "uol": "Tajikistan",
+    "gop": {
+      "lat": 38.861034,
+      "lon": 71.276093
+    },
+    "author_count": 8546,
+    "institution_count": 25,
+    "work_count": 8133,
+    "l": "Python",
+    "nwo": "1214",
+    "pr": 1214,
+    "ma": "2022-12-10 02:10:22",
+    "oa": "2022-12-10 02:10:22"
+  },
+  {
+    "uml": "Tokelau",
+    "gm": {
+      "lat": -8.967363,
+      "lon": -171.855881
+    },
+    "key": "TK",
+    "uol": "Tokelau",
+    "gop": {
+      "lat": -8.967363,
+      "lon": -171.855881
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1215",
+    "pr": 1215,
+    "ma": "2022-12-10 02:10:15",
+    "oa": "2022-12-10 02:10:15"
+  },
+  {
+    "uml": "Timor-Leste",
+    "gm": {
+      "lat": -8.874217,
+      "lon": 125.727539
+    },
+    "key": "TL",
+    "uol": "Timor-Leste",
+    "gop": {
+      "lat": -8.874217,
+      "lon": 125.727539
+    },
+    "author_count": 370,
+    "institution_count": 0,
+    "work_count": 354,
+    "l": "Python",
+    "nwo": "1216",
+    "pr": 1216,
+    "ma": "2022-12-10 02:09:32",
+    "oa": "2022-12-10 02:09:32"
+  },
+  {
+    "uml": "Turkmenistan",
+    "gm": {
+      "lat": 38.969719,
+      "lon": 59.556278
+    },
+    "key": "TM",
+    "uol": "Turkmenistan",
+    "gop": {
+      "lat": 38.969719,
+      "lon": 59.556278
+    },
+    "author_count": 909,
+    "institution_count": 21,
+    "work_count": 1081,
+    "l": "Python",
+    "nwo": "1217",
+    "pr": 1217,
+    "ma": "2022-12-10 02:09:27",
+    "oa": "2022-12-10 02:09:27"
+  },
+  {
+    "uml": "Tunisia",
+    "gm": {
+      "lat": 33.886917,
+      "lon": 9.537499
+    },
+    "key": "TN",
+    "uol": "Tunisia",
+    "gop": {
+      "lat": 33.886917,
+      "lon": 9.537499
+    },
+    "author_count": 111467,
+    "institution_count": 127,
+    "work_count": 114670,
+    "l": "Python",
+    "nwo": "1218",
+    "pr": 1218,
+    "ma": "2022-12-10 02:09:31",
+    "oa": "2022-12-10 02:09:31"
+  },
+  {
+    "uml": "Tonga",
+    "gm": {
+      "lat": -21.178986,
+      "lon": -175.198242
+    },
+    "key": "TO",
+    "uol": "Tonga",
+    "gop": {
+      "lat": -21.178986,
+      "lon": -175.198242
+    },
+    "author_count": 259,
+    "institution_count": 3,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1219",
+    "pr": 1219,
+    "ma": "2022-12-10 02:08:51",
+    "oa": "2022-12-10 02:08:51"
+  },
+  {
+    "uml": "Turkey",
+    "gm": {
+      "lat": 38.963745,
+      "lon": 35.243322
+    },
+    "key": "TR",
+    "uol": "Turkey",
+    "gop": {
+      "lat": 38.963745,
+      "lon": 35.243322
+    },
+    "author_count": 577765,
+    "institution_count": 455,
+    "work_count": 840439,
+    "l": "Python",
+    "nwo": "1220",
+    "pr": 1220,
+    "ma": "2022-12-10 02:08:29",
+    "oa": "2022-12-10 02:08:29"
+  },
+  {
+    "uml": "Trinidad and Tobago",
+    "gm": {
+      "lat": 10.691803,
+      "lon": -61.222503
+    },
+    "key": "TT",
+    "uol": "Trinidad and Tobago",
+    "gop": {
+      "lat": 10.691803,
+      "lon": -61.222503
+    },
+    "author_count": 5494,
+    "institution_count": 16,
+    "work_count": 7333,
+    "l": "Python",
+    "nwo": "1221",
+    "pr": 1221,
+    "ma": "2022-12-10 02:10:17",
+    "oa": "2022-12-10 02:10:17"
+  },
+  {
+    "uml": "Tuvalu",
+    "gm": {
+      "lat": -7.109535,
+      "lon": 177.64933
+    },
+    "key": "TV",
+    "uol": "Tuvalu",
+    "gop": {
+      "lat": -7.109535,
+      "lon": 177.64933
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1222",
+    "pr": 1222,
+    "ma": "2022-12-10 02:08:11",
+    "oa": "2022-12-10 02:08:11"
+  },
+  {
+    "uml": "Taiwan",
+    "gm": {
+      "lat": 23.69781,
+      "lon": 120.960515
+    },
+    "key": "TW",
+    "uol": "Taiwan",
+    "gop": {
+      "lat": 23.69781,
+      "lon": 120.960515
+    },
+    "author_count": 951568,
+    "institution_count": 506,
+    "work_count": 833296,
+    "l": "Python",
+    "nwo": "1223",
+    "pr": 1223,
+    "ma": "2022-12-10 02:10:50",
+    "oa": "2022-12-10 02:10:50"
+  },
+  {
+    "uml": "Tanzania",
+    "gm": {
+      "lat": -6.369028,
+      "lon": 34.888822
+    },
+    "key": "TZ",
+    "uol": "Tanzania",
+    "gop": {
+      "lat": -6.369028,
+      "lon": 34.888822
+    },
+    "author_count": 26404,
+    "institution_count": 140,
+    "work_count": 34102,
+    "l": "Python",
+    "nwo": "1224",
+    "pr": 1224,
+    "ma": "2022-12-10 02:11:06",
+    "oa": "2022-12-10 02:11:06"
+  },
+  {
+    "uml": "Ukraine",
+    "gm": {
+      "lat": 48.379433,
+      "lon": 31.16558
+    },
+    "key": "UA",
+    "uol": "Ukraine",
+    "gop": {
+      "lat": 48.379433,
+      "lon": 31.16558
+    },
+    "author_count": 338390,
+    "institution_count": 450,
+    "work_count": 270980,
+    "l": "Python",
+    "nwo": "1225",
+    "pr": 1225,
+    "ma": "2022-12-10 02:10:46",
+    "oa": "2022-12-10 02:10:46"
+  },
+  {
+    "uml": "Uganda",
+    "gm": {
+      "lat": 1.373333,
+      "lon": 32.290275
+    },
+    "key": "UG",
+    "uol": "Uganda",
+    "gop": {
+      "lat": 1.373333,
+      "lon": 32.290275
+    },
+    "author_count": 37488,
+    "institution_count": 224,
+    "work_count": 42730,
+    "l": "Python",
+    "nwo": "1226",
+    "pr": 1226,
+    "ma": "2022-12-10 02:09:41",
+    "oa": "2022-12-10 02:09:41"
+  },
+  {
+    "uml": "U.S. Minor Outlying Islands",
+    "gm": {
+      "lat": 0,
+      "lon": 0
+    },
+    "key": "UM",
+    "uol": "U.S. Minor Outlying Islands",
+    "gop": {
+      "lat": 0,
+      "lon": 0
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1227",
+    "pr": 1227,
+    "ma": "2022-12-10 02:09:04",
+    "oa": "2022-12-10 02:09:04"
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": 37.09024,
+      "lon": -95.712891
+    },
+    "key": "US",
+    "uol": "United States",
+    "gop": {
+      "lat": 37.09024,
+      "lon": -95.712891
+    },
+    "author_count": 15443571,
+    "institution_count": 32814,
+    "work_count": 22010325,
+    "l": "Python",
+    "nwo": "1228",
+    "pr": 1228,
+    "ma": "2022-12-10 02:10:15",
+    "oa": "2022-12-10 02:10:15"
+  },
+  {
+    "uml": "Uruguay",
+    "gm": {
+      "lat": -32.522779,
+      "lon": -55.765835
+    },
+    "key": "UY",
+    "uol": "Uruguay",
+    "gop": {
+      "lat": -32.522779,
+      "lon": -55.765835
+    },
+    "author_count": 30326,
+    "institution_count": 54,
+    "work_count": 37238,
+    "l": "Python",
+    "nwo": "1229",
+    "pr": 1229,
+    "ma": "2022-12-10 02:09:18",
+    "oa": "2022-12-10 02:09:18"
+  },
+  {
+    "uml": "Uzbekistan",
+    "gm": {
+      "lat": 41.377491,
+      "lon": 64.585262
+    },
+    "key": "UZ",
+    "uol": "Uzbekistan",
+    "gop": {
+      "lat": 41.377491,
+      "lon": 64.585262
+    },
+    "author_count": 48584,
+    "institution_count": 77,
+    "work_count": 37468,
+    "l": "Python",
+    "nwo": "1230",
+    "pr": 1230,
+    "ma": "2022-12-10 02:08:50",
+    "oa": "2022-12-10 02:08:50"
+  },
+  {
+    "uml": "Vatican City",
+    "gm": {
+      "lat": 41.902916,
+      "lon": 12.453389
+    },
+    "key": "VA",
+    "uol": "Vatican City",
+    "gop": {
+      "lat": 41.902916,
+      "lon": 12.453389
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1231",
+    "pr": 1231,
+    "ma": "2022-12-10 02:09:41",
+    "oa": "2022-12-10 02:09:41"
+  },
+  {
+    "uml": "Saint Vincent and the Grenadines",
+    "gm": {
+      "lat": 12.984305,
+      "lon": -61.287228
+    },
+    "key": "VC",
+    "uol": "Saint Vincent and the Grenadines",
+    "gop": {
+      "lat": 12.984305,
+      "lon": -61.287228
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1232",
+    "pr": 1232,
+    "ma": "2022-12-10 02:10:41",
+    "oa": "2022-12-10 02:10:41"
+  },
+  {
+    "uml": "Venezuela",
+    "gm": {
+      "lat": 6.42375,
+      "lon": -66.58973
+    },
+    "key": "VE",
+    "uol": "Venezuela",
+    "gop": {
+      "lat": 6.42375,
+      "lon": -66.58973
+    },
+    "author_count": 77221,
+    "institution_count": 80,
+    "work_count": 88945,
+    "l": "Python",
+    "nwo": "1233",
+    "pr": 1233,
+    "ma": "2022-12-10 02:09:10",
+    "oa": "2022-12-10 02:09:10"
+  },
+  {
+    "uml": "British Virgin Islands",
+    "gm": {
+      "lat": 18.420695,
+      "lon": -64.639968
+    },
+    "key": "VG",
+    "uol": "British Virgin Islands",
+    "gop": {
+      "lat": 18.420695,
+      "lon": -64.639968
+    },
+    "author_count": 25336,
+    "institution_count": 0,
+    "work_count": 13582,
+    "l": "Python",
+    "nwo": "1234",
+    "pr": 1234,
+    "ma": "2022-12-10 02:09:13",
+    "oa": "2022-12-10 02:09:13"
+  },
+  {
+    "uml": "U.S. Virgin Islands",
+    "gm": {
+      "lat": 18.335765,
+      "lon": -64.896335
+    },
+    "key": "VI",
+    "uol": "U.S. Virgin Islands",
+    "gop": {
+      "lat": 18.335765,
+      "lon": -64.896335
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1235",
+    "pr": 1235,
+    "ma": "2022-12-10 02:10:17",
+    "oa": "2022-12-10 02:10:17"
+  },
+  {
+    "uml": "Vietnam",
+    "gm": {
+      "lat": 14.058324,
+      "lon": 108.277199
+    },
+    "key": "VN",
+    "uol": "Vietnam",
+    "gop": {
+      "lat": 14.058324,
+      "lon": 108.277199
+    },
+    "author_count": 106409,
+    "institution_count": 242,
+    "work_count": 101968,
+    "l": "Python",
+    "nwo": "1236",
+    "pr": 1236,
+    "ma": "2022-12-10 02:09:12",
+    "oa": "2022-12-10 02:09:12"
+  },
+  {
+    "uml": "Vanuatu",
+    "gm": {
+      "lat": -15.376706,
+      "lon": 166.959158
+    },
+    "key": "VU",
+    "uol": "Vanuatu",
+    "gop": {
+      "lat": -15.376706,
+      "lon": 166.959158
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1237",
+    "pr": 1237,
+    "ma": "2022-12-10 02:08:15",
+    "oa": "2022-12-10 02:08:15"
+  },
+  {
+    "uml": "Wallis and Futuna",
+    "gm": {
+      "lat": -13.768752,
+      "lon": -177.156097
+    },
+    "key": "WF",
+    "uol": "Wallis and Futuna",
+    "gop": {
+      "lat": -13.768752,
+      "lon": -177.156097
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1238",
+    "pr": 1238,
+    "ma": "2022-12-10 02:10:30",
+    "oa": "2022-12-10 02:10:30"
+  },
+  {
+    "uml": "Samoa",
+    "gm": {
+      "lat": -13.759029,
+      "lon": -172.104629
+    },
+    "key": "WS",
+    "uol": "Samoa",
+    "gop": {
+      "lat": -13.759029,
+      "lon": -172.104629
+    },
+    "author_count": 406,
+    "institution_count": 4,
+    "work_count": 435,
+    "l": "Python",
+    "nwo": "1239",
+    "pr": 1239,
+    "ma": "2022-12-10 02:09:53",
+    "oa": "2022-12-10 02:09:53"
+  },
+  {
+    "uml": "Kosovo",
+    "gm": {
+      "lat": 42.602636,
+      "lon": 20.902977
+    },
+    "key": "XK",
+    "uol": "Kosovo",
+    "gop": {
+      "lat": 42.602636,
+      "lon": 20.902977
+    },
+    "author_count": 6416,
+    "institution_count": 17,
+    "work_count": 6812,
+    "l": "Python",
+    "nwo": "1240",
+    "pr": 1240,
+    "ma": "2022-12-10 02:09:41",
+    "oa": "2022-12-10 02:09:41"
+  },
+  {
+    "uml": "Yemen",
+    "gm": {
+      "lat": 15.552727,
+      "lon": 48.516388
+    },
+    "key": "YE",
+    "uol": "Yemen",
+    "gop": {
+      "lat": 15.552727,
+      "lon": 48.516388
+    },
+    "author_count": 10602,
+    "institution_count": 24,
+    "work_count": 9454,
+    "l": "Python",
+    "nwo": "1241",
+    "pr": 1241,
+    "ma": "2022-12-10 02:08:34",
+    "oa": "2022-12-10 02:08:34"
+  },
+  {
+    "uml": "Mayotte",
+    "gm": {
+      "lat": -12.8275,
+      "lon": 45.166244
+    },
+    "key": "YT",
+    "uol": "Mayotte",
+    "gop": {
+      "lat": -12.8275,
+      "lon": 45.166244
+    },
+    "author_count": 0,
+    "institution_count": 0,
+    "work_count": 0,
+    "l": "Python",
+    "nwo": "1242",
+    "pr": 1242,
+    "ma": "2022-12-10 02:08:47",
+    "oa": "2022-12-10 02:08:47"
+  },
+  {
+    "uml": "South Africa",
+    "gm": {
+      "lat": -30.559482,
+      "lon": 22.937506
+    },
+    "key": "ZA",
+    "uol": "South Africa",
+    "gop": {
+      "lat": -30.559482,
+      "lon": 22.937506
+    },
+    "author_count": 280081,
+    "institution_count": 501,
+    "work_count": 480387,
+    "l": "Python",
+    "nwo": "1243",
+    "pr": 1243,
+    "ma": "2022-12-10 02:10:18",
+    "oa": "2022-12-10 02:10:18"
+  },
+  {
+    "uml": "Zambia",
+    "gm": {
+      "lat": -13.133897,
+      "lon": 27.849332
+    },
+    "key": "ZM",
+    "uol": "Zambia",
+    "gop": {
+      "lat": -13.133897,
+      "lon": 27.849332
+    },
+    "author_count": 12094,
+    "institution_count": 55,
+    "work_count": 13333,
+    "l": "Python",
+    "nwo": "1244",
+    "pr": 1244,
+    "ma": "2022-12-10 02:10:37",
+    "oa": "2022-12-10 02:10:37"
+  },
+  {
+    "uml": "Zimbabwe",
+    "gm": {
+      "lat": -19.015438,
+      "lon": 29.154857
+    },
+    "key": "ZW",
+    "uol": "Zimbabwe",
+    "gop": {
+      "lat": -19.015438,
+      "lon": 29.154857
+    },
+    "author_count": 17900,
+    "institution_count": 69,
+    "work_count": 21012,
+    "l": "Python",
+    "nwo": "1245",
+    "pr": 1245,
+    "ma": "2022-12-10 02:10:51",
+    "oa": "2022-12-10 02:10:51"
   }
 ]
