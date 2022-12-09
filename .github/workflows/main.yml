@@ -11,4 +11,4 @@ jobs:
       run: sudo apt install sshpass
     - name: pull and reload
       run: |
-        sshpass -p ${{secrets.PASSWORD}} ssh -o StrictHostKeyChecking=no ${{secrets.USER}}@${{secrets.IP}} "cd ${DST}; git pull;"
+        sshpass -p ${{secrets.PASSWORD}} ssh -o StrictHostKeyChecking=no ${{secrets.USER}}@${{secrets.IP}} "cd ${{secrets.DST}}; git pull;"
