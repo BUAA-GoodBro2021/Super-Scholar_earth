@@ -52,20 +52,31 @@ export default class Label {
         this.element.style.transform = `translate(${s}px, ${h}px)`
     }
     setInfo(t) {
-        const {user_opened_location: e, user_merged_location: n, language: i, type: r, header: s, body: o, name_with_owner: c, pr_id: h, time: u, url: d} = t
+        const {user_opened_location: e, user_merged_location: n,
+            language: i, type: r, header: s, body: o, name_with_owner: c,
+            work_count: work_count,author_count:author_count,institution_count:institution_count,
+            pr_id: h, time: u, url: d} = t
           , f = `#${h} ${c}`;
+        //   TODO: 更改数据
         if (this.cardHeader == f || this.cardHeader == s)
             return;
         this.cardHeader = f;
         const m = this.shouldShowTime(u) ? this.relativeTime(u) : "";
         null !== d && (this.card.href = d),
-        r === dl ? (this.header.textContent = f,
-        this.body.innerText = `Opened in ${e},\nmerged ${m} in ${n}`,
-        null !== i && this.body.prepend(i, this.colorDotForLanguage(i)),
-        this.showPRIcon()) : r === ul ? (this.header.textContent = f,
-        this.body.innerText = `Opened ${m} in ${e}`,
-        null !== i && this.body.prepend(i, this.colorDotForLanguage(i)),
-        this.showPRIcon()) : r === pl && (this.header.textContent = s,
+        r === dl
+        ? 
+        (this.header.textContent = e,
+        this.body.innerText = `work count: ${work_count}\nauthor count: ${author_count}\ninstitution count: ${institution_count}`,
+        null !== i,
+        this.showPRIcon()) 
+        : r === ul 
+        ? 
+        (this.header.textContent = e,
+        this.body.innerText = `work count: ${work_count}\nauthor count: ${author_count}\ninstitution count: ${institution_count}`,
+        null !== i,
+        this.showPRIcon()) 
+        : r === pl && 
+        (this.header.textContent = e,
         this.body.innerText = o,
         this.showGHIcon())
     }
