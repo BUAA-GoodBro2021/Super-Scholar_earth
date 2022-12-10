@@ -539,7 +539,7 @@ export default class Stage {
         f && (f = f.replace(" ", "T"),
         f = f.includes("Z") ? f : f.concat("-08:00"),
         f = Date.parse(f)),
-        c && h && (this.dataItem.url = `https://scholar.super2021.com/`),
+        c && h && (this.dataItem.url = `https://scholar.super2021.com/search-detail?countrySearch=${e}`),
         this.dataInfo.setInfo({
             user_opened_location: e,
             user_merged_location: n,
